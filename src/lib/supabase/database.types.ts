@@ -2118,8 +2118,10 @@ export type Database = {
           display_name: string | null
           first_season: number | null
           franchise_id: string | null
+          franchise_value: number | null
           headshot_url: string | null
           hof_class: number | null
+          hof_here: boolean | null
           is_hof: boolean | null
           last_season: number | null
           player_id: string | null

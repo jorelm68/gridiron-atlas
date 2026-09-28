@@ -137,7 +137,7 @@ async function fetchCommonsInfo(fileTitles: string[]): Promise<Map<string, Commo
     for (const page of data.query?.pages ?? []) {
       const info = page.imageinfo?.[0];
       if (page.missing || !info) continue;
-      result.set(page.title, {
+      result.set(page.title.replaceAll("_", " "), {
         artist: info.extmetadata?.Artist?.value ? stripHtml(info.extmetadata.Artist.value) : null,
         license: info.extmetadata?.LicenseShortName?.value ?? null,
         descriptionUrl: info.descriptionurl ?? null,
@@ -234,7 +234,7 @@ export const venues: Dataset = {
       const rs = roofSurface.get(v.id);
       const wiki = v.wikipedia ? summaries.get(v.wikipedia) : undefined;
       const wd = v.wikidata ? wikidata.get(v.wikidata) : undefined;
-      const image = wiki?.imageCandidate ? commons.get(`File:${wiki.imageCandidate}`) : undefined;
+      const image = wiki?.imageCandidate ? commons.get(`File:${wiki.imageCandidate.replaceAll("_", " ")}`) : undefined;
       return {
         id: v.id,
         name: v.name,
