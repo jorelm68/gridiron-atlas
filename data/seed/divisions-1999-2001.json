@@ -1,0 +1,8 @@
+[
+  { "division": "AFC East", "teams": ["BUF", "IND", "MIA", "NE", "NYJ"] },
+  { "division": "AFC Central", "teams": ["BAL", "CIN", "CLE", "JAX", "PIT", "TEN"] },
+  { "division": "AFC West", "teams": ["DEN", "KC", "LV", "LAC", "SEA"] },
+  { "division": "NFC East", "teams": ["ARI", "DAL", "NYG", "PHI", "WAS"] },
+  { "division": "NFC Central", "teams": ["CHI", "DET", "GB", "MIN", "TB"] },
+  { "division": "NFC West", "teams": ["ATL", "CAR", "NO", "SF", "LA"] }
+]

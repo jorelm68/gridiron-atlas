@@ -1,0 +1,1898 @@
+[
+  {
+    "id": "ATL00",
+    "name": "Georgia Dome",
+    "names": [
+      {
+        "name": "Georgia Dome",
+        "from": 1999,
+        "to": 2016
+      }
+    ],
+    "kind": "home",
+    "city": "Atlanta",
+    "region": "GA",
+    "country": "USA",
+    "wikipedia": "Georgia Dome",
+    "wikidata": "Q1058931",
+    "lat": 33.7575,
+    "lng": -84.40083,
+    "tenants": [
+      {
+        "franchise": "ATL",
+        "from": 1999,
+        "to": 2016
+      }
+    ]
+  },
+  {
+    "id": "ATL97",
+    "name": "Mercedes-Benz Stadium",
+    "names": [
+      {
+        "name": "Mercedes-Benz Stadium",
+        "from": 2017,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Atlanta",
+    "region": "GA",
+    "country": "USA",
+    "wikipedia": "Mercedes-Benz Stadium",
+    "wikidata": "Q7007552",
+    "lat": 33.75528,
+    "lng": -84.40083,
+    "tenants": [
+      {
+        "franchise": "ATL",
+        "from": 2017,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "BAL00",
+    "name": "M&T Bank Stadium",
+    "names": [
+      {
+        "name": "PSINet Stadium",
+        "from": 1999,
+        "to": 2001
+      },
+      {
+        "name": "Ravens Stadium",
+        "from": 2002,
+        "to": 2002
+      },
+      {
+        "name": "M&T Bank Stadium",
+        "from": 2003,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Baltimore",
+    "region": "MD",
+    "country": "USA",
+    "wikipedia": "M&T Bank Stadium",
+    "wikidata": "Q1141336",
+    "lat": 39.27806,
+    "lng": -76.62278,
+    "tenants": [
+      {
+        "franchise": "BAL",
+        "from": 1999,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "BOS00",
+    "name": "Gillette Stadium",
+    "names": [
+      {
+        "name": "Gillette Stadium",
+        "from": 2002,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Foxborough",
+    "region": "MA",
+    "country": "USA",
+    "wikipedia": "Gillette Stadium",
+    "wikidata": "Q373355",
+    "lat": 42.09094,
+    "lng": -71.26434,
+    "tenants": [
+      {
+        "franchise": "NE",
+        "from": 2002,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "BOS99",
+    "name": "Foxboro Stadium",
+    "names": [
+      {
+        "name": "Foxboro Stadium",
+        "from": 1999,
+        "to": 2001
+      }
+    ],
+    "kind": "home",
+    "city": "Foxborough",
+    "region": "MA",
+    "country": "USA",
+    "wikipedia": "Foxboro Stadium",
+    "wikidata": "Q339850",
+    "lat": 42.0927,
+    "lng": -71.26744,
+    "tenants": [
+      {
+        "franchise": "NE",
+        "from": 1999,
+        "to": 2001
+      }
+    ]
+  },
+  {
+    "id": "BRG00",
+    "name": "Tiger Stadium (LSU)",
+    "names": [
+      {
+        "name": "Tiger Stadium (LSU)",
+        "from": 2005,
+        "to": 2005
+      }
+    ],
+    "kind": "home",
+    "city": "Baton Rouge",
+    "region": "LA",
+    "country": "USA",
+    "wikipedia": "Tiger Stadium (Louisiana)",
+    "wikidata": "Q1594708",
+    "lat": 30.41222,
+    "lng": -91.18389,
+    "tenants": [
+      {
+        "franchise": "NO",
+        "from": 2005,
+        "to": 2005
+      }
+    ]
+  },
+  {
+    "id": "BUF00",
+    "name": "Highmark Stadium",
+    "names": [
+      {
+        "name": "Ralph Wilson Stadium",
+        "from": 1999,
+        "to": 2015
+      },
+      {
+        "name": "New Era Field",
+        "from": 2016,
+        "to": 2025
+      },
+      {
+        "name": "Highmark Stadium",
+        "from": 2026,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Orchard Park",
+    "region": "NY",
+    "country": "USA",
+    "wikipedia": "Highmark Stadium",
+    "wikidata": "Q16251517",
+    "lat": 42.77297,
+    "lng": -78.79219,
+    "tenants": [
+      {
+        "franchise": "BUF",
+        "from": 1999,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "BUF01",
+    "name": "Rogers Centre",
+    "names": [
+      {
+        "name": "Rogers Centre",
+        "from": 2008,
+        "to": 2013
+      }
+    ],
+    "kind": "neutral",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada",
+    "wikipedia": "Rogers Centre",
+    "wikidata": "Q76318",
+    "lat": 43.64139,
+    "lng": -79.38917
+  },
+  {
+    "id": "CAR00",
+    "name": "Bank of America Stadium",
+    "names": [
+      {
+        "name": "Ericsson Stadium",
+        "from": 1999,
+        "to": 2003
+      },
+      {
+        "name": "Bank of America Stadium",
+        "from": 2004,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Charlotte",
+    "region": "NC",
+    "country": "USA",
+    "wikipedia": "Bank of America Stadium",
+    "wikidata": "Q806673",
+    "lat": 35.22583,
+    "lng": -80.85278,
+    "tenants": [
+      {
+        "franchise": "CAR",
+        "from": 1999,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "CHI98",
+    "name": "Soldier Field",
+    "names": [
+      {
+        "name": "Soldier Field",
+        "from": 1999,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Chicago",
+    "region": "IL",
+    "country": "USA",
+    "wikipedia": "Soldier Field",
+    "wikidata": "Q1132413",
+    "lat": 41.8625,
+    "lng": -87.61667,
+    "tenants": [
+      {
+        "franchise": "CHI",
+        "from": 1999,
+        "to": 2001
+      },
+      {
+        "franchise": "CHI",
+        "from": 2003,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "CHI99",
+    "name": "Memorial Stadium (Champaign)",
+    "names": [
+      {
+        "name": "Memorial Stadium (Champaign)",
+        "from": 2002,
+        "to": 2002
+      }
+    ],
+    "kind": "home",
+    "city": "Champaign",
+    "region": "IL",
+    "country": "USA",
+    "wikipedia": "Gies Memorial Stadium",
+    "wikidata": "Q3305514",
+    "lat": 40.09917,
+    "lng": -88.23583,
+    "tenants": [
+      {
+        "franchise": "CHI",
+        "from": 2002,
+        "to": 2002
+      }
+    ]
+  },
+  {
+    "id": "CIN00",
+    "name": "Paycor Stadium",
+    "names": [
+      {
+        "name": "Paul Brown Stadium",
+        "from": 2000,
+        "to": 2021
+      },
+      {
+        "name": "Paycor Stadium",
+        "from": 2022,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Cincinnati",
+    "region": "OH",
+    "country": "USA",
+    "wikipedia": "Paycor Stadium",
+    "wikidata": "Q1632294",
+    "lat": 39.09544,
+    "lng": -84.51604,
+    "tenants": [
+      {
+        "franchise": "CIN",
+        "from": 2000,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "CIN99",
+    "name": "Cinergy Field",
+    "names": [
+      {
+        "name": "Cinergy Field",
+        "from": 1999,
+        "to": 1999
+      }
+    ],
+    "kind": "home",
+    "city": "Cincinnati",
+    "region": "OH",
+    "country": "USA",
+    "wikipedia": "Riverfront Stadium",
+    "wikidata": "Q153824",
+    "lat": 39.09667,
+    "lng": -84.50833,
+    "tenants": [
+      {
+        "franchise": "CIN",
+        "from": 1999,
+        "to": 1999
+      }
+    ]
+  },
+  {
+    "id": "CLE00",
+    "name": "Huntington Bank Field",
+    "names": [
+      {
+        "name": "Cleveland Browns Stadium",
+        "from": 1999,
+        "to": 2012
+      },
+      {
+        "name": "FirstEnergy Stadium",
+        "from": 2013,
+        "to": 2025
+      },
+      {
+        "name": "Huntington Bank Field",
+        "from": 2026,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Cleveland",
+    "region": "OH",
+    "country": "USA",
+    "wikipedia": "Huntington Bank Field",
+    "wikidata": "Q1100756",
+    "lat": 41.50611,
+    "lng": -81.69944,
+    "tenants": [
+      {
+        "franchise": "CLE",
+        "from": 1999,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "DAL00",
+    "name": "AT&T Stadium",
+    "names": [
+      {
+        "name": "Cowboys Stadium",
+        "from": 2009,
+        "to": 2012
+      },
+      {
+        "name": "AT&T Stadium",
+        "from": 2013,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Arlington",
+    "region": "TX",
+    "country": "USA",
+    "wikipedia": "AT&T Stadium",
+    "wikidata": "Q838284",
+    "lat": 32.74769,
+    "lng": -97.09288,
+    "tenants": [
+      {
+        "franchise": "DAL",
+        "from": 2009,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "DAL99",
+    "name": "Texas Stadium",
+    "names": [
+      {
+        "name": "Texas Stadium",
+        "from": 1999,
+        "to": 2008
+      }
+    ],
+    "kind": "home",
+    "city": "Irving",
+    "region": "TX",
+    "country": "USA",
+    "wikipedia": "Texas Stadium",
+    "wikidata": "Q601596",
+    "lat": 32.83977,
+    "lng": -96.91091,
+    "tenants": [
+      {
+        "franchise": "DAL",
+        "from": 1999,
+        "to": 2008
+      }
+    ]
+  },
+  {
+    "id": "DEN00",
+    "name": "Empower Field at Mile High",
+    "names": [
+      {
+        "name": "Invesco Field at Mile High",
+        "from": 2001,
+        "to": 2010
+      },
+      {
+        "name": "Sports Authority Field at Mile High",
+        "from": 2011,
+        "to": 2018
+      },
+      {
+        "name": "Empower Field at Mile High",
+        "from": 2019,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Denver",
+    "region": "CO",
+    "country": "USA",
+    "wikipedia": "Empower Field at Mile High",
+    "wikidata": "Q1046135",
+    "lat": 39.74389,
+    "lng": -105.02,
+    "tenants": [
+      {
+        "franchise": "DEN",
+        "from": 2001,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "DEN99",
+    "name": "Mile High Stadium",
+    "names": [
+      {
+        "name": "Mile High Stadium",
+        "from": 1999,
+        "to": 2000
+      }
+    ],
+    "kind": "home",
+    "city": "Denver",
+    "region": "CO",
+    "country": "USA",
+    "wikipedia": "Mile High Stadium",
+    "wikidata": "Q1934586",
+    "lat": 39.74611,
+    "lng": -105.02167,
+    "tenants": [
+      {
+        "franchise": "DEN",
+        "from": 1999,
+        "to": 2000
+      }
+    ]
+  },
+  {
+    "id": "DET00",
+    "name": "Ford Field",
+    "names": [
+      {
+        "name": "Ford Field",
+        "from": 2002,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Detroit",
+    "region": "MI",
+    "country": "USA",
+    "wikipedia": "Ford Field",
+    "wikidata": "Q1142586",
+    "lat": 42.34,
+    "lng": -83.04556,
+    "tenants": [
+      {
+        "franchise": "DET",
+        "from": 2002,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "DET99",
+    "name": "Pontiac Silverdome",
+    "names": [
+      {
+        "name": "Pontiac Silverdome",
+        "from": 1999,
+        "to": 2001
+      }
+    ],
+    "kind": "home",
+    "city": "Pontiac",
+    "region": "MI",
+    "country": "USA",
+    "wikipedia": "Pontiac Silverdome",
+    "wikidata": "Q211662",
+    "lat": 42.64583,
+    "lng": -83.255,
+    "tenants": [
+      {
+        "franchise": "DET",
+        "from": 1999,
+        "to": 2001
+      }
+    ]
+  },
+  {
+    "id": "FRA00",
+    "name": "Deutsche Bank Park",
+    "names": [
+      {
+        "name": "Deutsche Bank Park",
+        "from": 2023,
+        "to": 2023
+      }
+    ],
+    "kind": "neutral",
+    "city": "Frankfurt",
+    "region": "Hesse",
+    "country": "Germany",
+    "wikipedia": "Waldstadion (Frankfurt)",
+    "wikidata": "Q157273",
+    "lat": 50.06861,
+    "lng": 8.64528
+  },
+  {
+    "id": "GER00",
+    "name": "Allianz Arena",
+    "names": [
+      {
+        "name": "Allianz Arena",
+        "from": 2022,
+        "to": 2024
+      }
+    ],
+    "kind": "neutral",
+    "city": "Munich",
+    "region": "Bavaria",
+    "country": "Germany",
+    "wikipedia": "Allianz Arena",
+    "wikidata": "Q127429",
+    "lat": 48.21878,
+    "lng": 11.62475
+  },
+  {
+    "id": "GNB00",
+    "name": "Lambeau Field",
+    "names": [
+      {
+        "name": "Lambeau Field",
+        "from": 1999,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Green Bay",
+    "region": "WI",
+    "country": "USA",
+    "wikipedia": "Lambeau Field",
+    "wikidata": "Q860790",
+    "lat": 44.50139,
+    "lng": -88.06222,
+    "tenants": [
+      {
+        "franchise": "GB",
+        "from": 1999,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "HOU00",
+    "name": "NRG Stadium",
+    "names": [
+      {
+        "name": "Reliant Stadium",
+        "from": 2002,
+        "to": 2026
+      },
+      {
+        "name": "NRG Stadium",
+        "from": 2014,
+        "to": 2025
+      }
+    ],
+    "kind": "home",
+    "city": "Houston",
+    "region": "TX",
+    "country": "USA",
+    "wikipedia": "Reliant Stadium",
+    "wikidata": "Q1058864",
+    "lat": 29.68472,
+    "lng": -95.41083,
+    "tenants": [
+      {
+        "franchise": "HOU",
+        "from": 2002,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "IND00",
+    "name": "Lucas Oil Stadium",
+    "names": [
+      {
+        "name": "Lucas Oil Stadium",
+        "from": 2008,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Indianapolis",
+    "region": "IN",
+    "country": "USA",
+    "wikipedia": "Lucas Oil Stadium",
+    "wikidata": "Q867160",
+    "lat": 39.76006,
+    "lng": -86.16381,
+    "tenants": [
+      {
+        "franchise": "IND",
+        "from": 2008,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "IND99",
+    "name": "RCA Dome",
+    "names": [
+      {
+        "name": "RCA Dome",
+        "from": 1999,
+        "to": 2007
+      }
+    ],
+    "kind": "home",
+    "city": "Indianapolis",
+    "region": "IN",
+    "country": "USA",
+    "wikipedia": "RCA Dome",
+    "wikidata": "Q2092780",
+    "lat": 39.76366,
+    "lng": -86.16332,
+    "tenants": [
+      {
+        "franchise": "IND",
+        "from": 1999,
+        "to": 2007
+      }
+    ]
+  },
+  {
+    "id": "JAX00",
+    "name": "EverBank Stadium",
+    "names": [
+      {
+        "name": "Alltel Stadium",
+        "from": 1999,
+        "to": 2006
+      },
+      {
+        "name": "Jacksonville Municipal Stadium",
+        "from": 2007,
+        "to": 2009
+      },
+      {
+        "name": "EverBank Field",
+        "from": 2010,
+        "to": 2017
+      },
+      {
+        "name": "TIAA Bank Stadium",
+        "from": 2018,
+        "to": 2025
+      },
+      {
+        "name": "EverBank Stadium",
+        "from": 2026,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Jacksonville",
+    "region": "FL",
+    "country": "USA",
+    "wikipedia": "EverBank Stadium",
+    "wikidata": "Q635117",
+    "lat": 30.32389,
+    "lng": -81.6375,
+    "tenants": [
+      {
+        "franchise": "JAX",
+        "from": 1999,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "KAN00",
+    "name": "GEHA Field at Arrowhead Stadium",
+    "names": [
+      {
+        "name": "Arrowhead Stadium",
+        "from": 1999,
+        "to": 2020
+      },
+      {
+        "name": "GEHA Field at Arrowhead Stadium",
+        "from": 2021,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Kansas City",
+    "region": "MO",
+    "country": "USA",
+    "wikipedia": "Arrowhead Stadium",
+    "wikidata": "Q544553",
+    "lat": 39.04889,
+    "lng": -94.48389,
+    "tenants": [
+      {
+        "franchise": "KC",
+        "from": 1999,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "LAX01",
+    "name": "SoFi Stadium",
+    "names": [
+      {
+        "name": "SoFi Stadium",
+        "from": 2020,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Inglewood",
+    "region": "CA",
+    "country": "USA",
+    "wikipedia": "SoFi Stadium",
+    "wikidata": "Q19520501",
+    "lat": 33.9504,
+    "lng": -118.338,
+    "tenants": [
+      {
+        "franchise": "LA",
+        "from": 2020,
+        "to": 2026
+      },
+      {
+        "franchise": "LAC",
+        "from": 2020,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "LAX97",
+    "name": "StubHub Center",
+    "names": [
+      {
+        "name": "StubHub Center",
+        "from": 2017,
+        "to": 2019
+      }
+    ],
+    "kind": "home",
+    "city": "Carson",
+    "region": "CA",
+    "country": "USA",
+    "wikipedia": "Dignity Health Sports Park",
+    "wikidata": "Q200684",
+    "lat": 33.86444,
+    "lng": -118.26111,
+    "tenants": [
+      {
+        "franchise": "LAC",
+        "from": 2017,
+        "to": 2019
+      }
+    ]
+  },
+  {
+    "id": "LAX99",
+    "name": "Los Angeles Memorial Coliseum",
+    "names": [
+      {
+        "name": "Los Angeles Memorial Coliseum",
+        "from": 2016,
+        "to": 2019
+      }
+    ],
+    "kind": "home",
+    "city": "Los Angeles",
+    "region": "CA",
+    "country": "USA",
+    "wikipedia": "Los Angeles Memorial Coliseum",
+    "wikidata": "Q849784",
+    "lat": 34.01417,
+    "lng": -118.28778,
+    "tenants": [
+      {
+        "franchise": "LA",
+        "from": 2016,
+        "to": 2019
+      }
+    ]
+  },
+  {
+    "id": "LON00",
+    "name": "Wembley Stadium",
+    "names": [
+      {
+        "name": "Wembley Stadium",
+        "from": 2007,
+        "to": 2026
+      }
+    ],
+    "kind": "neutral",
+    "city": "London",
+    "region": "England",
+    "country": "United Kingdom",
+    "wikipedia": "Wembley Stadium",
+    "wikidata": "Q128468",
+    "lat": 51.55556,
+    "lng": -0.27944
+  },
+  {
+    "id": "LON01",
+    "name": "Twickenham Stadium",
+    "names": [
+      {
+        "name": "Twickenham Stadium",
+        "from": 2016,
+        "to": 2017
+      }
+    ],
+    "kind": "neutral",
+    "city": "London",
+    "region": "England",
+    "country": "United Kingdom",
+    "wikipedia": "Twickenham Stadium",
+    "wikidata": "Q209725",
+    "lat": 51.45611,
+    "lng": -0.34167
+  },
+  {
+    "id": "LON02",
+    "name": "Tottenham Hotspur Stadium",
+    "names": [
+      {
+        "name": "Tottenham Stadium",
+        "from": 2019,
+        "to": 2024
+      },
+      {
+        "name": "Tottenham Hotspur Stadium",
+        "from": 2026,
+        "to": 2026
+      }
+    ],
+    "kind": "neutral",
+    "city": "London",
+    "region": "England",
+    "country": "United Kingdom",
+    "wikipedia": "Tottenham Hotspur Stadium",
+    "wikidata": "Q55074091",
+    "lat": 51.60444,
+    "lng": -0.06639
+  },
+  {
+    "id": "MAD01",
+    "name": "Bernabeu",
+    "names": [
+      {
+        "name": "Bernabeu",
+        "from": 2026,
+        "to": 2026
+      }
+    ],
+    "kind": "neutral",
+    "city": "Madrid",
+    "region": "Madrid",
+    "country": "Spain",
+    "wikipedia": "Bernabéu (stadium)",
+    "wikidata": "Q164027",
+    "lat": 40.45306,
+    "lng": -3.68835
+  },
+  {
+    "id": "MEL00",
+    "name": "Melbourne Cricket Ground",
+    "names": [
+      {
+        "name": "Melbourne Cricket Ground",
+        "from": 2026,
+        "to": 2026
+      }
+    ],
+    "kind": "neutral",
+    "city": "Melbourne",
+    "region": "VIC",
+    "country": "Australia",
+    "wikipedia": "Melbourne Cricket Ground",
+    "wikidata": "Q330136",
+    "lat": -37.82,
+    "lng": 144.98333
+  },
+  {
+    "id": "MEX00",
+    "name": "Estadio Banorte",
+    "names": [
+      {
+        "name": "Azteca Stadium",
+        "from": 2005,
+        "to": 2022
+      },
+      {
+        "name": "Estadio Banorte",
+        "from": 2026,
+        "to": 2026
+      }
+    ],
+    "kind": "neutral",
+    "city": "Mexico City",
+    "region": "CDMX",
+    "country": "Mexico",
+    "wikipedia": "Estadio Azteca",
+    "wikidata": "Q320454",
+    "lat": 19.30306,
+    "lng": -99.15056
+  },
+  {
+    "id": "MIA00",
+    "name": "Hard Rock Stadium",
+    "names": [
+      {
+        "name": "Pro Player Stadium",
+        "from": 1999,
+        "to": 2004
+      },
+      {
+        "name": "Dolphin Stadium",
+        "from": 2005,
+        "to": 2009
+      },
+      {
+        "name": "Sun Life Stadium",
+        "from": 2010,
+        "to": 2015
+      },
+      {
+        "name": "Hard Rock Stadium",
+        "from": 2016,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Miami Gardens",
+    "region": "FL",
+    "country": "USA",
+    "wikipedia": "Hard Rock Stadium",
+    "wikidata": "Q864339",
+    "lat": 25.95806,
+    "lng": -80.23889,
+    "tenants": [
+      {
+        "franchise": "MIA",
+        "from": 1999,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "MIN00",
+    "name": "Mall of America Field",
+    "names": [
+      {
+        "name": "Hubert H. Humphrey Metrodome",
+        "from": 1999,
+        "to": 2009
+      },
+      {
+        "name": "Mall of America Field",
+        "from": 2010,
+        "to": 2013
+      }
+    ],
+    "kind": "home",
+    "city": "Minneapolis",
+    "region": "MN",
+    "country": "USA",
+    "wikipedia": "Hubert H. Humphrey Metrodome",
+    "wikidata": "Q1072186",
+    "lat": 44.97389,
+    "lng": -93.25806,
+    "tenants": [
+      {
+        "franchise": "MIN",
+        "from": 1999,
+        "to": 2013
+      }
+    ]
+  },
+  {
+    "id": "MIN01",
+    "name": "U.S. Bank Stadium",
+    "names": [
+      {
+        "name": "U.S. Bank Stadium",
+        "from": 2016,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Minneapolis",
+    "region": "MN",
+    "country": "USA",
+    "wikipedia": "U.S. Bank Stadium",
+    "wikidata": "Q7929512",
+    "lat": 44.97389,
+    "lng": -93.25806,
+    "tenants": [
+      {
+        "franchise": "MIN",
+        "from": 2016,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "MIN98",
+    "name": "TCF Bank Stadium",
+    "names": [
+      {
+        "name": "TCF Bank Stadium",
+        "from": 2010,
+        "to": 2015
+      }
+    ],
+    "kind": "home",
+    "city": "Minneapolis",
+    "region": "MN",
+    "country": "USA",
+    "wikipedia": "Huntington Bank Stadium",
+    "wikidata": "Q3512039",
+    "lat": 44.976,
+    "lng": -93.225,
+    "tenants": [
+      {
+        "franchise": "MIN",
+        "from": 2014,
+        "to": 2015
+      }
+    ]
+  },
+  {
+    "id": "MUN01",
+    "name": "FC Bayern Munich Stadium",
+    "names": [
+      {
+        "name": "FC Bayern Munich Stadium",
+        "from": 2026,
+        "to": 2026
+      }
+    ],
+    "kind": "neutral",
+    "city": "Munich",
+    "region": "Bavaria",
+    "country": "Germany",
+    "wikipedia": "Allianz Arena",
+    "wikidata": "Q127429",
+    "lat": 48.21878,
+    "lng": 11.62475
+  },
+  {
+    "id": "NAS00",
+    "name": "Nissan Stadium",
+    "names": [
+      {
+        "name": "Adelphia Coliseum",
+        "from": 1999,
+        "to": 2001
+      },
+      {
+        "name": "The Coliseum",
+        "from": 2002,
+        "to": 2005
+      },
+      {
+        "name": "LP Field",
+        "from": 2006,
+        "to": 2014
+      },
+      {
+        "name": "Nissan Stadium",
+        "from": 2015,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Nashville",
+    "region": "TN",
+    "country": "USA",
+    "wikipedia": "Nissan Stadium (Nashville)",
+    "wikidata": "Q21164193",
+    "lat": 36.16639,
+    "lng": -86.77139,
+    "tenants": [
+      {
+        "franchise": "TEN",
+        "from": 1999,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "NOR00",
+    "name": "Caesars Superdome",
+    "names": [
+      {
+        "name": "Louisiana Superdome",
+        "from": 1999,
+        "to": 2010
+      },
+      {
+        "name": "Mercedes-Benz Superdome",
+        "from": 2011,
+        "to": 2025
+      },
+      {
+        "name": "Caesars Superdome",
+        "from": 2026,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "New Orleans",
+    "region": "LA",
+    "country": "USA",
+    "wikipedia": "Caesars Superdome",
+    "wikidata": "Q756452",
+    "lat": 29.95083,
+    "lng": -90.08111,
+    "tenants": [
+      {
+        "franchise": "NO",
+        "from": 1999,
+        "to": 2004
+      },
+      {
+        "franchise": "NO",
+        "from": 2006,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "NYC00",
+    "name": "Giants Stadium",
+    "names": [
+      {
+        "name": "Giants Stadium",
+        "from": 1999,
+        "to": 2009
+      }
+    ],
+    "kind": "home",
+    "city": "East Rutherford",
+    "region": "NJ",
+    "country": "USA",
+    "wikipedia": "Giants Stadium",
+    "wikidata": "Q375365",
+    "lat": 40.81222,
+    "lng": -74.07694,
+    "tenants": [
+      {
+        "franchise": "NYG",
+        "from": 1999,
+        "to": 2009
+      },
+      {
+        "franchise": "NYJ",
+        "from": 1999,
+        "to": 2009
+      }
+    ]
+  },
+  {
+    "id": "NYC01",
+    "name": "MetLife Stadium",
+    "names": [
+      {
+        "name": "New Meadowlands Stadium",
+        "from": 2010,
+        "to": 2010
+      },
+      {
+        "name": "MetLife Stadium",
+        "from": 2011,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "East Rutherford",
+    "region": "NJ",
+    "country": "USA",
+    "wikipedia": "MetLife Stadium",
+    "wikidata": "Q10862290",
+    "lat": 40.81361,
+    "lng": -74.07444,
+    "tenants": [
+      {
+        "franchise": "NYG",
+        "from": 2010,
+        "to": 2026
+      },
+      {
+        "franchise": "NYJ",
+        "from": 2010,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "OAK00",
+    "name": "Ring Central Coliseum",
+    "names": [
+      {
+        "name": "Network Associates Coliseum",
+        "from": 1999,
+        "to": 2003
+      },
+      {
+        "name": "McAfee Coliseum",
+        "from": 2004,
+        "to": 2007
+      },
+      {
+        "name": "Oakland-Alameda County Coliseum",
+        "from": 2008,
+        "to": 2018
+      },
+      {
+        "name": "O.co Coliseum",
+        "from": 2011,
+        "to": 2015
+      },
+      {
+        "name": "Ring Central Coliseum",
+        "from": 2019,
+        "to": 2019
+      }
+    ],
+    "kind": "home",
+    "city": "Oakland",
+    "region": "CA",
+    "country": "USA",
+    "wikipedia": "Oakland Coliseum",
+    "wikidata": "Q1147732",
+    "lat": 37.75167,
+    "lng": -122.20056,
+    "tenants": [
+      {
+        "franchise": "LV",
+        "from": 1999,
+        "to": 2019
+      }
+    ]
+  },
+  {
+    "id": "PAR00",
+    "name": "Stade de France",
+    "names": [
+      {
+        "name": "Stade de France",
+        "from": 2026,
+        "to": 2026
+      }
+    ],
+    "kind": "neutral",
+    "city": "Saint-Denis",
+    "region": "Île-de-France",
+    "country": "France",
+    "wikipedia": "Stade de France",
+    "wikidata": "Q13205",
+    "lat": 48.92444,
+    "lng": 2.36
+  },
+  {
+    "id": "PHI00",
+    "name": "Lincoln Financial Field",
+    "names": [
+      {
+        "name": "Lincoln Financial Field",
+        "from": 2003,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Philadelphia",
+    "region": "PA",
+    "country": "USA",
+    "wikipedia": "Lincoln Financial Field",
+    "wikidata": "Q1052370",
+    "lat": 39.90083,
+    "lng": -75.1675,
+    "tenants": [
+      {
+        "franchise": "PHI",
+        "from": 2003,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "PHI99",
+    "name": "Veterans Stadium",
+    "names": [
+      {
+        "name": "Veterans Stadium",
+        "from": 1999,
+        "to": 2002
+      }
+    ],
+    "kind": "home",
+    "city": "Philadelphia",
+    "region": "PA",
+    "country": "USA",
+    "wikipedia": "Veterans Stadium",
+    "wikidata": "Q1545870",
+    "lat": 39.90667,
+    "lng": -75.17111,
+    "tenants": [
+      {
+        "franchise": "PHI",
+        "from": 1999,
+        "to": 2002
+      }
+    ]
+  },
+  {
+    "id": "PHO00",
+    "name": "State Farm Stadium",
+    "names": [
+      {
+        "name": "University of Phoenix Stadium",
+        "from": 2006,
+        "to": 2017
+      },
+      {
+        "name": "State Farm Stadium",
+        "from": 2018,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Glendale",
+    "region": "AZ",
+    "country": "USA",
+    "wikipedia": "State Farm Stadium",
+    "wikidata": "Q756433",
+    "lat": 33.5275,
+    "lng": -112.2625,
+    "tenants": [
+      {
+        "franchise": "ARI",
+        "from": 2006,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "PHO99",
+    "name": "Sun Devil Stadium",
+    "names": [
+      {
+        "name": "Sun Devil Stadium",
+        "from": 1999,
+        "to": 2005
+      }
+    ],
+    "kind": "home",
+    "city": "Tempe",
+    "region": "AZ",
+    "country": "USA",
+    "wikipedia": "Mountain America Stadium",
+    "wikidata": "Q1849318",
+    "lat": 33.42639,
+    "lng": -111.9325,
+    "tenants": [
+      {
+        "franchise": "ARI",
+        "from": 1999,
+        "to": 2005
+      }
+    ]
+  },
+  {
+    "id": "PIT00",
+    "name": "Acrisure Stadium",
+    "names": [
+      {
+        "name": "Heinz Field",
+        "from": 2001,
+        "to": 2021
+      },
+      {
+        "name": "Acrisure Stadium",
+        "from": 2022,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Pittsburgh",
+    "region": "PA",
+    "country": "USA",
+    "wikipedia": "Acrisure Stadium",
+    "wikidata": "Q1067148",
+    "lat": 40.44667,
+    "lng": -80.01583,
+    "tenants": [
+      {
+        "franchise": "PIT",
+        "from": 2001,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "PIT99",
+    "name": "Three Rivers Stadium",
+    "names": [
+      {
+        "name": "Three Rivers Stadium",
+        "from": 1999,
+        "to": 2000
+      }
+    ],
+    "kind": "home",
+    "city": "Pittsburgh",
+    "region": "PA",
+    "country": "USA",
+    "wikipedia": "Three Rivers Stadium",
+    "wikidata": "Q1189339",
+    "lat": 40.44667,
+    "lng": -80.01278,
+    "tenants": [
+      {
+        "franchise": "PIT",
+        "from": 1999,
+        "to": 2000
+      }
+    ]
+  },
+  {
+    "id": "RIO00",
+    "name": "Maracana Stadium",
+    "names": [
+      {
+        "name": "Maracana Stadium",
+        "from": 2026,
+        "to": 2026
+      }
+    ],
+    "kind": "neutral",
+    "city": "Rio de Janeiro",
+    "region": "RJ",
+    "country": "Brazil",
+    "wikipedia": "Maracanã Stadium",
+    "wikidata": "Q155174",
+    "lat": -22.9122,
+    "lng": -43.2303
+  },
+  {
+    "id": "SAN00",
+    "name": "Alamo Dome",
+    "names": [
+      {
+        "name": "Alamo Dome",
+        "from": 2005,
+        "to": 2005
+      }
+    ],
+    "kind": "home",
+    "city": "San Antonio",
+    "region": "TX",
+    "country": "USA",
+    "wikipedia": "Alamodome",
+    "wikidata": "Q1618347",
+    "lat": 29.41694,
+    "lng": -98.47889,
+    "tenants": [
+      {
+        "franchise": "NO",
+        "from": 2005,
+        "to": 2005
+      }
+    ]
+  },
+  {
+    "id": "SAO00",
+    "name": "Arena Corinthians",
+    "names": [
+      {
+        "name": "Arena Corinthians",
+        "from": 2024,
+        "to": 2024
+      }
+    ],
+    "kind": "neutral",
+    "city": "São Paulo",
+    "region": "SP",
+    "country": "Brazil",
+    "wikipedia": "Arena Corinthians",
+    "wikidata": "Q1362236",
+    "lat": -23.54556,
+    "lng": -46.474
+  },
+  {
+    "id": "SDG00",
+    "name": "Qualcomm Stadium",
+    "names": [
+      {
+        "name": "Qualcomm Stadium",
+        "from": 1999,
+        "to": 2016
+      }
+    ],
+    "kind": "home",
+    "city": "San Diego",
+    "region": "CA",
+    "country": "USA",
+    "wikipedia": "San Diego Stadium",
+    "wikidata": "Q956072",
+    "lat": 32.78306,
+    "lng": -117.11944,
+    "tenants": [
+      {
+        "franchise": "LAC",
+        "from": 1999,
+        "to": 2016
+      }
+    ]
+  },
+  {
+    "id": "SEA00",
+    "name": "Lumen Field",
+    "names": [
+      {
+        "name": "Seahawks Stadium",
+        "from": 2002,
+        "to": 2003
+      },
+      {
+        "name": "Qwest Field",
+        "from": 2004,
+        "to": 2010
+      },
+      {
+        "name": "CenturyLink Field",
+        "from": 2011,
+        "to": 2020
+      },
+      {
+        "name": "Lumen Field",
+        "from": 2020,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Seattle",
+    "region": "WA",
+    "country": "USA",
+    "wikipedia": "Lumen Field",
+    "wikidata": "Q612736",
+    "lat": 47.5952,
+    "lng": -122.3316,
+    "tenants": [
+      {
+        "franchise": "SEA",
+        "from": 2002,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "SEA98",
+    "name": "Seattle Kingdome",
+    "names": [
+      {
+        "name": "Seattle Kingdome",
+        "from": 1999,
+        "to": 1999
+      }
+    ],
+    "kind": "home",
+    "city": "Seattle",
+    "region": "WA",
+    "country": "USA",
+    "wikipedia": "Kingdome",
+    "wikidata": "Q990430",
+    "lat": 47.59528,
+    "lng": -122.33139,
+    "tenants": [
+      {
+        "franchise": "SEA",
+        "from": 1999,
+        "to": 1999
+      }
+    ]
+  },
+  {
+    "id": "SEA99",
+    "name": "Husky Stadium",
+    "names": [
+      {
+        "name": "Husky Stadium",
+        "from": 2000,
+        "to": 2001
+      }
+    ],
+    "kind": "home",
+    "city": "Seattle",
+    "region": "WA",
+    "country": "USA",
+    "wikipedia": "Husky Stadium",
+    "wikidata": "Q1136463",
+    "lat": 47.6503,
+    "lng": -122.3016,
+    "tenants": [
+      {
+        "franchise": "SEA",
+        "from": 2000,
+        "to": 2001
+      }
+    ]
+  },
+  {
+    "id": "SFO00",
+    "name": "Candlestick Park",
+    "names": [
+      {
+        "name": "3Com Park",
+        "from": 1999,
+        "to": 2004
+      },
+      {
+        "name": "Monster Park",
+        "from": 2005,
+        "to": 2007
+      },
+      {
+        "name": "Candlestick Park",
+        "from": 2008,
+        "to": 2013
+      }
+    ],
+    "kind": "home",
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "USA",
+    "wikipedia": "Candlestick Park",
+    "wikidata": "Q1033076",
+    "lat": 37.71361,
+    "lng": -122.38611,
+    "tenants": [
+      {
+        "franchise": "SF",
+        "from": 1999,
+        "to": 2013
+      }
+    ]
+  },
+  {
+    "id": "SFO01",
+    "name": "Levi's Stadium",
+    "names": [
+      {
+        "name": "Levi's Stadium",
+        "from": 2014,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Santa Clara",
+    "region": "CA",
+    "country": "USA",
+    "wikipedia": "Levi's Stadium",
+    "wikidata": "Q7419343",
+    "lat": 37.4034,
+    "lng": -121.97,
+    "tenants": [
+      {
+        "franchise": "SF",
+        "from": 2014,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "STL00",
+    "name": "Edward Jones Dome",
+    "names": [
+      {
+        "name": "TWA Dome",
+        "from": 1999,
+        "to": 2000
+      },
+      {
+        "name": "Dome at America's Center",
+        "from": 2001,
+        "to": 2001
+      },
+      {
+        "name": "Edward Jones Dome",
+        "from": 2002,
+        "to": 2015
+      }
+    ],
+    "kind": "home",
+    "city": "St. Louis",
+    "region": "MO",
+    "country": "USA",
+    "wikipedia": "The Dome at America's Center",
+    "wikidata": "Q1292739",
+    "lat": 38.63278,
+    "lng": -90.18861,
+    "tenants": [
+      {
+        "franchise": "LA",
+        "from": 1999,
+        "to": 2015
+      }
+    ]
+  },
+  {
+    "id": "TAM00",
+    "name": "Raymond James Stadium",
+    "names": [
+      {
+        "name": "Raymond James Stadium",
+        "from": 1999,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Tampa",
+    "region": "FL",
+    "country": "USA",
+    "wikipedia": "Raymond James Stadium",
+    "wikidata": "Q1141343",
+    "lat": 27.97583,
+    "lng": -82.50333,
+    "tenants": [
+      {
+        "franchise": "TB",
+        "from": 1999,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "VEG00",
+    "name": "Allegiant Stadium",
+    "names": [
+      {
+        "name": "Allegiant Stadium",
+        "from": 2020,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Paradise",
+    "region": "NV",
+    "country": "USA",
+    "wikipedia": "Allegiant Stadium",
+    "wikidata": "Q27768421",
+    "lat": 36.09078,
+    "lng": -115.183,
+    "tenants": [
+      {
+        "franchise": "LV",
+        "from": 2020,
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "id": "WAS00",
+    "name": "Northwest Stadium",
+    "names": [
+      {
+        "name": "Jack Kent Cooke Stadium",
+        "from": 1999,
+        "to": 1999
+      },
+      {
+        "name": "FedExField",
+        "from": 2000,
+        "to": 2025
+      },
+      {
+        "name": "Northwest Stadium",
+        "from": 2026,
+        "to": 2026
+      }
+    ],
+    "kind": "home",
+    "city": "Landover",
+    "region": "MD",
+    "country": "USA",
+    "wikipedia": "Northwest Stadium",
+    "wikidata": "Q583085",
+    "lat": 38.90778,
+    "lng": -76.86444,
+    "tenants": [
+      {
+        "franchise": "WAS",
+        "from": 1999,
+        "to": 2026
+      }
+    ]
+  }
+]

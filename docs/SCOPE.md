@@ -80,7 +80,7 @@ and why notable players matter.
 40. Dark "broadcast" base with team-adaptive accents; light mode available. Respect `prefers-reduced-motion`.
 41. Guided tour: auto first-visit walkthrough, per-page "?" mini-tours, and a Tour Center with chapters.
     Every feature ships with its tour steps (stable `data-tour` attributes) and a browser test that walks the tour.
-42. The tour follows one example team through every feature (user has not named a favorite — ask before Phase 1).
+42. The tour follows the **Detroit Lions** through every feature.
 
 ### Engineering
 43. Model-tier subagents in `.claude/agents/` with routing rules in CLAUDE.md.

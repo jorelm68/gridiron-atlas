@@ -1,0 +1,8 @@
+[
+  {
+    "game_id": "2026_05_PHI_JAX",
+    "stadium_id": "LON02",
+    "location": "Neutral",
+    "reason": "nflverse tags the Jaguars' 2026 London game with their Jacksonville stadium_id (JAX00) and location 'Home', even though the stadium name field already reads 'Tottenham Hotspur Stadium'. Other London games at that venue use stadium_id LON02 and location 'Neutral'."
+  }
+]

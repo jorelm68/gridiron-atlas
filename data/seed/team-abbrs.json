@@ -1,0 +1,1066 @@
+[
+  {
+    "abbr": "CHC",
+    "from": 1920,
+    "to": 1943,
+    "franchise": "ARI",
+    "name": "Chicago Cardinals"
+  },
+  {
+    "abbr": "C-P",
+    "from": 1944,
+    "to": 1944,
+    "franchise": null,
+    "name": "Card-Pitt (Chicago Cardinals-Pittsburgh Steelers)"
+  },
+  {
+    "abbr": "CHC",
+    "from": 1945,
+    "to": 1959,
+    "franchise": "ARI",
+    "name": "Chicago Cardinals"
+  },
+  {
+    "abbr": "STL",
+    "from": 1960,
+    "to": 1987,
+    "franchise": "ARI",
+    "name": "St. Louis Cardinals"
+  },
+  {
+    "abbr": "PHO",
+    "from": 1988,
+    "to": 1993,
+    "franchise": "ARI",
+    "name": "Phoenix Cardinals"
+  },
+  {
+    "abbr": "ARI",
+    "from": 1994,
+    "to": 2026,
+    "franchise": "ARI",
+    "name": "Arizona Cardinals"
+  },
+  {
+    "abbr": "ARZ",
+    "from": 2002,
+    "to": 2015,
+    "franchise": "ARI",
+    "name": "Arizona Cardinals"
+  },
+  {
+    "abbr": "ATL",
+    "from": 1966,
+    "to": 2026,
+    "franchise": "ATL",
+    "name": "Atlanta Falcons"
+  },
+  {
+    "abbr": "BAL",
+    "from": 1947,
+    "to": 1950,
+    "franchise": null,
+    "name": "Baltimore Colts (1947-1950, AAFC/NFL, unrelated to the Indianapolis Colts)"
+  },
+  {
+    "abbr": "BAL",
+    "from": 1953,
+    "to": 1983,
+    "franchise": "IND",
+    "name": "Baltimore Colts"
+  },
+  {
+    "abbr": "BAL",
+    "from": 1996,
+    "to": 2026,
+    "franchise": "BAL",
+    "name": "Baltimore Ravens"
+  },
+  {
+    "abbr": "BLT",
+    "from": 2002,
+    "to": 2015,
+    "franchise": "BAL",
+    "name": "Baltimore Ravens"
+  },
+  {
+    "abbr": "BUF",
+    "from": 1920,
+    "to": 1927,
+    "franchise": null,
+    "name": "Buffalo All-Americans/Bisons"
+  },
+  {
+    "abbr": "BUF",
+    "from": 1929,
+    "to": 1929,
+    "franchise": null,
+    "name": "Buffalo Bisons"
+  },
+  {
+    "abbr": "BUF",
+    "from": 1946,
+    "to": 1949,
+    "franchise": null,
+    "name": "Buffalo Bills (AAFC)"
+  },
+  {
+    "abbr": "BUF",
+    "from": 1960,
+    "to": 2026,
+    "franchise": "BUF",
+    "name": "Buffalo Bills"
+  },
+  {
+    "abbr": "CAR",
+    "from": 1995,
+    "to": 2026,
+    "franchise": "CAR",
+    "name": "Carolina Panthers"
+  },
+  {
+    "abbr": "DEC",
+    "from": 1920,
+    "to": 1920,
+    "franchise": "CHI",
+    "name": "Decatur Staleys"
+  },
+  {
+    "abbr": "CHS",
+    "from": 1921,
+    "to": 1921,
+    "franchise": "CHI",
+    "name": "Chicago Staleys"
+  },
+  {
+    "abbr": "CHB",
+    "from": 1922,
+    "to": 1959,
+    "franchise": "CHI",
+    "name": "Chicago Bears"
+  },
+  {
+    "abbr": "CHI",
+    "from": 1960,
+    "to": 2026,
+    "franchise": "CHI",
+    "name": "Chicago Bears"
+  },
+  {
+    "abbr": "CIN",
+    "from": 1921,
+    "to": 1921,
+    "franchise": null,
+    "name": "Cincinnati Celts"
+  },
+  {
+    "abbr": "CIN",
+    "from": 1933,
+    "to": 1934,
+    "franchise": null,
+    "name": "Cincinnati Reds (NFL, 1933-1934)"
+  },
+  {
+    "abbr": "CIN",
+    "from": 1968,
+    "to": 2026,
+    "franchise": "CIN",
+    "name": "Cincinnati Bengals"
+  },
+  {
+    "abbr": "CHT",
+    "from": 1920,
+    "to": 1920,
+    "franchise": null,
+    "name": "Chicago Tigers"
+  },
+  {
+    "abbr": "CLE",
+    "from": 1920,
+    "to": 1920,
+    "franchise": null,
+    "name": "Cleveland Tigers"
+  },
+  {
+    "abbr": "CLE",
+    "from": 1921,
+    "to": 1921,
+    "franchise": null,
+    "name": "Cleveland Indians (1921)"
+  },
+  {
+    "abbr": "CAN",
+    "from": 1920,
+    "to": 1923,
+    "franchise": null,
+    "name": "Canton Bulldogs"
+  },
+  {
+    "abbr": "CLE",
+    "from": 1923,
+    "to": 1923,
+    "franchise": null,
+    "name": "Cleveland Indians (1923)"
+  },
+  {
+    "abbr": "CLE",
+    "from": 1924,
+    "to": 1925,
+    "franchise": null,
+    "name": "Cleveland Bulldogs"
+  },
+  {
+    "abbr": "CAN",
+    "from": 1925,
+    "to": 1926,
+    "franchise": null,
+    "name": "Canton Bulldogs"
+  },
+  {
+    "abbr": "CLE",
+    "from": 1927,
+    "to": 1927,
+    "franchise": null,
+    "name": "Cleveland Bulldogs"
+  },
+  {
+    "abbr": "CLE",
+    "from": 1931,
+    "to": 1931,
+    "franchise": null,
+    "name": "Cleveland Indians (1931)"
+  },
+  {
+    "abbr": "CLE",
+    "from": 1937,
+    "to": 1942,
+    "franchise": "LA",
+    "name": "Cleveland Rams"
+  },
+  {
+    "abbr": "CLE",
+    "from": 1944,
+    "to": 1945,
+    "franchise": "LA",
+    "name": "Cleveland Rams"
+  },
+  {
+    "abbr": "CLE",
+    "from": 1946,
+    "to": 1995,
+    "franchise": "CLE",
+    "name": "Cleveland Browns"
+  },
+  {
+    "abbr": "CLE",
+    "from": 1999,
+    "to": 2026,
+    "franchise": "CLE",
+    "name": "Cleveland Browns"
+  },
+  {
+    "abbr": "CLV",
+    "from": 2002,
+    "to": 2015,
+    "franchise": "CLE",
+    "name": "Cleveland Browns"
+  },
+  {
+    "abbr": "DAL",
+    "from": 1952,
+    "to": 1952,
+    "franchise": null,
+    "name": "Dallas Texans (NFL, 1952)"
+  },
+  {
+    "abbr": "COW",
+    "from": 1960,
+    "to": 1962,
+    "franchise": "DAL",
+    "name": "Dallas Cowboys"
+  },
+  {
+    "abbr": "DAL",
+    "from": 1963,
+    "to": 2026,
+    "franchise": "DAL",
+    "name": "Dallas Cowboys"
+  },
+  {
+    "abbr": "DEN",
+    "from": 1960,
+    "to": 2026,
+    "franchise": "DEN",
+    "name": "Denver Broncos"
+  },
+  {
+    "abbr": "DET",
+    "from": 1920,
+    "to": 1920,
+    "franchise": null,
+    "name": "Detroit Heralds"
+  },
+  {
+    "abbr": "DET",
+    "from": 1921,
+    "to": 1921,
+    "franchise": null,
+    "name": "Detroit Tigers"
+  },
+  {
+    "abbr": "DET",
+    "from": 1925,
+    "to": 1926,
+    "franchise": null,
+    "name": "Detroit Panthers"
+  },
+  {
+    "abbr": "DET",
+    "from": 1928,
+    "to": 1928,
+    "franchise": null,
+    "name": "Detroit Wolverines"
+  },
+  {
+    "abbr": "POR",
+    "from": 1930,
+    "to": 1933,
+    "franchise": "DET",
+    "name": "Portsmouth Spartans"
+  },
+  {
+    "abbr": "DET",
+    "from": 1934,
+    "to": 2026,
+    "franchise": "DET",
+    "name": "Detroit Lions"
+  },
+  {
+    "abbr": "GB",
+    "from": 1921,
+    "to": 2026,
+    "franchise": "GB",
+    "name": "Green Bay Packers"
+  },
+  {
+    "abbr": "HOU",
+    "from": 1960,
+    "to": 1996,
+    "franchise": "TEN",
+    "name": "Houston Oilers"
+  },
+  {
+    "abbr": "HOU",
+    "from": 2002,
+    "to": 2026,
+    "franchise": "HOU",
+    "name": "Houston Texans"
+  },
+  {
+    "abbr": "HST",
+    "from": 2002,
+    "to": 2015,
+    "franchise": "HOU",
+    "name": "Houston Texans"
+  },
+  {
+    "abbr": "IND",
+    "from": 1984,
+    "to": 2026,
+    "franchise": "IND",
+    "name": "Indianapolis Colts"
+  },
+  {
+    "abbr": "JAX",
+    "from": 1995,
+    "to": 2026,
+    "franchise": "JAX",
+    "name": "Jacksonville Jaguars"
+  },
+  {
+    "abbr": "KC",
+    "from": 1924,
+    "to": 1924,
+    "franchise": null,
+    "name": "Kansas City Blues"
+  },
+  {
+    "abbr": "KC",
+    "from": 1925,
+    "to": 1926,
+    "franchise": null,
+    "name": "Kansas City Cowboys"
+  },
+  {
+    "abbr": "TEX",
+    "from": 1960,
+    "to": 1962,
+    "franchise": "KC",
+    "name": "Dallas Texans"
+  },
+  {
+    "abbr": "KC",
+    "from": 1963,
+    "to": 2026,
+    "franchise": "KC",
+    "name": "Kansas City Chiefs"
+  },
+  {
+    "abbr": "LA",
+    "from": 1926,
+    "to": 1926,
+    "franchise": null,
+    "name": "Los Angeles Buccaneers"
+  },
+  {
+    "abbr": "RAM",
+    "from": 1946,
+    "to": 1949,
+    "franchise": "LA",
+    "name": "Los Angeles Rams"
+  },
+  {
+    "abbr": "LA",
+    "from": 1950,
+    "to": 1959,
+    "franchise": "LA",
+    "name": "Los Angeles Rams"
+  },
+  {
+    "abbr": "RAM",
+    "from": 1960,
+    "to": 1960,
+    "franchise": "LA",
+    "name": "Los Angeles Rams"
+  },
+  {
+    "abbr": "LA",
+    "from": 1961,
+    "to": 1981,
+    "franchise": "LA",
+    "name": "Los Angeles Rams"
+  },
+  {
+    "abbr": "RAM",
+    "from": 1982,
+    "to": 1994,
+    "franchise": "LA",
+    "name": "Los Angeles Rams"
+  },
+  {
+    "abbr": "STL",
+    "from": 1995,
+    "to": 2015,
+    "franchise": "LA",
+    "name": "St. Louis Rams"
+  },
+  {
+    "abbr": "SL",
+    "from": 2002,
+    "to": 2015,
+    "franchise": "LA",
+    "name": "St. Louis Rams"
+  },
+  {
+    "abbr": "LA",
+    "from": 2016,
+    "to": 2026,
+    "franchise": "LA",
+    "name": "Los Angeles Rams"
+  },
+  {
+    "abbr": "CHR",
+    "from": 1960,
+    "to": 1960,
+    "franchise": "LAC",
+    "name": "Los Angeles Chargers"
+  },
+  {
+    "abbr": "SD",
+    "from": 1961,
+    "to": 2016,
+    "franchise": "LAC",
+    "name": "San Diego Chargers"
+  },
+  {
+    "abbr": "LAC",
+    "from": 2017,
+    "to": 2026,
+    "franchise": "LAC",
+    "name": "Los Angeles Chargers"
+  },
+  {
+    "abbr": "OAK",
+    "from": 1960,
+    "to": 1981,
+    "franchise": "LV",
+    "name": "Oakland Raiders"
+  },
+  {
+    "abbr": "RAI",
+    "from": 1982,
+    "to": 1994,
+    "franchise": "LV",
+    "name": "Los Angeles Raiders"
+  },
+  {
+    "abbr": "OAK",
+    "from": 1995,
+    "to": 2019,
+    "franchise": "LV",
+    "name": "Oakland Raiders"
+  },
+  {
+    "abbr": "LV",
+    "from": 2020,
+    "to": 2026,
+    "franchise": "LV",
+    "name": "Las Vegas Raiders"
+  },
+  {
+    "abbr": "MIA",
+    "from": 1946,
+    "to": 1946,
+    "franchise": null,
+    "name": "Miami Seahawks (AAFC, 1946)"
+  },
+  {
+    "abbr": "MIA",
+    "from": 1966,
+    "to": 2026,
+    "franchise": "MIA",
+    "name": "Miami Dolphins"
+  },
+  {
+    "abbr": "MIN",
+    "from": 1921,
+    "to": 1924,
+    "franchise": null,
+    "name": "Minneapolis Marines"
+  },
+  {
+    "abbr": "MIN",
+    "from": 1929,
+    "to": 1930,
+    "franchise": null,
+    "name": "Minneapolis Red Jackets"
+  },
+  {
+    "abbr": "MIN",
+    "from": 1961,
+    "to": 2026,
+    "franchise": "MIN",
+    "name": "Minnesota Vikings"
+  },
+  {
+    "abbr": "BOS",
+    "from": 1960,
+    "to": 1970,
+    "franchise": "NE",
+    "name": "Boston Patriots"
+  },
+  {
+    "abbr": "NE",
+    "from": 1971,
+    "to": 2026,
+    "franchise": "NE",
+    "name": "New England Patriots"
+  },
+  {
+    "abbr": "NO",
+    "from": 1967,
+    "to": 2026,
+    "franchise": "NO",
+    "name": "New Orleans Saints"
+  },
+  {
+    "abbr": "NY",
+    "from": 1921,
+    "to": 1921,
+    "franchise": null,
+    "name": "New York Brickley Giants"
+  },
+  {
+    "abbr": "NY",
+    "from": 1925,
+    "to": 1926,
+    "franchise": "NYG",
+    "name": "New York Giants"
+  },
+  {
+    "abbr": "NYG",
+    "from": 1927,
+    "to": 1928,
+    "franchise": "NYG",
+    "name": "New York Giants"
+  },
+  {
+    "abbr": "NY",
+    "from": 1929,
+    "to": 1945,
+    "franchise": "NYG",
+    "name": "New York Giants"
+  },
+  {
+    "abbr": "NYG",
+    "from": 1946,
+    "to": 1951,
+    "franchise": "NYG",
+    "name": "New York Giants"
+  },
+  {
+    "abbr": "NY",
+    "from": 1952,
+    "to": 1959,
+    "franchise": "NYG",
+    "name": "New York Giants"
+  },
+  {
+    "abbr": "NYG",
+    "from": 1960,
+    "to": 2026,
+    "franchise": "NYG",
+    "name": "New York Giants"
+  },
+  {
+    "abbr": "NYT",
+    "from": 1960,
+    "to": 1962,
+    "franchise": "NYJ",
+    "name": "New York Titans"
+  },
+  {
+    "abbr": "NYJ",
+    "from": 1963,
+    "to": 2026,
+    "franchise": "NYJ",
+    "name": "New York Jets"
+  },
+  {
+    "abbr": "PHI",
+    "from": 1933,
+    "to": 1942,
+    "franchise": "PHI",
+    "name": "Philadelphia Eagles"
+  },
+  {
+    "abbr": "P-P",
+    "from": 1943,
+    "to": 1943,
+    "franchise": null,
+    "name": "Phil-Pitt (Philadelphia Eagles-Pittsburgh Steelers, \"Steagles\")"
+  },
+  {
+    "abbr": "PHI",
+    "from": 1944,
+    "to": 2026,
+    "franchise": "PHI",
+    "name": "Philadelphia Eagles"
+  },
+  {
+    "abbr": "PIT",
+    "from": 1933,
+    "to": 1939,
+    "franchise": "PIT",
+    "name": "Pittsburgh Pirates"
+  },
+  {
+    "abbr": "PIT",
+    "from": 1940,
+    "to": 1942,
+    "franchise": "PIT",
+    "name": "Pittsburgh Steelers"
+  },
+  {
+    "abbr": "PIT",
+    "from": 1945,
+    "to": 2026,
+    "franchise": "PIT",
+    "name": "Pittsburgh Steelers"
+  },
+  {
+    "abbr": "SEA",
+    "from": 1976,
+    "to": 2026,
+    "franchise": "SEA",
+    "name": "Seattle Seahawks"
+  },
+  {
+    "abbr": "SF",
+    "from": 1946,
+    "to": 2026,
+    "franchise": "SF",
+    "name": "San Francisco 49ers"
+  },
+  {
+    "abbr": "TB",
+    "from": 1976,
+    "to": 2026,
+    "franchise": "TB",
+    "name": "Tampa Bay Buccaneers"
+  },
+  {
+    "abbr": "TEN",
+    "from": 1997,
+    "to": 1997,
+    "franchise": "TEN",
+    "name": "Tennessee Oilers"
+  },
+  {
+    "abbr": "TEN",
+    "from": 1998,
+    "to": 1998,
+    "franchise": "TEN",
+    "name": "Tennessee Oilers"
+  },
+  {
+    "abbr": "TEN",
+    "from": 1999,
+    "to": 2026,
+    "franchise": "TEN",
+    "name": "Tennessee Titans"
+  },
+  {
+    "abbr": "WAS",
+    "from": 1921,
+    "to": 1921,
+    "franchise": null,
+    "name": "Washington Senators (football, 1921)"
+  },
+  {
+    "abbr": "BOS",
+    "from": 1929,
+    "to": 1929,
+    "franchise": null,
+    "name": "Boston Bulldogs"
+  },
+  {
+    "abbr": "BOS",
+    "from": 1932,
+    "to": 1932,
+    "franchise": "WAS",
+    "name": "Boston Braves"
+  },
+  {
+    "abbr": "BOS",
+    "from": 1933,
+    "to": 1936,
+    "franchise": "WAS",
+    "name": "Boston Redskins"
+  },
+  {
+    "abbr": "WAS",
+    "from": 1937,
+    "to": 2019,
+    "franchise": "WAS",
+    "name": "Washington Redskins"
+  },
+  {
+    "abbr": "WAS",
+    "from": 2020,
+    "to": 2021,
+    "franchise": "WAS",
+    "name": "Washington Football Team"
+  },
+  {
+    "abbr": "WAS",
+    "from": 2022,
+    "to": 2026,
+    "franchise": "WAS",
+    "name": "Washington Commanders"
+  },
+  {
+    "abbr": "AKR",
+    "from": 1920,
+    "to": 1925,
+    "franchise": null,
+    "name": "Akron Pros"
+  },
+  {
+    "abbr": "AKR",
+    "from": 1926,
+    "to": 1926,
+    "franchise": null,
+    "name": "Akron Indians"
+  },
+  {
+    "abbr": "BRK",
+    "from": 1926,
+    "to": 1926,
+    "franchise": null,
+    "name": "Brooklyn Lions"
+  },
+  {
+    "abbr": "BRK",
+    "from": 1930,
+    "to": 1943,
+    "franchise": null,
+    "name": "Brooklyn Dodgers (NFL)"
+  },
+  {
+    "abbr": "BRK",
+    "from": 1944,
+    "to": 1944,
+    "franchise": null,
+    "name": "Brooklyn Tigers"
+  },
+  {
+    "abbr": "BRK",
+    "from": 1946,
+    "to": 1948,
+    "franchise": null,
+    "name": "Brooklyn Dodgers (AAFC)"
+  },
+  {
+    "abbr": "BOS",
+    "from": 1944,
+    "to": 1948,
+    "franchise": null,
+    "name": "Boston Yanks"
+  },
+  {
+    "abbr": "CHH",
+    "from": 1949,
+    "to": 1949,
+    "franchise": null,
+    "name": "Chicago Hornets (AAFC)"
+  },
+  {
+    "abbr": "CHR",
+    "from": 1946,
+    "to": 1948,
+    "franchise": null,
+    "name": "Chicago Rockets (AAFC)"
+  },
+  {
+    "abbr": "COL",
+    "from": 1920,
+    "to": 1922,
+    "franchise": null,
+    "name": "Columbus Panhandles"
+  },
+  {
+    "abbr": "COL",
+    "from": 1923,
+    "to": 1926,
+    "franchise": null,
+    "name": "Columbus Tigers"
+  },
+  {
+    "abbr": "DAY",
+    "from": 1920,
+    "to": 1929,
+    "franchise": null,
+    "name": "Dayton Triangles"
+  },
+  {
+    "abbr": "DON",
+    "from": 1946,
+    "to": 1949,
+    "franchise": null,
+    "name": "Los Angeles Dons (AAFC)"
+  },
+  {
+    "abbr": "DUL",
+    "from": 1923,
+    "to": 1925,
+    "franchise": null,
+    "name": "Duluth Kelleys"
+  },
+  {
+    "abbr": "DUL",
+    "from": 1926,
+    "to": 1927,
+    "franchise": null,
+    "name": "Duluth Eskimos"
+  },
+  {
+    "abbr": "ECG",
+    "from": 1921,
+    "to": 1922,
+    "franchise": null,
+    "name": "Evansville Crimson Giants"
+  },
+  {
+    "abbr": "FYJ",
+    "from": 1924,
+    "to": 1931,
+    "franchise": null,
+    "name": "Frankford Yellow Jackets"
+  },
+  {
+    "abbr": "HAM",
+    "from": 1920,
+    "to": 1926,
+    "franchise": null,
+    "name": "Hammond Pros"
+  },
+  {
+    "abbr": "HAR",
+    "from": 1926,
+    "to": 1926,
+    "franchise": null,
+    "name": "Hartford Blues"
+  },
+  {
+    "abbr": "KEN",
+    "from": 1924,
+    "to": 1924,
+    "franchise": null,
+    "name": "Kenosha Maroons"
+  },
+  {
+    "abbr": "LOU",
+    "from": 1921,
+    "to": 1923,
+    "franchise": null,
+    "name": "Louisville Brecks"
+  },
+  {
+    "abbr": "LOU",
+    "from": 1926,
+    "to": 1926,
+    "franchise": null,
+    "name": "Louisville Colonels"
+  },
+  {
+    "abbr": "MIL",
+    "from": 1922,
+    "to": 1926,
+    "franchise": null,
+    "name": "Milwaukee Badgers"
+  },
+  {
+    "abbr": "MUN",
+    "from": 1920,
+    "to": 1921,
+    "franchise": null,
+    "name": "Muncie Flyers"
+  },
+  {
+    "abbr": "NEW",
+    "from": 1930,
+    "to": 1930,
+    "franchise": null,
+    "name": "Newark Tornadoes"
+  },
+  {
+    "abbr": "NYB",
+    "from": 1949,
+    "to": 1949,
+    "franchise": null,
+    "name": "New York Bulldogs"
+  },
+  {
+    "abbr": "NYY",
+    "from": 1927,
+    "to": 1928,
+    "franchise": null,
+    "name": "New York Yankees (NFL, 1927-1928)"
+  },
+  {
+    "abbr": "NYY",
+    "from": 1946,
+    "to": 1949,
+    "franchise": null,
+    "name": "New York Yankees (AAFC)"
+  },
+  {
+    "abbr": "NYY",
+    "from": 1950,
+    "to": 1951,
+    "franchise": null,
+    "name": "New York Yanks"
+  },
+  {
+    "abbr": "OOR",
+    "from": 1922,
+    "to": 1923,
+    "franchise": null,
+    "name": "Oorang Indians"
+  },
+  {
+    "abbr": "ORG",
+    "from": 1929,
+    "to": 1929,
+    "franchise": null,
+    "name": "Orange Tornadoes"
+  },
+  {
+    "abbr": "POT",
+    "from": 1925,
+    "to": 1928,
+    "franchise": null,
+    "name": "Pottsville Maroons"
+  },
+  {
+    "abbr": "PRO",
+    "from": 1925,
+    "to": 1931,
+    "franchise": null,
+    "name": "Providence Steamrollers"
+  },
+  {
+    "abbr": "RAC",
+    "from": 1922,
+    "to": 1924,
+    "franchise": null,
+    "name": "Racine Legion"
+  },
+  {
+    "abbr": "RAC",
+    "from": 1926,
+    "to": 1926,
+    "franchise": null,
+    "name": "Racine Tornadoes"
+  },
+  {
+    "abbr": "RI",
+    "from": 1920,
+    "to": 1925,
+    "franchise": null,
+    "name": "Rock Island Independents"
+  },
+  {
+    "abbr": "ROC",
+    "from": 1920,
+    "to": 1925,
+    "franchise": null,
+    "name": "Rochester Jeffersons"
+  },
+  {
+    "abbr": "SI",
+    "from": 1929,
+    "to": 1932,
+    "franchise": null,
+    "name": "Staten Island Stapletons"
+  },
+  {
+    "abbr": "STL",
+    "from": 1923,
+    "to": 1923,
+    "franchise": null,
+    "name": "St. Louis All-Stars"
+  },
+  {
+    "abbr": "STL",
+    "from": 1934,
+    "to": 1934,
+    "franchise": null,
+    "name": "St. Louis Gunners"
+  },
+  {
+    "abbr": "TOL",
+    "from": 1922,
+    "to": 1923,
+    "franchise": null,
+    "name": "Toledo Maroons"
+  },
+  {
+    "abbr": "TON",
+    "from": 1921,
+    "to": 1921,
+    "franchise": null,
+    "name": "Tonawanda Kardex"
+  }
+]

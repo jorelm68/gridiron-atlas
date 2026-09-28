@@ -1,12 +1,13 @@
 "use client";
 
 import { createClient, type SupabaseClient } from "@supabase/supabase-js";
+import type { Database } from "./database.types";
 
-let browserClient: SupabaseClient | undefined;
+let browserClient: SupabaseClient<Database> | undefined;
 
 /** Read-only client for Client Components, shared across the page. */
 export function getBrowserClient() {
-  browserClient ??= createClient(
+  browserClient ??= createClient<Database>(
     process.env.NEXT_PUBLIC_SUPABASE_URL!,
     process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY!,
     { auth: { persistSession: false, autoRefreshToken: false } },

@@ -1,19 +1,222 @@
 @import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
 
-/* Placeholder palette; the full design system (dark broadcast + light mode + team accents) arrives in Phase 1. */
-:root {
-  --background: #07090d;
-  --foreground: #e8ebf0;
-}
+@custom-variant dark (&:is(.dark *));
+
+/*
+ * Gridiron Atlas design tokens.
+ * Dark "broadcast" base by default (html.dark), light mode available. Team pages override --team with the
+ * franchise's primary color so accents adapt to whichever team you're viewing.
+ */
 
 @theme inline {
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-mono);
+  --font-display: var(--font-display);
+  --font-heading: var(--font-display);
+
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+
+  /* Football-specific tokens */
+  --color-afc: var(--afc);
+  --color-nfc: var(--nfc);
+  --color-team: var(--team);
+  --color-field: var(--field);
+  --color-win: var(--win);
+  --color-loss: var(--loss);
+
+  /* Atlas "color by division" palette — 8 distinct, accessible hues (see src/lib/atlas/constants.ts). */
+  --color-div-1: var(--div-1);
+  --color-div-2: var(--div-2);
+  --color-div-3: var(--div-3);
+  --color-div-4: var(--div-4);
+  --color-div-5: var(--div-5);
+  --color-div-6: var(--div-6);
+  --color-div-7: var(--div-7);
+  --color-div-8: var(--div-8);
+
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
+/* Light mode */
+:root {
+  --radius: 0.75rem;
+  --background: oklch(0.985 0.003 250);
+  --foreground: oklch(0.2 0.025 255);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.2 0.025 255);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.2 0.025 255);
+  --primary: oklch(0.53 0.16 247);
+  --primary-foreground: oklch(0.99 0 0);
+  --secondary: oklch(0.955 0.006 250);
+  --secondary-foreground: oklch(0.25 0.025 255);
+  --muted: oklch(0.955 0.006 250);
+  --muted-foreground: oklch(0.5 0.02 255);
+  --accent: oklch(0.94 0.01 250);
+  --accent-foreground: oklch(0.2 0.025 255);
+  --destructive: oklch(0.58 0.22 27);
+  --border: oklch(0.2 0.025 255 / 11%);
+  --input: oklch(0.2 0.025 255 / 16%);
+  --ring: oklch(0.53 0.16 247);
+
+  --afc: oklch(0.55 0.21 27);
+  --nfc: oklch(0.45 0.14 257);
+  --team: var(--primary);
+  --field: oklch(0.52 0.12 150);
+  --win: oklch(0.55 0.15 150);
+  --loss: oklch(0.58 0.2 27);
+
+  --chart-1: oklch(0.53 0.16 247);
+  --chart-2: oklch(0.62 0.15 160);
+  --chart-3: oklch(0.7 0.15 75);
+  --chart-4: oklch(0.58 0.2 27);
+  --chart-5: oklch(0.55 0.15 300);
+
+  /* Atlas division palette, spaced ~45° apart around the hue wheel. */
+  --div-1: oklch(0.55 0.21 25);
+  --div-2: oklch(0.62 0.17 70);
+  --div-3: oklch(0.62 0.15 115);
+  --div-4: oklch(0.55 0.13 150);
+  --div-5: oklch(0.55 0.12 200);
+  --div-6: oklch(0.53 0.16 247);
+  --div-7: oklch(0.55 0.18 300);
+  --div-8: oklch(0.58 0.22 350);
+
+  --sidebar: oklch(0.97 0.004 250);
+  --sidebar-foreground: oklch(0.2 0.025 255);
+  --sidebar-primary: oklch(0.53 0.16 247);
+  --sidebar-primary-foreground: oklch(0.99 0 0);
+  --sidebar-accent: oklch(0.94 0.01 250);
+  --sidebar-accent-foreground: oklch(0.2 0.025 255);
+  --sidebar-border: oklch(0.2 0.025 255 / 11%);
+  --sidebar-ring: oklch(0.53 0.16 247);
+}
+
+/* Dark "broadcast" mode (default) */
+.dark {
+  --background: oklch(0.15 0.02 258);
+  --foreground: oklch(0.965 0.006 250);
+  --card: oklch(0.19 0.022 258);
+  --card-foreground: oklch(0.965 0.006 250);
+  --popover: oklch(0.21 0.024 258);
+  --popover-foreground: oklch(0.965 0.006 250);
+  --primary: oklch(0.72 0.15 243);
+  --primary-foreground: oklch(0.15 0.02 258);
+  --secondary: oklch(0.245 0.024 258);
+  --secondary-foreground: oklch(0.965 0.006 250);
+  --muted: oklch(0.245 0.024 258);
+  --muted-foreground: oklch(0.72 0.02 255);
+  --accent: oklch(0.27 0.028 258);
+  --accent-foreground: oklch(0.965 0.006 250);
+  --destructive: oklch(0.68 0.19 25);
+  --border: oklch(1 0 0 / 9%);
+  --input: oklch(1 0 0 / 14%);
+  --ring: oklch(0.72 0.15 243);
+
+  --afc: oklch(0.66 0.2 27);
+  --nfc: oklch(0.68 0.13 250);
+  --team: var(--primary);
+  --field: oklch(0.62 0.13 150);
+  --win: oklch(0.72 0.15 152);
+  --loss: oklch(0.68 0.19 25);
+
+  --chart-1: oklch(0.72 0.15 243);
+  --chart-2: oklch(0.74 0.14 160);
+  --chart-3: oklch(0.8 0.14 80);
+  --chart-4: oklch(0.68 0.19 25);
+  --chart-5: oklch(0.7 0.15 300);
+
+  /* Atlas division palette — brighter/lower-chroma twins of the light-mode set for the dark background. */
+  --div-1: oklch(0.7 0.19 25);
+  --div-2: oklch(0.75 0.15 70);
+  --div-3: oklch(0.78 0.14 115);
+  --div-4: oklch(0.72 0.13 150);
+  --div-5: oklch(0.72 0.12 200);
+  --div-6: oklch(0.72 0.15 247);
+  --div-7: oklch(0.72 0.16 300);
+  --div-8: oklch(0.72 0.19 350);
+
+  --sidebar: oklch(0.17 0.022 258);
+  --sidebar-foreground: oklch(0.965 0.006 250);
+  --sidebar-primary: oklch(0.72 0.15 243);
+  --sidebar-primary-foreground: oklch(0.15 0.02 258);
+  --sidebar-accent: oklch(0.27 0.028 258);
+  --sidebar-accent-foreground: oklch(0.965 0.006 250);
+  --sidebar-border: oklch(1 0 0 / 9%);
+  --sidebar-ring: oklch(0.72 0.15 243);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    @apply font-sans;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+  }
+  h1,
+  h2,
+  h3 {
+    @apply font-display tracking-tight;
+  }
+}
+
+@layer utilities {
+  /* Small uppercase label used for eyebrows, stat captions, and table headers. */
+  .eyebrow {
+    @apply font-display text-xs font-semibold tracking-[0.18em] uppercase;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  ::before,
+  ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }

@@ -17,6 +17,9 @@ mechanics.
 
 ## Commands
 - `npm run dev` / `npm run build` / `npm run lint` / `npm run typecheck`
+- `npm run sync` refresh the current season · `-- --full` rebuild all history · `-- --datasets a,b --seasons 2024-2026`
+  (pipeline in `scripts/sync/`; runbook in the `nfl-sync` skill) · `npm run check:seeds` validate curated seeds
+- `node scripts/duckq.mjs "<sql>"` ad-hoc DuckDB queries over cached source files in `.cache/nflverse/`
 - `npm run db:new -- <name>` new migration · `npm run db:push` apply migrations to the linked cloud project
 - `npm run db:types` regenerate `src/lib/supabase/database.types.ts` after schema changes
 - `npm run db:start` / `npm run db:stop` local Supabase (requires Docker Desktop running)

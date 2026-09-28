@@ -1,0 +1,1024 @@
+[
+  {
+    "id": "ARI",
+    "founded": 1920,
+    "origin_league": "NFL",
+    "division": "NFC West",
+    "eras": [
+      {
+        "from": 1920,
+        "to": 1959,
+        "name": "Chicago Cardinals",
+        "location": "Chicago",
+        "nickname": "Cardinals",
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.88,
+        "lng": -87.63,
+        "note": null
+      },
+      {
+        "from": 1960,
+        "to": 1987,
+        "name": "St. Louis Cardinals",
+        "location": "St. Louis",
+        "nickname": "Cardinals",
+        "city": "St. Louis",
+        "state": "MO",
+        "lat": 38.63,
+        "lng": -90.2,
+        "note": null
+      },
+      {
+        "from": 1988,
+        "to": 1993,
+        "name": "Phoenix Cardinals",
+        "location": "Phoenix",
+        "nickname": "Cardinals",
+        "city": "Phoenix",
+        "state": "AZ",
+        "lat": 33.45,
+        "lng": -112.07,
+        "note": null
+      },
+      {
+        "from": 1994,
+        "to": null,
+        "name": "Arizona Cardinals",
+        "location": "Arizona",
+        "nickname": "Cardinals",
+        "city": "Glendale",
+        "state": "AZ",
+        "lat": 33.54,
+        "lng": -112.19,
+        "note": "Plays at State Farm Stadium in Glendale; played at Sun Devil Stadium in Tempe, AZ 1988-2005."
+      }
+    ],
+    "notes": [
+      "One of two NFL franchises (with the Bears) continuously operating since the league's founding in 1920.",
+      "Merged with the Pittsburgh Steelers for the 1944 season only (\"Card-Pitt\", nicknamed the \"Carpets\") due to WWII manpower shortages."
+    ]
+  },
+  {
+    "id": "ATL",
+    "founded": 1966,
+    "origin_league": "NFL",
+    "division": "NFC South",
+    "eras": [
+      {
+        "from": 1966,
+        "to": null,
+        "name": "Atlanta Falcons",
+        "location": "Atlanta",
+        "nickname": "Falcons",
+        "city": "Atlanta",
+        "state": "GA",
+        "lat": 33.75,
+        "lng": -84.39,
+        "note": null
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "BAL",
+    "founded": 1996,
+    "origin_league": "NFL",
+    "division": "AFC North",
+    "eras": [
+      {
+        "from": 1996,
+        "to": null,
+        "name": "Baltimore Ravens",
+        "location": "Baltimore",
+        "nickname": "Ravens",
+        "city": "Baltimore",
+        "state": "MD",
+        "lat": 39.29,
+        "lng": -76.61,
+        "note": null
+      }
+    ],
+    "notes": [
+      "Formed in 1996 when owner Art Modell relocated the Cleveland Browns organization's personnel to Baltimore; the NFL ruled that the Browns' history, name, colors, and records stayed in Cleveland, so the Ravens are legally a new 1996 expansion franchise, not a relocated Browns.",
+      "Distinct from the unrelated 1947-1950 Baltimore Colts (AAFC, then NFL), which folded after the 1950 season."
+    ]
+  },
+  {
+    "id": "BUF",
+    "founded": 1960,
+    "origin_league": "AFL",
+    "division": "AFC East",
+    "eras": [
+      {
+        "from": 1960,
+        "to": null,
+        "name": "Buffalo Bills",
+        "location": "Buffalo",
+        "nickname": "Bills",
+        "city": "Buffalo",
+        "state": "NY",
+        "lat": 42.89,
+        "lng": -78.88,
+        "note": null
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "CAR",
+    "founded": 1995,
+    "origin_league": "NFL",
+    "division": "NFC South",
+    "eras": [
+      {
+        "from": 1995,
+        "to": null,
+        "name": "Carolina Panthers",
+        "location": "Carolina",
+        "nickname": "Panthers",
+        "city": "Charlotte",
+        "state": "NC",
+        "lat": 35.23,
+        "lng": -80.84,
+        "note": null
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "CHI",
+    "founded": 1920,
+    "origin_league": "NFL",
+    "division": "NFC North",
+    "eras": [
+      {
+        "from": 1920,
+        "to": 1920,
+        "name": "Decatur Staleys",
+        "location": "Decatur",
+        "nickname": "Staleys",
+        "city": "Decatur",
+        "state": "IL",
+        "lat": 39.84,
+        "lng": -88.95,
+        "note": null
+      },
+      {
+        "from": 1921,
+        "to": 1921,
+        "name": "Chicago Staleys",
+        "location": "Chicago",
+        "nickname": "Staleys",
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.88,
+        "lng": -87.63,
+        "note": null
+      },
+      {
+        "from": 1922,
+        "to": null,
+        "name": "Chicago Bears",
+        "location": "Chicago",
+        "nickname": "Bears",
+        "city": "Chicago",
+        "state": "IL",
+        "lat": 41.88,
+        "lng": -87.63,
+        "note": null
+      }
+    ],
+    "notes": [
+      "One of two NFL franchises (with the Cardinals) continuously operating since the league's founding in 1920."
+    ]
+  },
+  {
+    "id": "CIN",
+    "founded": 1968,
+    "origin_league": "AFL",
+    "division": "AFC North",
+    "eras": [
+      {
+        "from": 1968,
+        "to": null,
+        "name": "Cincinnati Bengals",
+        "location": "Cincinnati",
+        "nickname": "Bengals",
+        "city": "Cincinnati",
+        "state": "OH",
+        "lat": 39.1,
+        "lng": -84.51,
+        "note": null
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "CLE",
+    "founded": 1946,
+    "origin_league": "AAFC",
+    "division": "AFC North",
+    "eras": [
+      {
+        "from": 1946,
+        "to": 1995,
+        "name": "Cleveland Browns",
+        "location": "Cleveland",
+        "nickname": "Browns",
+        "city": "Cleveland",
+        "state": "OH",
+        "lat": 41.5,
+        "lng": -81.69,
+        "note": null
+      },
+      {
+        "from": 1999,
+        "to": null,
+        "name": "Cleveland Browns",
+        "location": "Cleveland",
+        "nickname": "Browns",
+        "city": "Cleveland",
+        "state": "OH",
+        "lat": 41.5,
+        "lng": -81.69,
+        "note": null
+      }
+    ],
+    "notes": [
+      "Inactive 1996-1998: owner Art Modell relocated the organization's personnel to Baltimore (becoming the Ravens) after the 1995 season. The NFL preserved the Browns' name, colors, and history for Cleveland and seeded a new team that resumed play in 1999."
+    ]
+  },
+  {
+    "id": "DAL",
+    "founded": 1960,
+    "origin_league": "NFL",
+    "division": "NFC East",
+    "eras": [
+      {
+        "from": 1960,
+        "to": null,
+        "name": "Dallas Cowboys",
+        "location": "Dallas",
+        "nickname": "Cowboys",
+        "city": "Arlington",
+        "state": "TX",
+        "lat": 32.75,
+        "lng": -97.09,
+        "note": "Plays at AT&T Stadium in Arlington since 2009; played at the Cotton Bowl in Dallas 1960-1970 and Texas Stadium in Irving 1971-2008."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "DEN",
+    "founded": 1960,
+    "origin_league": "AFL",
+    "division": "AFC West",
+    "eras": [
+      {
+        "from": 1960,
+        "to": null,
+        "name": "Denver Broncos",
+        "location": "Denver",
+        "nickname": "Broncos",
+        "city": "Denver",
+        "state": "CO",
+        "lat": 39.74,
+        "lng": -104.99,
+        "note": null
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "DET",
+    "founded": 1930,
+    "origin_league": "NFL",
+    "division": "NFC North",
+    "eras": [
+      {
+        "from": 1930,
+        "to": 1933,
+        "name": "Portsmouth Spartans",
+        "location": "Portsmouth",
+        "nickname": "Spartans",
+        "city": "Portsmouth",
+        "state": "OH",
+        "lat": 38.73,
+        "lng": -82.99,
+        "note": null
+      },
+      {
+        "from": 1934,
+        "to": null,
+        "name": "Detroit Lions",
+        "location": "Detroit",
+        "nickname": "Lions",
+        "city": "Detroit",
+        "state": "MI",
+        "lat": 42.33,
+        "lng": -83.05,
+        "note": null
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "GB",
+    "founded": 1921,
+    "origin_league": "NFL",
+    "division": "NFC North",
+    "eras": [
+      {
+        "from": 1921,
+        "to": null,
+        "name": "Green Bay Packers",
+        "location": "Green Bay",
+        "nickname": "Packers",
+        "city": "Green Bay",
+        "state": "WI",
+        "lat": 44.51,
+        "lng": -88.02,
+        "note": null
+      }
+    ],
+    "notes": [
+      "The only publicly owned, non-profit franchise in the four major North American sports leagues."
+    ]
+  },
+  {
+    "id": "HOU",
+    "founded": 2002,
+    "origin_league": "NFL",
+    "division": "AFC South",
+    "eras": [
+      {
+        "from": 2002,
+        "to": null,
+        "name": "Houston Texans",
+        "location": "Houston",
+        "nickname": "Texans",
+        "city": "Houston",
+        "state": "TX",
+        "lat": 29.76,
+        "lng": -95.37,
+        "note": null
+      }
+    ],
+    "notes": [
+      "Unrelated to the original Houston Oilers (now the Tennessee Titans), which left Houston in 1997, or the 1952 NFL Dallas Texans, which is also unrelated."
+    ]
+  },
+  {
+    "id": "IND",
+    "founded": 1953,
+    "origin_league": "NFL",
+    "division": "AFC South",
+    "eras": [
+      {
+        "from": 1953,
+        "to": 1983,
+        "name": "Baltimore Colts",
+        "location": "Baltimore",
+        "nickname": "Colts",
+        "city": "Baltimore",
+        "state": "MD",
+        "lat": 39.29,
+        "lng": -76.61,
+        "note": null
+      },
+      {
+        "from": 1984,
+        "to": null,
+        "name": "Indianapolis Colts",
+        "location": "Indianapolis",
+        "nickname": "Colts",
+        "city": "Indianapolis",
+        "state": "IN",
+        "lat": 39.77,
+        "lng": -86.16,
+        "note": null
+      }
+    ],
+    "notes": [
+      "A new NFL franchise awarded to Baltimore in 1953, distinct from the unrelated 1947-1950 AAFC/NFL Baltimore Colts that folded."
+    ]
+  },
+  {
+    "id": "JAX",
+    "founded": 1995,
+    "origin_league": "NFL",
+    "division": "AFC South",
+    "eras": [
+      {
+        "from": 1995,
+        "to": null,
+        "name": "Jacksonville Jaguars",
+        "location": "Jacksonville",
+        "nickname": "Jaguars",
+        "city": "Jacksonville",
+        "state": "FL",
+        "lat": 30.33,
+        "lng": -81.66,
+        "note": null
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "KC",
+    "founded": 1960,
+    "origin_league": "AFL",
+    "division": "AFC West",
+    "eras": [
+      {
+        "from": 1960,
+        "to": 1962,
+        "name": "Dallas Texans",
+        "location": "Dallas",
+        "nickname": "Texans",
+        "city": "Dallas",
+        "state": "TX",
+        "lat": 32.78,
+        "lng": -96.8,
+        "note": null
+      },
+      {
+        "from": 1963,
+        "to": null,
+        "name": "Kansas City Chiefs",
+        "location": "Kansas City",
+        "nickname": "Chiefs",
+        "city": "Kansas City",
+        "state": "MO",
+        "lat": 39.1,
+        "lng": -94.58,
+        "note": null
+      }
+    ],
+    "notes": [
+      "This AFL \"Dallas Texans\" (1960-1962) is unrelated to both the 1952 NFL \"Dallas Texans\" and the modern Houston Texans."
+    ]
+  },
+  {
+    "id": "LA",
+    "founded": 1937,
+    "origin_league": "NFL",
+    "division": "NFC West",
+    "eras": [
+      {
+        "from": 1937,
+        "to": 1945,
+        "name": "Cleveland Rams",
+        "location": "Cleveland",
+        "nickname": "Rams",
+        "city": "Cleveland",
+        "state": "OH",
+        "lat": 41.5,
+        "lng": -81.69,
+        "note": "Did not play in 1943 due to WWII travel restrictions and player shortages."
+      },
+      {
+        "from": 1946,
+        "to": 1994,
+        "name": "Los Angeles Rams",
+        "location": "Los Angeles",
+        "nickname": "Rams",
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.05,
+        "lng": -118.24,
+        "note": null
+      },
+      {
+        "from": 1995,
+        "to": 2015,
+        "name": "St. Louis Rams",
+        "location": "St. Louis",
+        "nickname": "Rams",
+        "city": "St. Louis",
+        "state": "MO",
+        "lat": 38.63,
+        "lng": -90.2,
+        "note": null
+      },
+      {
+        "from": 2016,
+        "to": null,
+        "name": "Los Angeles Rams",
+        "location": "Los Angeles",
+        "nickname": "Rams",
+        "city": "Inglewood",
+        "state": "CA",
+        "lat": 33.96,
+        "lng": -118.34,
+        "note": "Plays at SoFi Stadium in Inglewood, shared with the Chargers, since 2020."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "LAC",
+    "founded": 1960,
+    "origin_league": "AFL",
+    "division": "AFC West",
+    "eras": [
+      {
+        "from": 1960,
+        "to": 1960,
+        "name": "Los Angeles Chargers",
+        "location": "Los Angeles",
+        "nickname": "Chargers",
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.05,
+        "lng": -118.24,
+        "note": null
+      },
+      {
+        "from": 1961,
+        "to": 2016,
+        "name": "San Diego Chargers",
+        "location": "San Diego",
+        "nickname": "Chargers",
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.72,
+        "lng": -117.16,
+        "note": null
+      },
+      {
+        "from": 2017,
+        "to": null,
+        "name": "Los Angeles Chargers",
+        "location": "Los Angeles",
+        "nickname": "Chargers",
+        "city": "Inglewood",
+        "state": "CA",
+        "lat": 33.96,
+        "lng": -118.34,
+        "note": "Plays at SoFi Stadium in Inglewood, shared with the Rams, since 2020; played at Dignity Health Sports Park in Carson 2017-2019."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "LV",
+    "founded": 1960,
+    "origin_league": "AFL",
+    "division": "AFC West",
+    "eras": [
+      {
+        "from": 1960,
+        "to": 1981,
+        "name": "Oakland Raiders",
+        "location": "Oakland",
+        "nickname": "Raiders",
+        "city": "Oakland",
+        "state": "CA",
+        "lat": 37.8,
+        "lng": -122.27,
+        "note": null
+      },
+      {
+        "from": 1982,
+        "to": 1994,
+        "name": "Los Angeles Raiders",
+        "location": "Los Angeles",
+        "nickname": "Raiders",
+        "city": "Los Angeles",
+        "state": "CA",
+        "lat": 34.05,
+        "lng": -118.24,
+        "note": null
+      },
+      {
+        "from": 1995,
+        "to": 2019,
+        "name": "Oakland Raiders",
+        "location": "Oakland",
+        "nickname": "Raiders",
+        "city": "Oakland",
+        "state": "CA",
+        "lat": 37.8,
+        "lng": -122.27,
+        "note": null
+      },
+      {
+        "from": 2020,
+        "to": null,
+        "name": "Las Vegas Raiders",
+        "location": "Las Vegas",
+        "nickname": "Raiders",
+        "city": "Las Vegas",
+        "state": "NV",
+        "lat": 36.17,
+        "lng": -115.14,
+        "note": null
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "MIA",
+    "founded": 1966,
+    "origin_league": "AFL",
+    "division": "AFC East",
+    "eras": [
+      {
+        "from": 1966,
+        "to": null,
+        "name": "Miami Dolphins",
+        "location": "Miami",
+        "nickname": "Dolphins",
+        "city": "Miami Gardens",
+        "state": "FL",
+        "lat": 25.96,
+        "lng": -80.24,
+        "note": "Plays at Hard Rock Stadium in Miami Gardens, north of downtown Miami."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "MIN",
+    "founded": 1961,
+    "origin_league": "NFL",
+    "division": "NFC North",
+    "eras": [
+      {
+        "from": 1961,
+        "to": null,
+        "name": "Minnesota Vikings",
+        "location": "Minnesota",
+        "nickname": "Vikings",
+        "city": "Minneapolis",
+        "state": "MN",
+        "lat": 44.98,
+        "lng": -93.27,
+        "note": null
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "NE",
+    "founded": 1960,
+    "origin_league": "AFL",
+    "division": "AFC East",
+    "eras": [
+      {
+        "from": 1960,
+        "to": 1970,
+        "name": "Boston Patriots",
+        "location": "Boston",
+        "nickname": "Patriots",
+        "city": "Boston",
+        "state": "MA",
+        "lat": 42.36,
+        "lng": -71.06,
+        "note": null
+      },
+      {
+        "from": 1971,
+        "to": null,
+        "name": "New England Patriots",
+        "location": "New England",
+        "nickname": "Patriots",
+        "city": "Foxborough",
+        "state": "MA",
+        "lat": 42.09,
+        "lng": -71.26,
+        "note": null
+      }
+    ],
+    "notes": [
+      "The 1971 name change to \"New England\" coincided with the move from various Boston-area stadiums to a new stadium in Foxborough, MA."
+    ]
+  },
+  {
+    "id": "NO",
+    "founded": 1967,
+    "origin_league": "NFL",
+    "division": "NFC South",
+    "eras": [
+      {
+        "from": 1967,
+        "to": null,
+        "name": "New Orleans Saints",
+        "location": "New Orleans",
+        "nickname": "Saints",
+        "city": "New Orleans",
+        "state": "LA",
+        "lat": 29.95,
+        "lng": -90.07,
+        "note": null
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "NYG",
+    "founded": 1925,
+    "origin_league": "NFL",
+    "division": "NFC East",
+    "eras": [
+      {
+        "from": 1925,
+        "to": null,
+        "name": "New York Giants",
+        "location": "New York",
+        "nickname": "Giants",
+        "city": "East Rutherford",
+        "state": "NJ",
+        "lat": 40.81,
+        "lng": -74.07,
+        "note": "Plays at MetLife Stadium in East Rutherford, New Jersey, shared with the Jets, since 1976; previously played at the Polo Grounds and Yankee Stadium in Manhattan/the Bronx."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "NYJ",
+    "founded": 1960,
+    "origin_league": "AFL",
+    "division": "AFC East",
+    "eras": [
+      {
+        "from": 1960,
+        "to": 1962,
+        "name": "New York Titans",
+        "location": "New York",
+        "nickname": "Titans",
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.75,
+        "lng": -73.99,
+        "note": null
+      },
+      {
+        "from": 1963,
+        "to": null,
+        "name": "New York Jets",
+        "location": "New York",
+        "nickname": "Jets",
+        "city": "East Rutherford",
+        "state": "NJ",
+        "lat": 40.81,
+        "lng": -74.07,
+        "note": "Plays at MetLife Stadium in East Rutherford, New Jersey, shared with the Giants, since 1976; previously played at the Polo Grounds and Shea Stadium in New York City."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "PHI",
+    "founded": 1933,
+    "origin_league": "NFL",
+    "division": "NFC East",
+    "eras": [
+      {
+        "from": 1933,
+        "to": null,
+        "name": "Philadelphia Eagles",
+        "location": "Philadelphia",
+        "nickname": "Eagles",
+        "city": "Philadelphia",
+        "state": "PA",
+        "lat": 39.95,
+        "lng": -75.16,
+        "note": null
+      }
+    ],
+    "notes": [
+      "Merged with the Pittsburgh Steelers for the 1943 season only (\"Steagles\") due to WWII manpower shortages; both franchises resumed separately in 1944."
+    ]
+  },
+  {
+    "id": "PIT",
+    "founded": 1933,
+    "origin_league": "NFL",
+    "division": "AFC North",
+    "eras": [
+      {
+        "from": 1933,
+        "to": 1939,
+        "name": "Pittsburgh Pirates",
+        "location": "Pittsburgh",
+        "nickname": "Pirates",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "lat": 40.44,
+        "lng": -79.99,
+        "note": null
+      },
+      {
+        "from": 1940,
+        "to": null,
+        "name": "Pittsburgh Steelers",
+        "location": "Pittsburgh",
+        "nickname": "Steelers",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "lat": 40.44,
+        "lng": -79.99,
+        "note": null
+      }
+    ],
+    "notes": [
+      "Merged with the Philadelphia Eagles for the 1943 season (\"Steagles\") and with the Chicago Cardinals for the 1944 season (\"Card-Pitt\") due to WWII manpower shortages."
+    ]
+  },
+  {
+    "id": "SEA",
+    "founded": 1976,
+    "origin_league": "NFL",
+    "division": "NFC West",
+    "eras": [
+      {
+        "from": 1976,
+        "to": null,
+        "name": "Seattle Seahawks",
+        "location": "Seattle",
+        "nickname": "Seahawks",
+        "city": "Seattle",
+        "state": "WA",
+        "lat": 47.61,
+        "lng": -122.33,
+        "note": null
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "SF",
+    "founded": 1946,
+    "origin_league": "AAFC",
+    "division": "NFC West",
+    "eras": [
+      {
+        "from": 1946,
+        "to": null,
+        "name": "San Francisco 49ers",
+        "location": "San Francisco",
+        "nickname": "49ers",
+        "city": "Santa Clara",
+        "state": "CA",
+        "lat": 37.35,
+        "lng": -121.97,
+        "note": "Plays at Levi's Stadium in Santa Clara (45 miles south of San Francisco) since 2014; played at Kezar Stadium and Candlestick Park in San Francisco before that."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "TB",
+    "founded": 1976,
+    "origin_league": "NFL",
+    "division": "NFC South",
+    "eras": [
+      {
+        "from": 1976,
+        "to": null,
+        "name": "Tampa Bay Buccaneers",
+        "location": "Tampa Bay",
+        "nickname": "Buccaneers",
+        "city": "Tampa",
+        "state": "FL",
+        "lat": 27.95,
+        "lng": -82.46,
+        "note": null
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "TEN",
+    "founded": 1960,
+    "origin_league": "AFL",
+    "division": "AFC South",
+    "eras": [
+      {
+        "from": 1960,
+        "to": 1996,
+        "name": "Houston Oilers",
+        "location": "Houston",
+        "nickname": "Oilers",
+        "city": "Houston",
+        "state": "TX",
+        "lat": 29.76,
+        "lng": -95.37,
+        "note": null
+      },
+      {
+        "from": 1997,
+        "to": 1997,
+        "name": "Tennessee Oilers",
+        "location": "Tennessee",
+        "nickname": "Oilers",
+        "city": "Memphis",
+        "state": "TN",
+        "lat": 35.15,
+        "lng": -90.05,
+        "note": null
+      },
+      {
+        "from": 1998,
+        "to": 1998,
+        "name": "Tennessee Oilers",
+        "location": "Tennessee",
+        "nickname": "Oilers",
+        "city": "Nashville",
+        "state": "TN",
+        "lat": 36.16,
+        "lng": -86.78,
+        "note": null
+      },
+      {
+        "from": 1999,
+        "to": null,
+        "name": "Tennessee Titans",
+        "location": "Tennessee",
+        "nickname": "Titans",
+        "city": "Nashville",
+        "state": "TN",
+        "lat": 36.16,
+        "lng": -86.78,
+        "note": null
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "WAS",
+    "founded": 1932,
+    "origin_league": "NFL",
+    "division": "NFC East",
+    "eras": [
+      {
+        "from": 1932,
+        "to": 1932,
+        "name": "Boston Braves",
+        "location": "Boston",
+        "nickname": "Braves",
+        "city": "Boston",
+        "state": "MA",
+        "lat": 42.36,
+        "lng": -71.06,
+        "note": null
+      },
+      {
+        "from": 1933,
+        "to": 1936,
+        "name": "Boston Redskins",
+        "location": "Boston",
+        "nickname": "Redskins",
+        "city": "Boston",
+        "state": "MA",
+        "lat": 42.36,
+        "lng": -71.06,
+        "note": null
+      },
+      {
+        "from": 1937,
+        "to": 2019,
+        "name": "Washington Redskins",
+        "location": "Washington",
+        "nickname": "Redskins",
+        "city": "Landover",
+        "state": "MD",
+        "lat": 38.91,
+        "lng": -76.86,
+        "note": "Played at Griffith Stadium and RFK Stadium in Washington, D.C. 1937-1996; moved to what is now Northwest Stadium in Landover, MD in 1997."
+      },
+      {
+        "from": 2020,
+        "to": 2021,
+        "name": "Washington Football Team",
+        "location": "Washington",
+        "nickname": "Football Team",
+        "city": "Landover",
+        "state": "MD",
+        "lat": 38.91,
+        "lng": -76.86,
+        "note": null
+      },
+      {
+        "from": 2022,
+        "to": null,
+        "name": "Washington Commanders",
+        "location": "Washington",
+        "nickname": "Commanders",
+        "city": "Landover",
+        "state": "MD",
+        "lat": 38.91,
+        "lng": -76.86,
+        "note": null
+      }
+    ],
+    "notes": [
+      "Retired the \"Redskins\" name in 2020 after decades of criticism that it was a racial slur against Native Americans, playing two seasons as the \"Washington Football Team\" before adopting \"Commanders\" in 2022."
+    ]
+  }
+]

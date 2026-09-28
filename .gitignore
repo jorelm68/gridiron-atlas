@@ -34,6 +34,9 @@ yarn-error.log*
 .env*
 !.env.example
 
+# downloaded source data (nflverse etc.)
+/.cache
+
 # supabase cli local state
 /supabase/.temp
 /supabase/.branches

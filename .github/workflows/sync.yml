@@ -1,0 +1,65 @@
+name: Data sync
+
+# Refreshes Supabase from nflverse. Runs when the in-app "Update data" button (or the Actions tab) dispatches it,
+# and every Tuesday morning after Monday Night Football.
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "current = refresh this season · full = rebuild all history"
+        type: choice
+        options: [current, full]
+        default: current
+      seasons:
+        description: "Optional seasons to refresh, e.g. 2024-2026 (ignored when mode = full)"
+        required: false
+        default: ""
+  schedule:
+    - cron: "0 11 * * 2" # Tuesdays 11:00 UTC ≈ 7 AM ET
+
+concurrency:
+  group: data-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - run: npm ci
+
+      - name: Restore downloaded source files
+        uses: actions/cache@v4
+        with:
+          path: .cache/nflverse
+          key: nflverse-${{ github.run_id }}
+          restore-keys: nflverse-
+
+      - name: Sync
+        env:
+          NEXT_PUBLIC_SUPABASE_URL: ${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}
+          SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
+          SYNC_SECRET: ${{ secrets.SYNC_SECRET }}
+          APP_URL: ${{ vars.APP_URL }}
+          MODE: ${{ inputs.mode || 'current' }}
+          SEASONS: ${{ inputs.seasons }}
+          TRIGGER: ${{ github.event_name == 'schedule' && 'schedule' || 'button' }}
+        run: |
+          args=(--trigger "$TRIGGER")
+          if [ "$MODE" = "full" ]; then
+            args+=(--full)
+          elif [ -n "$SEASONS" ]; then
+            [[ "$SEASONS" =~ ^[0-9,-]+$ ]] || { echo "Invalid seasons: $SEASONS"; exit 1; }
+            args+=(--seasons "$SEASONS")
+          fi
+          npm run sync -- "${args[@]}"
