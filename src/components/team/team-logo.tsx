@@ -12,10 +12,12 @@ interface TeamLogoProps {
   size?: number;
   className?: string;
   priority?: boolean;
+  /** Defaults to lazy; pass "eager" for logos that are in view but positioned/hidden by script (e.g. Atlas markers). */
+  loading?: "eager" | "lazy";
 }
 
 /** Team logo from the ESPN CDN, falling back to a monogram in the team color if it fails to load. */
-export function TeamLogo({ name, abbr, logoUrl, color, size = 40, className, priority }: TeamLogoProps) {
+export function TeamLogo({ name, abbr, logoUrl, color, size = 40, className, priority, loading }: TeamLogoProps) {
   const [failed, setFailed] = useState(false);
 
   if (!logoUrl || failed) {
@@ -38,6 +40,7 @@ export function TeamLogo({ name, abbr, logoUrl, color, size = 40, className, pri
       width={size}
       height={size}
       priority={priority}
+      loading={priority ? undefined : loading}
       onError={() => setFailed(true)}
       className={cn("shrink-0 object-contain", className)}
       style={{ width: size, height: size }}
