@@ -1,0 +1,145 @@
+import type { StatDefinition } from "./types";
+
+export const advancedStats: StatDefinition[] = [
+  {
+    id: "expected-points",
+    name: "Expected Points & EPA",
+    abbr: "EP / EPA",
+    category: "advanced",
+    summary: "Expected Points (EP) is the average number of points a team in a given down, distance, and field position will score next; EPA is how much a single play changed that value.",
+    formulaTex: "\\text{EPA} = \\text{EP}_{after} - \\text{EP}_{before}",
+    variables: [
+      { symbol: "\\text{EP}_{before}", meaning: "Expected points for the offense before the play, given down/distance/field position" },
+      { symbol: "\\text{EP}_{after}", meaning: "Expected points for whichever team has the ball after the play (a turnover flips the sign)" },
+    ],
+    howToRead: [
+      "EP itself comes from a model trained on many years of NFL plays: it answers 'historically, how many points did teams in this exact situation go on to score before the drive/half ended?' 1st-and-goal at the 1 might be worth about +6 EP; your own 1st-and-10 at your 1-yard line might be worth about −1 EP (you're more likely to give up a safety or short field than to score).",
+      "EPA is the building block behind almost every other 'EPA per X' stat on this site (EPA per dropback, per carry, per target) — those just average EPA across a specific kind of play for one player.",
+      "A team or player's total season EPA answers 'how many points better off did this unit end up, compared to a league-average unit facing the same situations?'",
+    ],
+    pitfalls: [
+      "EP/EPA models differ slightly between providers (nflverse, ESPN, ESPN's ESPN Analytics, ...) because they're trained on different play samples and eras — comparing an EPA number from one source directly to another source's isn't perfectly apples-to-apples.",
+      "This app doesn't store individual plays (no raw play-by-play, per the project's scope), so all EPA figures here are nflverse's own pre-computed, play-level EPA already aggregated up to the game level before we store it.",
+    ],
+    related: ["epa-per-dropback", "rushing-epa-per-carry", "receiving-epa-per-target", "win-probability"],
+    availability: "1999–today (nflverse's EP model), though the model has been refined several times over that span",
+    workedExampleSubject: "TEAM",
+  },
+  {
+    id: "win-probability",
+    name: "Win Probability & WPA",
+    abbr: "WP / WPA",
+    category: "advanced",
+    summary: "Win Probability (WP) estimates a team's chance of winning the game at any moment; WPA is how much a single play changed that chance.",
+    formulaTex: "\\text{WPA} = \\text{WP}_{after} - \\text{WP}_{before}",
+    variables: [
+      { symbol: "\\text{WP}_{before}", meaning: "Modeled win probability right before the play, given score, time, down/distance, field position, and timeouts" },
+      { symbol: "\\text{WP}_{after}", meaning: "Modeled win probability right after the play" },
+    ],
+    howToRead: [
+      "Unlike EPA, WP explicitly accounts for the game clock and current score — the same 20-yard gain is worth far more WPA with 2 minutes left in a 1-score game than in the first quarter of a blowout.",
+      "WPA is how 'biggest play of the game' charts and win-probability graphs on broadcasts are built: the chart's steepest jumps are simply its largest single-play WPA swings.",
+      "This app stores a compact win-probability series per game (for a simple chart on the game page), computed during sync, rather than full play-by-play — see the project scope for why.",
+    ],
+    pitfalls: [
+      "Win probability models are less reliable in unusual game states (very early, very lopsided, or with rare clock/timeout situations) than in normal late-game, close-score scenarios, where they've been validated most.",
+      "A high WPA play isn't always a 'well-played' play — a lucky bounce or an opponent's mistake can swing win probability just as much as a great individual effort.",
+    ],
+    related: ["expected-points"],
+    availability: "Game-level win-probability series: 1999–today. Individual play WPA: not stored (no raw play-by-play).",
+    workedExampleSubject: "TEAM",
+  },
+  {
+    id: "success-rate",
+    name: "Success Rate",
+    category: "advanced",
+    summary: "The percentage of a team's or player's plays that count as a 'success' — typically defined as gaining enough yardage to keep the down-and-distance situation on schedule.",
+    formulaTex:
+      "\\text{Success} = \\begin{cases} \\ge 50\\% \\text{ of yards to go on 1st down} \\\\ \\ge 70\\% \\text{ of yards to go on 2nd down} \\\\ 100\\% \\text{ of yards to go (a first down) on 3rd/4th down} \\end{cases}",
+    howToRead: [
+      "Success rate is a steadier, less boom-or-bust way to judge efficiency than yards per play, since one 60-yard touchdown only counts as one success, the same as a tidy 6-yard gain on 2nd-and-5.",
+      "A common modern equivalent uses EPA > 0 on the play as the definition of 'success' instead of the classic yards-to-go thresholds above — both versions exist in public analytics, so always check which definition a source is using.",
+      "Team success rates in the mid-40s% (offense) are average; 48%+ marks an efficient, well-schemed offense that stays ahead of the chains.",
+    ],
+    pitfalls: [
+      "Because it requires play-by-play data (down, distance, and yards gained on every single snap) to compute, and this app does not store raw play-by-play, success rate is not something we can calculate from our own database — treat this page as a concept explainer.",
+    ],
+    related: ["rushing-epa-per-carry", "expected-points"],
+    availability: "Not computed by this app (requires play-by-play, which is out of scope — see docs/SCOPE.md). Public sources: nflfastR / nflverse's own success-rate leaderboards.",
+    workedExampleSubject: "TEAM",
+  },
+  {
+    id: "approximate-value",
+    name: "Approximate Value",
+    abbr: "AV",
+    category: "advanced",
+    summary: "A single number meant to summarize a player's overall contribution in a season (or career), across any position, so very different kinds of players can be roughly compared.",
+    howToRead: [
+      "AV was created by Pro-Football-Reference's Doug Drinen specifically because no other single stat lets you sensibly compare, say, a guard's season to a quarterback's season — it uses position-specific inputs (with different weighting per position) run through a common scale.",
+      "Treat AV as a rough sorting tool, not a precise ranking — Drinen himself has said it's meant to separate players into tiers ('clearly better,' 'in the same ballpark') rather than to declare, e.g., that a player with 14 AV was exactly 40% better than one with 10.",
+      "This app stores career AV (a single lifetime total per player), not a season-by-season breakdown — useful for quickly gauging a player's overall career weight, but not for tracking a single year's performance.",
+    ],
+    pitfalls: [
+      "AV weighs quarterbacks and other 'skill' positions differently than linemen and defenders using separate formulas — cross-position comparisons should be treated as very approximate, by design.",
+      "AV rewards playing time and team success to some degree, so a very good player on a bad team, or one who missed significant time to injury, can post a lower AV than his true talent level would suggest.",
+    ],
+    related: [],
+    availability: "Career total only, drafted players 1980–today (Pro-Football-Reference's Approximate Value, stored as players.career_av).",
+    proprietary: false,
+    workedExampleSubject: "TEAM",
+  },
+  {
+    id: "espn-qbr",
+    name: "ESPN Total QBR",
+    abbr: "QBR",
+    category: "advanced",
+    summary: "ESPN's proprietary 0–100 quarterback rating, meant to credit a QB for how much he actually contributed to winning, including plays other stats often miss.",
+    howToRead: [
+      "QBR is scaled so 50 represents a roughly average NFL starter; 75+ over a season is an excellent year, 80+ is MVP-level.",
+      "Unlike passer rating, QBR is designed to include rushing value, adjusts for the difficulty and game context of each play (garbage-time stats count for less), and accounts for how much a QB's own receivers, offensive line, and drops helped or hurt him.",
+    ],
+    pitfalls: [
+      "ESPN does not publish the exact formula or the full input weighting — QBR is a proprietary, closed model, so it can't be independently verified or reproduced the way passer rating or ANY/A can.",
+      "Because it's adjusted for so many contextual factors, QBR can move in ways that look surprising compared to a quarterback's raw box-score stats for the same game.",
+    ],
+    related: ["passer-rating", "any-a"],
+    availability: "Explained only — ESPN's proprietary metric, not computed or stored by this app.",
+    proprietary: true,
+  },
+  {
+    id: "pff-grades",
+    name: "PFF Grades",
+    category: "advanced",
+    summary: "Pro Football Focus's proprietary play-by-play grading system, where human analysts score every player on every play on a −2 to +2 scale, rolled up into game and season grades on a 0–100 scale.",
+    howToRead: [
+      "PFF grades are one of the few public resources that attempt to evaluate offensive and defensive linemen individually — positions where traditional box-score stats say almost nothing about performance.",
+      "A season grade of 90+ ('elite') is reserved for a small handful of the best players at a position each year; 60–69 ('average') is a normal, replacement-level-and-up starter.",
+    ],
+    pitfalls: [
+      "PFF grades come from trained human graders reviewing film, not from an objective formula — different graders and even PFF's own methodology have evolved over time, and grades for the same play can occasionally be debated.",
+      "The underlying play-by-play grades and grading rubric aren't fully public, so PFF grades can't be independently reproduced the way a stat with a published formula can.",
+    ],
+    related: ["espn-qbr", "dvoa"],
+    availability: "Explained only — Pro Football Focus's proprietary system, not computed or stored by this app.",
+    proprietary: true,
+  },
+  {
+    id: "dvoa",
+    name: "DVOA",
+    abbr: "DVOA",
+    category: "advanced",
+    summary: "Defense-adjusted Value Over Average — a proprietary efficiency metric (from Football Outsiders / FTN) that compares every play to a league-average baseline for that situation, then adjusts for opponent strength.",
+    formulaTex: "\\text{DVOA} = \\text{Value vs. league average for the play type, down, distance, and location} - \\text{opponent-adjustment}",
+    howToRead: [
+      "DVOA is expressed as a percentage above or below average (0% = exactly average); a good offense might grade around +10% to +15% DVOA for a season, a good defense around −10% to −15% (negative is good on defense, since it means allowing less value than average).",
+      "Its signature feature is the opponent adjustment — a team's raw numbers are scaled based on how good the defenses (or offenses) it faced were, which raw yardage and even EPA-based stats don't fully do on their own.",
+    ],
+    pitfalls: [
+      "The exact play-value baselines and opponent-adjustment formula are proprietary to Football Outsiders/FTN and not fully public, so DVOA can't be independently recomputed from raw stats the way, say, ANY/A can.",
+      "Because it's opponent-adjusted using that same season's results, early-season DVOA values are noisier and shift more from week to week than they do later in the season once more games are in the sample.",
+    ],
+    related: ["expected-points", "pff-grades"],
+    availability: "Explained only — Football Outsiders/FTN's proprietary metric, not computed or stored by this app.",
+    proprietary: true,
+  },
+];

@@ -6,7 +6,9 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       { protocol: "https", hostname: "a.espncdn.com" },
       { protocol: "https", hostname: "static.www.nfl.com" },
-      { protocol: "https", hostname: "upload.wikimedia.org" },
+      // Wildcarded: Wikipedia's REST API (used to source stadium photos) serves thumbnails from
+      // `thumb.wikimedia.org` as well as `upload.wikimedia.org`, depending on the image.
+      { protocol: "https", hostname: "*.wikimedia.org" },
     ],
   },
 };

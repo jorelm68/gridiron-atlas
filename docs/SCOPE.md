@@ -116,4 +116,11 @@ scraping Pro Football Reference · raw play-by-play storage · video.
 
 ## Status
 - 2026-09-27 — Project scaffolded (Next.js 16, Tailwind 4, Supabase CLI), setup-status page, subagents, private repo.
-  Waiting on: Supabase project + keys, Supabase CLI link, Supabase MCP connector.
+- 2026-09-28 — **Phase 0 done**: schema (core + phase 2 tables), full-history sync (34.8k players, 142k roster seasons,
+  7.5k games, 479k player-game stat lines, 893 team seasons, 12.9k draft picks, 67 venues with photos, 60 Super Bowls),
+  update button / GitHub Action / nfl-sync skill. DB ≈ 205 MB of the 500 MB free tier.
+  **Phase 1/2 in progress**: shell + Teams explorer + team pages done; Atlas, Learn, honors/coaches seeds underway.
+  Next: player pages, game pages, Phase 2 datasets (depth charts, injuries, snaps, contracts, trades, game flow),
+  guided tour, quizzes.
+- Known gaps: Hall of Fame flags cover only 1980+ draftees until the curated HOF seed loads; pre-1999 game results and
+  pre-2002 division alignment beyond 1999–2001 aren't loaded yet (Phase 4).

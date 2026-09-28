@@ -1,0 +1,4131 @@
+[
+  {
+    "name": "Bert Bell",
+    "class": 1963,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "PHI",
+      "PIT"
+    ],
+    "birth_date": "1895-02-25"
+  },
+  {
+    "name": "Bronko Nagurski",
+    "class": 1963,
+    "category": "player",
+    "position": "FB",
+    "franchises": [
+      "CHI"
+    ],
+    "birth_date": "1908-11-03"
+  },
+  {
+    "name": "Cal Hubbard",
+    "class": 1963,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "NYG",
+      "GB",
+      "PIT"
+    ],
+    "birth_date": "1900-10-31"
+  },
+  {
+    "name": "Don Hutson",
+    "class": 1963,
+    "category": "player",
+    "position": "TE",
+    "franchises": [
+      "GB"
+    ],
+    "birth_date": "1913-01-31"
+  },
+  {
+    "name": "Dutch Clark",
+    "class": 1963,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "DET"
+    ],
+    "birth_date": "1906-10-11"
+  },
+  {
+    "name": "Earl \"Curly\" Lambeau",
+    "class": 1963,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "GB",
+      "ARI",
+      "WAS"
+    ],
+    "birth_date": "1898-04-09"
+  },
+  {
+    "name": "Ernie Nevers",
+    "class": 1963,
+    "category": "player",
+    "position": "FB",
+    "franchises": [
+      "ARI"
+    ],
+    "birth_date": "1902-06-11"
+  },
+  {
+    "name": "George Halas",
+    "class": 1963,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "CHI"
+    ],
+    "birth_date": "1895-02-02"
+  },
+  {
+    "name": "George Preston Marshall",
+    "class": 1963,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "WAS"
+    ],
+    "birth_date": "1896-10-11"
+  },
+  {
+    "name": "Harold \"Red\" Grange",
+    "class": 1963,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "CHI"
+    ],
+    "birth_date": "1903-06-13"
+  },
+  {
+    "name": "Jim Thorpe",
+    "class": 1963,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "NYG",
+      "ARI"
+    ],
+    "birth_date": null
+  },
+  {
+    "name": "Johnny Blood",
+    "class": 1963,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "GB",
+      "PIT"
+    ],
+    "birth_date": "1903-11-27"
+  },
+  {
+    "name": "Joseph Carr",
+    "class": 1963,
+    "category": "contributor",
+    "position": null,
+    "franchises": [],
+    "birth_date": "1880-10-22"
+  },
+  {
+    "name": "Mel Hein",
+    "class": 1963,
+    "category": "player",
+    "position": "C",
+    "franchises": [
+      "NYG"
+    ],
+    "birth_date": "1909-08-22"
+  },
+  {
+    "name": "Pete Henry",
+    "class": 1963,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "NYG"
+    ],
+    "birth_date": "1897-10-31"
+  },
+  {
+    "name": "Sammy Baugh",
+    "class": 1963,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "WAS"
+    ],
+    "birth_date": "1914-03-17"
+  },
+  {
+    "name": "Tim Mara",
+    "class": 1963,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "NYG"
+    ],
+    "birth_date": "1887-07-29"
+  },
+  {
+    "name": "Art Rooney",
+    "class": 1964,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "PIT"
+    ],
+    "birth_date": "1901-01-27"
+  },
+  {
+    "name": "Clarke Hinkle",
+    "class": 1964,
+    "category": "player",
+    "position": "FB",
+    "franchises": [
+      "GB"
+    ],
+    "birth_date": "1909-04-10"
+  },
+  {
+    "name": "Ed Healey",
+    "class": 1964,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "CHI"
+    ],
+    "birth_date": "1894-12-28"
+  },
+  {
+    "name": "George Trafton",
+    "class": 1964,
+    "category": "player",
+    "position": "C",
+    "franchises": [
+      "CHI"
+    ],
+    "birth_date": "1896-12-06"
+  },
+  {
+    "name": "Jimmy Conzelman",
+    "class": 1964,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "CHI",
+      "ARI"
+    ],
+    "birth_date": "1898-03-06"
+  },
+  {
+    "name": "Mike Michalske",
+    "class": 1964,
+    "category": "player",
+    "position": "G",
+    "franchises": [
+      "GB"
+    ],
+    "birth_date": "1903-04-24"
+  },
+  {
+    "name": "William R. Lyman",
+    "class": 1964,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "CHI"
+    ],
+    "birth_date": "1898-11-30"
+  },
+  {
+    "name": "Bob Waterfield",
+    "class": 1965,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "LA"
+    ],
+    "birth_date": "1920-07-26"
+  },
+  {
+    "name": "Dan Fortmann",
+    "class": 1965,
+    "category": "player",
+    "position": "G",
+    "franchises": [
+      "CHI"
+    ],
+    "birth_date": "1916-04-11"
+  },
+  {
+    "name": "Guy Chamberlin",
+    "class": 1965,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "CHI",
+      "ARI"
+    ],
+    "birth_date": "1894-01-16"
+  },
+  {
+    "name": "John \"Paddy\" Driscoll",
+    "class": 1965,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "CHI",
+      "ARI"
+    ],
+    "birth_date": "1896-01-11"
+  },
+  {
+    "name": "Otto Graham",
+    "class": 1965,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "CLE"
+    ],
+    "birth_date": "1921-12-06"
+  },
+  {
+    "name": "Sid Luckman",
+    "class": 1965,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "CHI"
+    ],
+    "birth_date": "1916-11-21"
+  },
+  {
+    "name": "Steve Van Buren",
+    "class": 1965,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "PHI"
+    ],
+    "birth_date": "1920-12-28"
+  },
+  {
+    "name": "Arnie Herber",
+    "class": 1966,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "GB",
+      "NYG"
+    ],
+    "birth_date": "1910-04-02"
+  },
+  {
+    "name": "Bill Dudley",
+    "class": 1966,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "PIT",
+      "DET",
+      "WAS"
+    ],
+    "birth_date": "1921-12-24"
+  },
+  {
+    "name": "Bulldog Turner",
+    "class": 1966,
+    "category": "player",
+    "position": "C",
+    "franchises": [
+      "CHI"
+    ],
+    "birth_date": "1919-03-10"
+  },
+  {
+    "name": "George McAfee",
+    "class": 1966,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "CHI"
+    ],
+    "birth_date": "1918-03-13"
+  },
+  {
+    "name": "Hugh \"Shorty\" Ray",
+    "class": 1966,
+    "category": "contributor",
+    "position": null,
+    "franchises": [],
+    "birth_date": "1884-09-21"
+  },
+  {
+    "name": "Joe Guyon",
+    "class": 1966,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "NYG"
+    ],
+    "birth_date": "1892-11-26"
+  },
+  {
+    "name": "Steve Owen",
+    "class": 1966,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "NYG"
+    ],
+    "birth_date": "1898-04-21"
+  },
+  {
+    "name": "Walt Kiesling",
+    "class": 1966,
+    "category": "player",
+    "position": "G",
+    "franchises": [
+      "ARI",
+      "CHI",
+      "GB",
+      "PIT"
+    ],
+    "birth_date": "1903-05-27"
+  },
+  {
+    "name": "Bobby Layne",
+    "class": 1967,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "CHI",
+      "DET",
+      "PIT"
+    ],
+    "birth_date": "1926-12-19"
+  },
+  {
+    "name": "Charles Bidwill",
+    "class": 1967,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "ARI"
+    ],
+    "birth_date": "1895-09-16"
+  },
+  {
+    "name": "Chuck Bednarik",
+    "class": 1967,
+    "category": "player",
+    "position": "C",
+    "franchises": [
+      "PHI"
+    ],
+    "birth_date": "1925-05-01"
+  },
+  {
+    "name": "Dan Reeves",
+    "class": 1967,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "LA"
+    ],
+    "birth_date": "1912-06-30"
+  },
+  {
+    "name": "Emlen Tunnell",
+    "class": 1967,
+    "category": "player",
+    "position": "S",
+    "franchises": [
+      "NYG",
+      "GB"
+    ],
+    "birth_date": "1924-03-29"
+  },
+  {
+    "name": "Joe Stydahar",
+    "class": 1967,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "CHI",
+      "LA",
+      "ARI"
+    ],
+    "birth_date": "1912-03-17"
+  },
+  {
+    "name": "Ken Strong",
+    "class": 1967,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "NYG"
+    ],
+    "birth_date": "1906-04-21"
+  },
+  {
+    "name": "Paul Brown",
+    "class": 1967,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "CLE",
+      "CIN"
+    ],
+    "birth_date": "1908-09-07"
+  },
+  {
+    "name": "Alex Wojciechowicz",
+    "class": 1968,
+    "category": "player",
+    "position": "C",
+    "franchises": [
+      "DET",
+      "PHI"
+    ],
+    "birth_date": "1915-08-12"
+  },
+  {
+    "name": "Art Donovan",
+    "class": 1968,
+    "category": "player",
+    "position": "DT",
+    "franchises": [
+      "IND"
+    ],
+    "birth_date": "1924-06-05"
+  },
+  {
+    "name": "Charley Trippi",
+    "class": 1968,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "ARI"
+    ],
+    "birth_date": "1921-12-14"
+  },
+  {
+    "name": "Cliff Battles",
+    "class": 1968,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "WAS"
+    ],
+    "birth_date": "1910-05-01"
+  },
+  {
+    "name": "Elroy (Crazylegs) Hirsch",
+    "class": 1968,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "LA"
+    ],
+    "birth_date": "1923-06-17"
+  },
+  {
+    "name": "Marion Motley",
+    "class": 1968,
+    "category": "player",
+    "position": "FB",
+    "franchises": [
+      "CLE",
+      "PIT"
+    ],
+    "birth_date": "1920-06-05"
+  },
+  {
+    "name": "Wayne Millner",
+    "class": 1968,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "WAS"
+    ],
+    "birth_date": "1913-01-31"
+  },
+  {
+    "name": "Albert Glen \"Turk\" Edwards",
+    "class": 1969,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "WAS"
+    ],
+    "birth_date": "1907-09-28"
+  },
+  {
+    "name": "Ernie Stautner",
+    "class": 1969,
+    "category": "player",
+    "position": "DT",
+    "franchises": [
+      "PIT"
+    ],
+    "birth_date": "1925-04-20"
+  },
+  {
+    "name": "Greasy Neale",
+    "class": 1969,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "PHI"
+    ],
+    "birth_date": "1891-11-05"
+  },
+  {
+    "name": "Joe Perry",
+    "class": 1969,
+    "category": "player",
+    "position": "FB",
+    "franchises": [
+      "SF",
+      "IND"
+    ],
+    "birth_date": "1927-01-22"
+  },
+  {
+    "name": "Leo Nomellini",
+    "class": 1969,
+    "category": "player",
+    "position": "DT",
+    "franchises": [
+      "SF"
+    ],
+    "birth_date": "1924-06-19"
+  },
+  {
+    "name": "Hugh McElhenny",
+    "class": 1970,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "SF",
+      "MIN",
+      "NYG",
+      "DET"
+    ],
+    "birth_date": "1928-12-31"
+  },
+  {
+    "name": "Jack Christiansen",
+    "class": 1970,
+    "category": "player",
+    "position": "S",
+    "franchises": [
+      "DET"
+    ],
+    "birth_date": "1928-12-20"
+  },
+  {
+    "name": "Pete Pihos",
+    "class": 1970,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "PHI"
+    ],
+    "birth_date": "1923-10-22"
+  },
+  {
+    "name": "Tom Fears",
+    "class": 1970,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "LA"
+    ],
+    "birth_date": "1922-12-03"
+  },
+  {
+    "name": "Andy Robustelli",
+    "class": 1971,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "LA",
+      "NYG"
+    ],
+    "birth_date": "1925-12-06"
+  },
+  {
+    "name": "Bill Hewitt",
+    "class": 1971,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "CHI",
+      "PHI"
+    ],
+    "birth_date": "1909-10-08"
+  },
+  {
+    "name": "Frank \"Bruiser\" Kinard",
+    "class": 1971,
+    "category": "player",
+    "position": "T",
+    "franchises": [],
+    "birth_date": "1914-10-23"
+  },
+  {
+    "name": "Jim Brown",
+    "class": 1971,
+    "category": "player",
+    "position": "FB",
+    "franchises": [
+      "CLE"
+    ],
+    "birth_date": "1936-02-17"
+  },
+  {
+    "name": "Norm Van Brocklin",
+    "class": 1971,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "LA",
+      "PHI"
+    ],
+    "birth_date": "1926-03-15"
+  },
+  {
+    "name": "Vince Lombardi",
+    "class": 1971,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "GB",
+      "WAS"
+    ],
+    "birth_date": "1913-06-11"
+  },
+  {
+    "name": "Y. A. Tittle",
+    "class": 1971,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "SF",
+      "NYG"
+    ],
+    "birth_date": "1926-10-24"
+  },
+  {
+    "name": "Ace Parker",
+    "class": 1972,
+    "category": "player",
+    "position": "QB",
+    "franchises": [],
+    "birth_date": "1912-05-17"
+  },
+  {
+    "name": "Gino Marchetti",
+    "class": 1972,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "IND"
+    ],
+    "birth_date": "1927-01-02"
+  },
+  {
+    "name": "Lamar Hunt",
+    "class": 1972,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "KC"
+    ],
+    "birth_date": "1932-08-02"
+  },
+  {
+    "name": "Ollie Matson",
+    "class": 1972,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "ARI",
+      "LA",
+      "DET",
+      "PHI"
+    ],
+    "birth_date": "1930-05-01"
+  },
+  {
+    "name": "Jim Parker",
+    "class": 1973,
+    "category": "player",
+    "position": "G",
+    "franchises": [
+      "IND"
+    ],
+    "birth_date": "1934-04-03"
+  },
+  {
+    "name": "Joe Schmidt",
+    "class": 1973,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "DET"
+    ],
+    "birth_date": "1932-01-19"
+  },
+  {
+    "name": "Raymond Berry",
+    "class": 1973,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "IND"
+    ],
+    "birth_date": "1933-02-27"
+  },
+  {
+    "name": "Bill George",
+    "class": 1974,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "CHI",
+      "LA"
+    ],
+    "birth_date": "1929-10-27"
+  },
+  {
+    "name": "Dick \"Night Train\" Lane",
+    "class": 1974,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "LA",
+      "ARI",
+      "DET"
+    ],
+    "birth_date": null
+  },
+  {
+    "name": "Lou Groza",
+    "class": 1974,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "CLE"
+    ],
+    "birth_date": "1924-01-25"
+  },
+  {
+    "name": "Tony Canadeo",
+    "class": 1974,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "GB"
+    ],
+    "birth_date": "1919-05-05"
+  },
+  {
+    "name": "Dante Lavelli",
+    "class": 1975,
+    "category": "player",
+    "position": "TE",
+    "franchises": [
+      "CLE"
+    ],
+    "birth_date": "1923-02-23"
+  },
+  {
+    "name": "George Connor",
+    "class": 1975,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "CHI"
+    ],
+    "birth_date": "1925-01-21"
+  },
+  {
+    "name": "Lenny Moore",
+    "class": 1975,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "IND"
+    ],
+    "birth_date": "1933-11-25"
+  },
+  {
+    "name": "Rosey Brown",
+    "class": 1975,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "NYG"
+    ],
+    "birth_date": "1932-10-20"
+  },
+  {
+    "name": "Jim Taylor",
+    "class": 1976,
+    "category": "player",
+    "position": "FB",
+    "franchises": [
+      "GB",
+      "NO"
+    ],
+    "birth_date": "1935-09-20"
+  },
+  {
+    "name": "Len Ford",
+    "class": 1976,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "CLE",
+      "GB"
+    ],
+    "birth_date": "1926-02-18"
+  },
+  {
+    "name": "Ray Flaherty",
+    "class": 1976,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "NYG",
+      "WAS"
+    ],
+    "birth_date": "1903-09-01"
+  },
+  {
+    "name": "Bart Starr",
+    "class": 1977,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "GB"
+    ],
+    "birth_date": "1934-01-09"
+  },
+  {
+    "name": "Bill Willis",
+    "class": 1977,
+    "category": "player",
+    "position": "DT",
+    "franchises": [
+      "CLE"
+    ],
+    "birth_date": "1921-10-05"
+  },
+  {
+    "name": "Forrest Gregg",
+    "class": 1977,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "GB",
+      "DAL"
+    ],
+    "birth_date": "1933-10-18"
+  },
+  {
+    "name": "Frank Gifford",
+    "class": 1977,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "NYG"
+    ],
+    "birth_date": "1930-08-16"
+  },
+  {
+    "name": "Gale Sayers",
+    "class": 1977,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "CHI"
+    ],
+    "birth_date": "1943-05-30"
+  },
+  {
+    "name": "Alphonse \"Tuffy\" Leemans",
+    "class": 1978,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "NYG"
+    ],
+    "birth_date": "1912-11-12"
+  },
+  {
+    "name": "Lance Alworth",
+    "class": 1978,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "LAC",
+      "DAL"
+    ],
+    "birth_date": "1940-08-03"
+  },
+  {
+    "name": "Larry Wilson",
+    "class": 1978,
+    "category": "player",
+    "position": "S",
+    "franchises": [
+      "ARI"
+    ],
+    "birth_date": "1938-03-24"
+  },
+  {
+    "name": "Ray Nitschke",
+    "class": 1978,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "GB"
+    ],
+    "birth_date": "1936-12-29"
+  },
+  {
+    "name": "Weeb Ewbank",
+    "class": 1978,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "IND",
+      "NYJ"
+    ],
+    "birth_date": "1907-05-06"
+  },
+  {
+    "name": "Dick Butkus",
+    "class": 1979,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "CHI"
+    ],
+    "birth_date": "1942-12-09"
+  },
+  {
+    "name": "Johnny Unitas",
+    "class": 1979,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "IND",
+      "LAC"
+    ],
+    "birth_date": "1933-05-07"
+  },
+  {
+    "name": "Ron Mix",
+    "class": 1979,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "LAC",
+      "LV"
+    ],
+    "birth_date": "1938-03-10"
+  },
+  {
+    "name": "Yale Lary",
+    "class": 1979,
+    "category": "player",
+    "position": "S",
+    "franchises": [
+      "DET"
+    ],
+    "birth_date": "1930-11-24"
+  },
+  {
+    "name": "Bob Lilly",
+    "class": 1980,
+    "category": "player",
+    "position": "DT",
+    "franchises": [
+      "DAL"
+    ],
+    "birth_date": "1939-07-26"
+  },
+  {
+    "name": "Deacon Jones",
+    "class": 1980,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "LA",
+      "LAC",
+      "WAS"
+    ],
+    "birth_date": "1938-12-09"
+  },
+  {
+    "name": "Herb Adderley",
+    "class": 1980,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "GB",
+      "DAL"
+    ],
+    "birth_date": "1939-06-08"
+  },
+  {
+    "name": "Jim Otto",
+    "class": 1980,
+    "category": "player",
+    "position": "C",
+    "franchises": [
+      "LV"
+    ],
+    "birth_date": "1938-01-05"
+  },
+  {
+    "name": "George Blanda",
+    "class": 1981,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "CHI",
+      "TEN",
+      "LV"
+    ],
+    "birth_date": "1927-09-17"
+  },
+  {
+    "name": "Jim Ringo",
+    "class": 1981,
+    "category": "player",
+    "position": "C",
+    "franchises": [
+      "GB",
+      "PHI"
+    ],
+    "birth_date": "1931-11-21"
+  },
+  {
+    "name": "Red Badgro",
+    "class": 1981,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "NYG"
+    ],
+    "birth_date": "1902-12-01"
+  },
+  {
+    "name": "Willie Davis",
+    "class": 1981,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "CLE",
+      "GB"
+    ],
+    "birth_date": "1934-07-24"
+  },
+  {
+    "name": "Doug Atkins",
+    "class": 1982,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "CLE",
+      "CHI",
+      "NO"
+    ],
+    "birth_date": "1930-05-08"
+  },
+  {
+    "name": "George Musso",
+    "class": 1982,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "CHI"
+    ],
+    "birth_date": "1910-04-08"
+  },
+  {
+    "name": "Merlin Olsen",
+    "class": 1982,
+    "category": "player",
+    "position": "DT",
+    "franchises": [
+      "LA"
+    ],
+    "birth_date": "1940-09-15"
+  },
+  {
+    "name": "Sam Huff",
+    "class": 1982,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "NYG",
+      "WAS"
+    ],
+    "birth_date": "1934-10-04"
+  },
+  {
+    "name": "Bobby Bell",
+    "class": 1983,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "KC"
+    ],
+    "birth_date": "1940-06-17"
+  },
+  {
+    "name": "Bobby Mitchell",
+    "class": 1983,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "CLE",
+      "WAS"
+    ],
+    "birth_date": "1935-06-06"
+  },
+  {
+    "name": "Paul Warfield",
+    "class": 1983,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "CLE",
+      "MIA"
+    ],
+    "birth_date": "1942-11-28"
+  },
+  {
+    "name": "Sid Gillman",
+    "class": 1983,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "LA",
+      "LAC",
+      "TEN"
+    ],
+    "birth_date": "1911-10-26"
+  },
+  {
+    "name": "Sonny Jurgensen",
+    "class": 1983,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "PHI",
+      "WAS"
+    ],
+    "birth_date": "1934-08-23"
+  },
+  {
+    "name": "Arnie Weinmeister",
+    "class": 1984,
+    "category": "player",
+    "position": "DT",
+    "franchises": [
+      "NYG"
+    ],
+    "birth_date": "1923-03-23"
+  },
+  {
+    "name": "Charley Taylor",
+    "class": 1984,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "WAS"
+    ],
+    "birth_date": "1941-09-28"
+  },
+  {
+    "name": "Mike McCormack",
+    "class": 1984,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "CLE"
+    ],
+    "birth_date": "1930-06-21"
+  },
+  {
+    "name": "Willie Brown",
+    "class": 1984,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "DEN",
+      "LV"
+    ],
+    "birth_date": "1940-12-02"
+  },
+  {
+    "name": "Frank Gatski",
+    "class": 1985,
+    "category": "player",
+    "position": "C",
+    "franchises": [
+      "CLE",
+      "DET"
+    ],
+    "birth_date": "1921-03-18"
+  },
+  {
+    "name": "Joe Namath",
+    "class": 1985,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "NYJ",
+      "LA"
+    ],
+    "birth_date": "1943-05-31"
+  },
+  {
+    "name": "O. J. Simpson",
+    "class": 1985,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "BUF",
+      "SF"
+    ],
+    "birth_date": "1947-07-09"
+  },
+  {
+    "name": "Pete Rozelle",
+    "class": 1985,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "LA"
+    ],
+    "birth_date": "1926-03-01"
+  },
+  {
+    "name": "Roger Staubach",
+    "class": 1985,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "DAL"
+    ],
+    "birth_date": "1942-02-05"
+  },
+  {
+    "name": "Doak Walker",
+    "class": 1986,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "DET"
+    ],
+    "birth_date": "1927-01-01"
+  },
+  {
+    "name": "Fran Tarkenton",
+    "class": 1986,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "MIN",
+      "NYG"
+    ],
+    "birth_date": "1940-02-03"
+  },
+  {
+    "name": "Ken Houston",
+    "class": 1986,
+    "category": "player",
+    "position": "S",
+    "franchises": [
+      "TEN",
+      "WAS"
+    ],
+    "birth_date": "1944-11-12"
+  },
+  {
+    "name": "Paul Hornung",
+    "class": 1986,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "GB"
+    ],
+    "birth_date": "1935-12-23"
+  },
+  {
+    "name": "Willie Lanier",
+    "class": 1986,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "KC"
+    ],
+    "birth_date": "1945-08-21"
+  },
+  {
+    "name": "Don Maynard",
+    "class": 1987,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "NYG",
+      "NYJ",
+      "ARI"
+    ],
+    "birth_date": "1935-01-25"
+  },
+  {
+    "name": "Gene Upshaw",
+    "class": 1987,
+    "category": "player",
+    "position": "G",
+    "franchises": [
+      "LV"
+    ],
+    "birth_date": "1945-08-15"
+  },
+  {
+    "name": "Jim Langer",
+    "class": 1987,
+    "category": "player",
+    "position": "C",
+    "franchises": [
+      "MIA",
+      "MIN"
+    ],
+    "birth_date": "1948-05-16"
+  },
+  {
+    "name": "Joe Greene",
+    "class": 1987,
+    "category": "player",
+    "position": "DT",
+    "franchises": [
+      "PIT"
+    ],
+    "birth_date": "1946-09-24"
+  },
+  {
+    "name": "John Henry Johnson",
+    "class": 1987,
+    "category": "player",
+    "position": "FB",
+    "franchises": [
+      "SF",
+      "DET",
+      "PIT",
+      "TEN"
+    ],
+    "birth_date": "1929-11-24"
+  },
+  {
+    "name": "Larry Csonka",
+    "class": 1987,
+    "category": "player",
+    "position": "FB",
+    "franchises": [
+      "MIA",
+      "NYG"
+    ],
+    "birth_date": "1946-12-25"
+  },
+  {
+    "name": "Len Dawson",
+    "class": 1987,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "PIT",
+      "CLE",
+      "KC"
+    ],
+    "birth_date": "1935-06-20"
+  },
+  {
+    "name": "Alan Page",
+    "class": 1988,
+    "category": "player",
+    "position": "DT",
+    "franchises": [
+      "MIN",
+      "CHI"
+    ],
+    "birth_date": "1945-08-07"
+  },
+  {
+    "name": "Fred Biletnikoff",
+    "class": 1988,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "LV"
+    ],
+    "birth_date": "1943-02-23"
+  },
+  {
+    "name": "Jack Ham",
+    "class": 1988,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "PIT"
+    ],
+    "birth_date": "1948-12-23"
+  },
+  {
+    "name": "Mike Ditka",
+    "class": 1988,
+    "category": "player",
+    "position": "TE",
+    "franchises": [
+      "CHI",
+      "PHI",
+      "DAL"
+    ],
+    "birth_date": "1939-10-18"
+  },
+  {
+    "name": "Art Shell",
+    "class": 1989,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "LV"
+    ],
+    "birth_date": "1946-11-26"
+  },
+  {
+    "name": "Mel Blount",
+    "class": 1989,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "PIT"
+    ],
+    "birth_date": "1948-04-10"
+  },
+  {
+    "name": "Terry Bradshaw",
+    "class": 1989,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "PIT"
+    ],
+    "birth_date": "1948-09-02"
+  },
+  {
+    "name": "Willie Wood",
+    "class": 1989,
+    "category": "player",
+    "position": "S",
+    "franchises": [
+      "GB"
+    ],
+    "birth_date": "1936-12-23"
+  },
+  {
+    "name": "Bob Griese",
+    "class": 1990,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "MIA"
+    ],
+    "birth_date": "1945-02-03"
+  },
+  {
+    "name": "Bob St. Clair",
+    "class": 1990,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "SF"
+    ],
+    "birth_date": "1931-02-18"
+  },
+  {
+    "name": "Buck Buchanan",
+    "class": 1990,
+    "category": "player",
+    "position": "DT",
+    "franchises": [
+      "KC"
+    ],
+    "birth_date": "1939-09-10"
+  },
+  {
+    "name": "Franco Harris",
+    "class": 1990,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "PIT",
+      "SEA"
+    ],
+    "birth_date": "1950-03-07"
+  },
+  {
+    "name": "Jack Lambert",
+    "class": 1990,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "PIT"
+    ],
+    "birth_date": "1952-07-08"
+  },
+  {
+    "name": "Ted Hendricks",
+    "class": 1990,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "IND",
+      "GB",
+      "LV"
+    ],
+    "birth_date": "1947-11-01"
+  },
+  {
+    "name": "Tom Landry",
+    "class": 1990,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "DAL"
+    ],
+    "birth_date": "1924-09-11"
+  },
+  {
+    "name": "Earl Campbell",
+    "class": 1991,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "TEN",
+      "NO"
+    ],
+    "birth_date": "1955-03-29"
+  },
+  {
+    "name": "Jan Stenerud",
+    "class": 1991,
+    "category": "player",
+    "position": "K",
+    "franchises": [
+      "KC",
+      "GB",
+      "MIN"
+    ],
+    "birth_date": "1942-11-26"
+  },
+  {
+    "name": "John Hannah",
+    "class": 1991,
+    "category": "player",
+    "position": "G",
+    "franchises": [
+      "NE"
+    ],
+    "birth_date": "1951-04-04"
+  },
+  {
+    "name": "Stan Jones",
+    "class": 1991,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "CHI",
+      "WAS"
+    ],
+    "birth_date": "1931-11-24"
+  },
+  {
+    "name": "Tex Schramm",
+    "class": 1991,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "LA",
+      "DAL"
+    ],
+    "birth_date": "1920-06-02"
+  },
+  {
+    "name": "Al Davis",
+    "class": 1992,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "LV"
+    ],
+    "birth_date": "1929-07-04"
+  },
+  {
+    "name": "John Mackey",
+    "class": 1992,
+    "category": "player",
+    "position": "TE",
+    "franchises": [
+      "IND",
+      "LAC"
+    ],
+    "birth_date": "1941-09-24"
+  },
+  {
+    "name": "John Riggins",
+    "class": 1992,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "NYJ",
+      "WAS"
+    ],
+    "birth_date": "1949-08-04"
+  },
+  {
+    "name": "Lem Barney",
+    "class": 1992,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "DET"
+    ],
+    "birth_date": "1945-09-08"
+  },
+  {
+    "name": "Bill Walsh",
+    "class": 1993,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "SF"
+    ],
+    "birth_date": "1931-11-30"
+  },
+  {
+    "name": "Chuck Noll",
+    "class": 1993,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "PIT"
+    ],
+    "birth_date": "1932-01-05"
+  },
+  {
+    "name": "Dan Fouts",
+    "class": 1993,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "LAC"
+    ],
+    "birth_date": "1951-06-10"
+  },
+  {
+    "name": "Larry Little",
+    "class": 1993,
+    "category": "player",
+    "position": "G",
+    "franchises": [
+      "LAC",
+      "MIA"
+    ],
+    "birth_date": "1945-11-02"
+  },
+  {
+    "name": "Walter Payton",
+    "class": 1993,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "CHI"
+    ],
+    "birth_date": "1954-07-25"
+  },
+  {
+    "name": "Bud Grant",
+    "class": 1994,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "MIN"
+    ],
+    "birth_date": "1927-05-20"
+  },
+  {
+    "name": "Jackie Smith",
+    "class": 1994,
+    "category": "player",
+    "position": "TE",
+    "franchises": [
+      "ARI",
+      "DAL"
+    ],
+    "birth_date": "1940-02-23"
+  },
+  {
+    "name": "Jimmy Johnson",
+    "class": 1994,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "SF"
+    ],
+    "birth_date": "1938-03-31"
+  },
+  {
+    "name": "Leroy Kelly",
+    "class": 1994,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "CLE"
+    ],
+    "birth_date": "1942-05-20"
+  },
+  {
+    "name": "Randy White",
+    "class": 1994,
+    "category": "player",
+    "position": "DT",
+    "franchises": [
+      "DAL"
+    ],
+    "birth_date": "1953-01-15"
+  },
+  {
+    "name": "Tony Dorsett",
+    "class": 1994,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "DAL",
+      "DEN"
+    ],
+    "birth_date": "1954-04-07"
+  },
+  {
+    "name": "Henry Jordan",
+    "class": 1995,
+    "category": "player",
+    "position": "DT",
+    "franchises": [
+      "CLE",
+      "GB"
+    ],
+    "birth_date": "1935-01-26"
+  },
+  {
+    "name": "Jim Finks",
+    "class": 1995,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "MIN",
+      "CHI",
+      "NO"
+    ],
+    "birth_date": "1927-08-31"
+  },
+  {
+    "name": "Kellen Winslow",
+    "class": 1995,
+    "category": "player",
+    "position": "TE",
+    "franchises": [
+      "LAC"
+    ],
+    "birth_date": "1957-11-05"
+  },
+  {
+    "name": "Lee Roy Selmon",
+    "class": 1995,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "TB"
+    ],
+    "birth_date": "1954-10-20"
+  },
+  {
+    "name": "Steve Largent",
+    "class": 1995,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "SEA"
+    ],
+    "birth_date": "1954-09-28"
+  },
+  {
+    "name": "Charlie Joiner",
+    "class": 1996,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "TEN",
+      "CIN",
+      "LAC"
+    ],
+    "birth_date": "1947-10-14"
+  },
+  {
+    "name": "Dan Dierdorf",
+    "class": 1996,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "ARI"
+    ],
+    "birth_date": "1949-06-29"
+  },
+  {
+    "name": "Joe Gibbs",
+    "class": 1996,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "WAS"
+    ],
+    "birth_date": "1940-11-25"
+  },
+  {
+    "name": "Lou Creekmur",
+    "class": 1996,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "DET"
+    ],
+    "birth_date": "1927-01-22"
+  },
+  {
+    "name": "Mel Renfro",
+    "class": 1996,
+    "category": "player",
+    "position": "S",
+    "franchises": [
+      "DAL"
+    ],
+    "birth_date": "1941-12-30"
+  },
+  {
+    "name": "Don Shula",
+    "class": 1997,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "IND",
+      "MIA"
+    ],
+    "birth_date": "1930-01-04"
+  },
+  {
+    "name": "Mike Haynes",
+    "class": 1997,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "NE",
+      "LV"
+    ],
+    "birth_date": "1953-07-01"
+  },
+  {
+    "name": "Mike Webster",
+    "class": 1997,
+    "category": "player",
+    "position": "C",
+    "franchises": [
+      "PIT",
+      "KC"
+    ],
+    "birth_date": "1952-03-18"
+  },
+  {
+    "name": "Wellington Mara",
+    "class": 1997,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "NYG"
+    ],
+    "birth_date": "1916-08-14"
+  },
+  {
+    "name": "Anthony Muñoz",
+    "class": 1998,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "CIN"
+    ],
+    "birth_date": "1958-08-19"
+  },
+  {
+    "name": "Dwight Stephenson",
+    "class": 1998,
+    "category": "player",
+    "position": "C",
+    "franchises": [
+      "MIA"
+    ],
+    "birth_date": "1957-11-20"
+  },
+  {
+    "name": "Mike Singletary",
+    "class": 1998,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "CHI"
+    ],
+    "birth_date": "1958-10-09"
+  },
+  {
+    "name": "Paul Krause",
+    "class": 1998,
+    "category": "player",
+    "position": "S",
+    "franchises": [
+      "WAS",
+      "MIN"
+    ],
+    "birth_date": "1942-02-19"
+  },
+  {
+    "name": "Tommy McDonald",
+    "class": 1998,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "PHI",
+      "DAL",
+      "LA",
+      "ATL",
+      "CLE"
+    ],
+    "birth_date": "1934-07-26"
+  },
+  {
+    "name": "Billy Shaw",
+    "class": 1999,
+    "category": "player",
+    "position": "G",
+    "franchises": [
+      "BUF"
+    ],
+    "birth_date": "1938-12-15"
+  },
+  {
+    "name": "Eric Dickerson",
+    "class": 1999,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "LA",
+      "IND",
+      "LV",
+      "ATL"
+    ],
+    "birth_date": "1960-09-02"
+  },
+  {
+    "name": "Lawrence Taylor",
+    "class": 1999,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "NYG"
+    ],
+    "birth_date": "1959-02-04"
+  },
+  {
+    "name": "Ozzie Newsome",
+    "class": 1999,
+    "category": "player",
+    "position": "TE",
+    "franchises": [
+      "CLE"
+    ],
+    "birth_date": "1956-03-16"
+  },
+  {
+    "name": "Tom Mack",
+    "class": 1999,
+    "category": "player",
+    "position": "G",
+    "franchises": [
+      "LA"
+    ],
+    "birth_date": "1943-11-01"
+  },
+  {
+    "name": "Dan Rooney",
+    "class": 2000,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "PIT"
+    ],
+    "birth_date": "1932-07-20"
+  },
+  {
+    "name": "Dave Wilcox",
+    "class": 2000,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "SF"
+    ],
+    "birth_date": "1942-09-29"
+  },
+  {
+    "name": "Howie Long",
+    "class": 2000,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "LV"
+    ],
+    "birth_date": "1960-01-06"
+  },
+  {
+    "name": "Joe Montana",
+    "class": 2000,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "SF",
+      "KC"
+    ],
+    "birth_date": "1956-06-11"
+  },
+  {
+    "name": "Ronnie Lott",
+    "class": 2000,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "SF",
+      "LV",
+      "NYJ"
+    ],
+    "birth_date": "1959-05-08"
+  },
+  {
+    "name": "Jack Youngblood",
+    "class": 2001,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "LA"
+    ],
+    "birth_date": "1950-01-26"
+  },
+  {
+    "name": "Jackie Slater",
+    "class": 2001,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "LA"
+    ],
+    "birth_date": "1954-05-27"
+  },
+  {
+    "name": "Lynn Swann",
+    "class": 2001,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "PIT"
+    ],
+    "birth_date": "1952-03-07"
+  },
+  {
+    "name": "Marv Levy",
+    "class": 2001,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "KC",
+      "BUF"
+    ],
+    "birth_date": "1925-08-03"
+  },
+  {
+    "name": "Mike Munchak",
+    "class": 2001,
+    "category": "player",
+    "position": "G",
+    "franchises": [
+      "TEN"
+    ],
+    "birth_date": "1960-03-05"
+  },
+  {
+    "name": "Nick Buoniconti",
+    "class": 2001,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "NE",
+      "MIA"
+    ],
+    "birth_date": "1940-12-15"
+  },
+  {
+    "name": "Ron Yary",
+    "class": 2001,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "MIN",
+      "LA"
+    ],
+    "birth_date": "1946-07-16"
+  },
+  {
+    "name": "Dan Hampton",
+    "class": 2002,
+    "category": "player",
+    "position": "DT",
+    "franchises": [
+      "CHI"
+    ],
+    "birth_date": "1957-09-19"
+  },
+  {
+    "name": "Dave Casper",
+    "class": 2002,
+    "category": "player",
+    "position": "TE",
+    "franchises": [
+      "LV",
+      "TEN",
+      "MIN"
+    ],
+    "birth_date": "1951-09-26"
+  },
+  {
+    "name": "George Allen",
+    "class": 2002,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "LA",
+      "WAS"
+    ],
+    "birth_date": "1918-04-29"
+  },
+  {
+    "name": "Jim Kelly",
+    "class": 2002,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "BUF"
+    ],
+    "birth_date": "1960-02-14"
+  },
+  {
+    "name": "John Stallworth",
+    "class": 2002,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "PIT"
+    ],
+    "birth_date": "1952-07-15"
+  },
+  {
+    "name": "Elvin Bethea",
+    "class": 2003,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "TEN"
+    ],
+    "birth_date": "1946-03-01"
+  },
+  {
+    "name": "Hank Stram",
+    "class": 2003,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "KC",
+      "NO"
+    ],
+    "birth_date": "1923-01-03"
+  },
+  {
+    "name": "James Lofton",
+    "class": 2003,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "GB",
+      "LV",
+      "BUF",
+      "LA",
+      "PHI"
+    ],
+    "birth_date": "1956-07-05"
+  },
+  {
+    "name": "Joe DeLamielleure",
+    "class": 2003,
+    "category": "player",
+    "position": "G",
+    "franchises": [
+      "BUF",
+      "CLE"
+    ],
+    "birth_date": "1951-03-16"
+  },
+  {
+    "name": "Marcus Allen",
+    "class": 2003,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "LV",
+      "KC"
+    ],
+    "birth_date": "1960-03-26"
+  },
+  {
+    "name": "Barry Sanders",
+    "class": 2004,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "DET"
+    ],
+    "birth_date": "1968-07-16"
+  },
+  {
+    "name": "Bob Brown",
+    "class": 2004,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "PHI",
+      "LA",
+      "LV"
+    ],
+    "birth_date": "1941-12-08"
+  },
+  {
+    "name": "Carl Eller",
+    "class": 2004,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "MIN",
+      "SEA"
+    ],
+    "birth_date": "1942-01-25"
+  },
+  {
+    "name": "John Elway",
+    "class": 2004,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "DEN"
+    ],
+    "birth_date": "1960-06-28"
+  },
+  {
+    "name": "Benny Friedman",
+    "class": 2005,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "NYG"
+    ],
+    "birth_date": "1905-03-18"
+  },
+  {
+    "name": "Dan Marino",
+    "class": 2005,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "MIA"
+    ],
+    "birth_date": "1961-09-15"
+  },
+  {
+    "name": "Fritz Pollard",
+    "class": 2005,
+    "category": "player",
+    "position": "RB",
+    "franchises": [],
+    "birth_date": "1894-01-27"
+  },
+  {
+    "name": "Steve Young",
+    "class": 2005,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "TB",
+      "SF"
+    ],
+    "birth_date": "1961-10-11"
+  },
+  {
+    "name": "Harry Carson",
+    "class": 2006,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "NYG"
+    ],
+    "birth_date": "1953-11-26"
+  },
+  {
+    "name": "John Madden",
+    "class": 2006,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "LV"
+    ],
+    "birth_date": "1936-04-10"
+  },
+  {
+    "name": "Rayfield Wright",
+    "class": 2006,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "DAL"
+    ],
+    "birth_date": "1945-08-23"
+  },
+  {
+    "name": "Reggie White",
+    "class": 2006,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "PHI",
+      "GB",
+      "CAR"
+    ],
+    "birth_date": "1961-12-19"
+  },
+  {
+    "name": "Troy Aikman",
+    "class": 2006,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "DAL"
+    ],
+    "birth_date": "1966-11-21"
+  },
+  {
+    "name": "Warren Moon",
+    "class": 2006,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "TEN",
+      "MIN",
+      "SEA",
+      "KC"
+    ],
+    "birth_date": "1956-11-18"
+  },
+  {
+    "name": "Bruce Matthews",
+    "class": 2007,
+    "category": "player",
+    "position": "G",
+    "franchises": [
+      "TEN"
+    ],
+    "birth_date": "1961-08-08"
+  },
+  {
+    "name": "Charlie Sanders",
+    "class": 2007,
+    "category": "player",
+    "position": "TE",
+    "franchises": [
+      "DET"
+    ],
+    "birth_date": "1946-08-25"
+  },
+  {
+    "name": "Gene Hickerson",
+    "class": 2007,
+    "category": "player",
+    "position": "G",
+    "franchises": [
+      "CLE"
+    ],
+    "birth_date": "1935-02-15"
+  },
+  {
+    "name": "Michael Irvin",
+    "class": 2007,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "DAL"
+    ],
+    "birth_date": "1966-03-05"
+  },
+  {
+    "name": "Roger Wehrli",
+    "class": 2007,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "ARI"
+    ],
+    "birth_date": "1947-11-26"
+  },
+  {
+    "name": "Thurman Thomas",
+    "class": 2007,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "BUF",
+      "MIA"
+    ],
+    "birth_date": "1966-05-16"
+  },
+  {
+    "name": "Andre Tippett",
+    "class": 2008,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "NE"
+    ],
+    "birth_date": "1959-12-27"
+  },
+  {
+    "name": "Art Monk",
+    "class": 2008,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "WAS",
+      "NYJ",
+      "PHI"
+    ],
+    "birth_date": "1957-12-05"
+  },
+  {
+    "name": "Darrell Green",
+    "class": 2008,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "WAS"
+    ],
+    "birth_date": "1960-02-15"
+  },
+  {
+    "name": "Emmitt Thomas",
+    "class": 2008,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "KC"
+    ],
+    "birth_date": "1943-06-03"
+  },
+  {
+    "name": "Fred Dean",
+    "class": 2008,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "LAC",
+      "SF"
+    ],
+    "birth_date": "1952-02-24"
+  },
+  {
+    "name": "Gary Zimmerman",
+    "class": 2008,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "MIN",
+      "DEN"
+    ],
+    "birth_date": "1961-12-13"
+  },
+  {
+    "name": "Bob Hayes",
+    "class": 2009,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "DAL",
+      "SF"
+    ],
+    "birth_date": "1942-12-20"
+  },
+  {
+    "name": "Bruce Smith",
+    "class": 2009,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "BUF",
+      "WAS"
+    ],
+    "birth_date": "1963-06-18"
+  },
+  {
+    "name": "Derrick Thomas",
+    "class": 2009,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "KC"
+    ],
+    "birth_date": "1965-03-08"
+  },
+  {
+    "name": "Ralph C. Wilson",
+    "class": 2009,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "BUF"
+    ],
+    "birth_date": "1918-10-17"
+  },
+  {
+    "name": "Randall McDaniel",
+    "class": 2009,
+    "category": "player",
+    "position": "G",
+    "franchises": [
+      "MIN",
+      "TB"
+    ],
+    "birth_date": "1964-12-19"
+  },
+  {
+    "name": "Rod Woodson",
+    "class": 2009,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "PIT",
+      "SF",
+      "BAL",
+      "LV"
+    ],
+    "birth_date": "1965-03-10"
+  },
+  {
+    "name": "Dick LeBeau",
+    "class": 2010,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "DET"
+    ],
+    "birth_date": "1937-09-09"
+  },
+  {
+    "name": "Emmitt Smith",
+    "class": 2010,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "DAL",
+      "ARI"
+    ],
+    "birth_date": "1969-05-15"
+  },
+  {
+    "name": "Floyd Little",
+    "class": 2010,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "DEN"
+    ],
+    "birth_date": "1942-07-04"
+  },
+  {
+    "name": "Jerry Rice",
+    "class": 2010,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "SF",
+      "LV",
+      "SEA"
+    ],
+    "birth_date": "1962-10-13"
+  },
+  {
+    "name": "John Randle",
+    "class": 2010,
+    "category": "player",
+    "position": "DT",
+    "franchises": [
+      "MIN",
+      "SEA"
+    ],
+    "birth_date": "1967-12-12"
+  },
+  {
+    "name": "Rickey Jackson",
+    "class": 2010,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "NO",
+      "SF"
+    ],
+    "birth_date": "1958-03-20"
+  },
+  {
+    "name": "Russ Grimm",
+    "class": 2010,
+    "category": "player",
+    "position": "G",
+    "franchises": [
+      "WAS"
+    ],
+    "birth_date": "1959-05-02"
+  },
+  {
+    "name": "Chris Hanburger",
+    "class": 2011,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "WAS"
+    ],
+    "birth_date": "1941-08-13"
+  },
+  {
+    "name": "Deion Sanders",
+    "class": 2011,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "ATL",
+      "SF",
+      "DAL",
+      "WAS",
+      "BAL"
+    ],
+    "birth_date": "1967-08-09"
+  },
+  {
+    "name": "Ed Sabol",
+    "class": 2011,
+    "category": "contributor",
+    "position": null,
+    "franchises": [],
+    "birth_date": "1916-09-11"
+  },
+  {
+    "name": "Les Richter",
+    "class": 2011,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "LA"
+    ],
+    "birth_date": "1930-10-06"
+  },
+  {
+    "name": "Marshall Faulk",
+    "class": 2011,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "IND",
+      "LA"
+    ],
+    "birth_date": "1973-02-26"
+  },
+  {
+    "name": "Richard Dent",
+    "class": 2011,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "CHI",
+      "SF",
+      "IND",
+      "PHI"
+    ],
+    "birth_date": "1960-12-13"
+  },
+  {
+    "name": "Shannon Sharpe",
+    "class": 2011,
+    "category": "player",
+    "position": "TE",
+    "franchises": [
+      "DEN",
+      "BAL"
+    ],
+    "birth_date": "1968-06-26"
+  },
+  {
+    "name": "Chris Doleman",
+    "class": 2012,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "MIN",
+      "ATL",
+      "SF"
+    ],
+    "birth_date": "1961-10-16"
+  },
+  {
+    "name": "Cortez Kennedy",
+    "class": 2012,
+    "category": "player",
+    "position": "DT",
+    "franchises": [
+      "SEA"
+    ],
+    "birth_date": "1968-08-23"
+  },
+  {
+    "name": "Curtis Martin",
+    "class": 2012,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "NE",
+      "NYJ"
+    ],
+    "birth_date": "1973-05-01"
+  },
+  {
+    "name": "Dermontti Dawson",
+    "class": 2012,
+    "category": "player",
+    "position": "C",
+    "franchises": [
+      "PIT"
+    ],
+    "birth_date": "1965-06-17"
+  },
+  {
+    "name": "Jack Butler",
+    "class": 2012,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "PIT"
+    ],
+    "birth_date": "1927-11-12"
+  },
+  {
+    "name": "Willie Roaf",
+    "class": 2012,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "NO",
+      "KC"
+    ],
+    "birth_date": "1970-04-18"
+  },
+  {
+    "name": "Bill Parcells",
+    "class": 2013,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "NYG",
+      "NE",
+      "NYJ",
+      "DAL"
+    ],
+    "birth_date": "1941-08-22"
+  },
+  {
+    "name": "Cris Carter",
+    "class": 2013,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "PHI",
+      "MIN",
+      "MIA"
+    ],
+    "birth_date": "1965-11-25"
+  },
+  {
+    "name": "Curley Culp",
+    "class": 2013,
+    "category": "player",
+    "position": "DT",
+    "franchises": [
+      "KC",
+      "TEN",
+      "DET"
+    ],
+    "birth_date": "1946-03-10"
+  },
+  {
+    "name": "Dave Robinson",
+    "class": 2013,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "GB",
+      "WAS"
+    ],
+    "birth_date": "1941-05-03"
+  },
+  {
+    "name": "Jonathan Ogden",
+    "class": 2013,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "BAL"
+    ],
+    "birth_date": "1974-07-31"
+  },
+  {
+    "name": "Larry Allen",
+    "class": 2013,
+    "category": "player",
+    "position": "G",
+    "franchises": [
+      "DAL",
+      "SF"
+    ],
+    "birth_date": "1971-11-27"
+  },
+  {
+    "name": "Warren Sapp",
+    "class": 2013,
+    "category": "player",
+    "position": "DT",
+    "franchises": [
+      "TB",
+      "LV"
+    ],
+    "birth_date": "1972-12-19"
+  },
+  {
+    "name": "Aeneas Williams",
+    "class": 2014,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "ARI",
+      "LA"
+    ],
+    "birth_date": "1968-01-29"
+  },
+  {
+    "name": "Andre Reed",
+    "class": 2014,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "BUF",
+      "WAS"
+    ],
+    "birth_date": "1964-01-29"
+  },
+  {
+    "name": "Claude Humphrey",
+    "class": 2014,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "ATL",
+      "PHI"
+    ],
+    "birth_date": "1944-06-29"
+  },
+  {
+    "name": "Derrick Brooks",
+    "class": 2014,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "TB"
+    ],
+    "birth_date": "1973-04-18"
+  },
+  {
+    "name": "Michael Strahan",
+    "class": 2014,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "NYG"
+    ],
+    "birth_date": "1971-11-21"
+  },
+  {
+    "name": "Ray Guy",
+    "class": 2014,
+    "category": "player",
+    "position": "P",
+    "franchises": [
+      "LV"
+    ],
+    "birth_date": "1949-12-22"
+  },
+  {
+    "name": "Walter Jones",
+    "class": 2014,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "SEA"
+    ],
+    "birth_date": "1974-01-19"
+  },
+  {
+    "name": "Bill Polian",
+    "class": 2015,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "BUF",
+      "CAR",
+      "IND"
+    ],
+    "birth_date": "1942-12-08"
+  },
+  {
+    "name": "Charles Haley",
+    "class": 2015,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "SF",
+      "DAL"
+    ],
+    "birth_date": "1964-01-06"
+  },
+  {
+    "name": "Jerome Bettis",
+    "class": 2015,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "LA",
+      "PIT"
+    ],
+    "birth_date": "1972-02-16"
+  },
+  {
+    "name": "Junior Seau",
+    "class": 2015,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "LAC",
+      "MIA",
+      "NE"
+    ],
+    "birth_date": "1969-01-19"
+  },
+  {
+    "name": "Mick Tingelhoff",
+    "class": 2015,
+    "category": "player",
+    "position": "C",
+    "franchises": [
+      "MIN"
+    ],
+    "birth_date": "1940-05-22"
+  },
+  {
+    "name": "Ron Wolf",
+    "class": 2015,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "TB",
+      "GB"
+    ],
+    "birth_date": "1938-12-30"
+  },
+  {
+    "name": "Tim Brown",
+    "class": 2015,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "LV",
+      "TB"
+    ],
+    "birth_date": "1966-07-22"
+  },
+  {
+    "name": "Will Shields",
+    "class": 2015,
+    "category": "player",
+    "position": "G",
+    "franchises": [
+      "KC"
+    ],
+    "birth_date": "1971-09-15"
+  },
+  {
+    "name": "Brett Favre",
+    "class": 2016,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "ATL",
+      "GB",
+      "NYJ",
+      "MIN"
+    ],
+    "birth_date": "1969-10-10"
+  },
+  {
+    "name": "Dick Stanfel",
+    "class": 2016,
+    "category": "player",
+    "position": "G",
+    "franchises": [
+      "DET",
+      "WAS"
+    ],
+    "birth_date": "1927-07-20"
+  },
+  {
+    "name": "Edward J. DeBartolo, Jr.",
+    "class": 2016,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "SF"
+    ],
+    "birth_date": "1946-11-06"
+  },
+  {
+    "name": "Ken Stabler",
+    "class": 2016,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "LV",
+      "TEN",
+      "NO"
+    ],
+    "birth_date": "1945-12-25"
+  },
+  {
+    "name": "Kevin Greene",
+    "class": 2016,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "LA",
+      "PIT",
+      "CAR",
+      "SF"
+    ],
+    "birth_date": "1962-07-31"
+  },
+  {
+    "name": "Marvin Harrison",
+    "class": 2016,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "IND"
+    ],
+    "birth_date": "1972-08-25"
+  },
+  {
+    "name": "Orlando Pace",
+    "class": 2016,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "LA",
+      "CHI"
+    ],
+    "birth_date": "1975-11-04"
+  },
+  {
+    "name": "Tony Dungy",
+    "class": 2016,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "TB",
+      "IND"
+    ],
+    "birth_date": "1955-10-06"
+  },
+  {
+    "name": "Jason Taylor",
+    "class": 2017,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "MIA",
+      "WAS",
+      "NYJ"
+    ],
+    "birth_date": "1974-09-01"
+  },
+  {
+    "name": "Jerry Jones",
+    "class": 2017,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "DAL"
+    ],
+    "birth_date": "1942-10-13"
+  },
+  {
+    "name": "Kenny Easley",
+    "class": 2017,
+    "category": "player",
+    "position": "S",
+    "franchises": [
+      "SEA"
+    ],
+    "birth_date": "1959-01-15"
+  },
+  {
+    "name": "Kurt Warner",
+    "class": 2017,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "LA",
+      "NYG",
+      "ARI"
+    ],
+    "birth_date": "1971-06-22"
+  },
+  {
+    "name": "LaDainian Tomlinson",
+    "class": 2017,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "LAC",
+      "NYJ"
+    ],
+    "birth_date": "1979-06-23"
+  },
+  {
+    "name": "Morten Andersen",
+    "class": 2017,
+    "category": "player",
+    "position": "K",
+    "franchises": [
+      "NO",
+      "ATL",
+      "NYG",
+      "KC",
+      "MIN"
+    ],
+    "birth_date": "1960-08-19"
+  },
+  {
+    "name": "Terrell Davis",
+    "class": 2017,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "DEN"
+    ],
+    "birth_date": "1972-10-28"
+  },
+  {
+    "name": "Bobby Beathard",
+    "class": 2018,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "KC",
+      "ATL",
+      "MIA",
+      "WAS",
+      "LAC"
+    ],
+    "birth_date": "1937-01-24"
+  },
+  {
+    "name": "Brian Dawkins",
+    "class": 2018,
+    "category": "player",
+    "position": "S",
+    "franchises": [
+      "PHI",
+      "DEN"
+    ],
+    "birth_date": "1973-10-13"
+  },
+  {
+    "name": "Brian Urlacher",
+    "class": 2018,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "CHI"
+    ],
+    "birth_date": "1978-05-25"
+  },
+  {
+    "name": "Jerry Kramer",
+    "class": 2018,
+    "category": "player",
+    "position": "G",
+    "franchises": [
+      "GB"
+    ],
+    "birth_date": "1936-01-23"
+  },
+  {
+    "name": "Randy Moss",
+    "class": 2018,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "MIN",
+      "LV",
+      "NE",
+      "TEN",
+      "SF"
+    ],
+    "birth_date": "1977-02-13"
+  },
+  {
+    "name": "Ray Lewis",
+    "class": 2018,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "BAL"
+    ],
+    "birth_date": "1975-05-15"
+  },
+  {
+    "name": "Robert Brazile",
+    "class": 2018,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "TEN"
+    ],
+    "birth_date": "1953-02-07"
+  },
+  {
+    "name": "Terrell Owens",
+    "class": 2018,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "SF",
+      "PHI",
+      "DAL",
+      "BUF",
+      "CIN"
+    ],
+    "birth_date": "1973-12-07"
+  },
+  {
+    "name": "Champ Bailey",
+    "class": 2019,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "WAS",
+      "DEN"
+    ],
+    "birth_date": "1978-06-22"
+  },
+  {
+    "name": "Ed Reed",
+    "class": 2019,
+    "category": "player",
+    "position": "S",
+    "franchises": [
+      "BAL",
+      "NYJ",
+      "HOU"
+    ],
+    "birth_date": "1978-09-11"
+  },
+  {
+    "name": "Gil Brandt",
+    "class": 2019,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "DAL"
+    ],
+    "birth_date": "1932-03-04"
+  },
+  {
+    "name": "Johnny Robinson",
+    "class": 2019,
+    "category": "player",
+    "position": "S",
+    "franchises": [
+      "KC"
+    ],
+    "birth_date": null
+  },
+  {
+    "name": "Kevin Mawae",
+    "class": 2019,
+    "category": "player",
+    "position": "C",
+    "franchises": [
+      "SEA",
+      "NYJ",
+      "TEN"
+    ],
+    "birth_date": "1971-01-23"
+  },
+  {
+    "name": "Pat Bowlen",
+    "class": 2019,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "DEN"
+    ],
+    "birth_date": "1944-02-18"
+  },
+  {
+    "name": "Tony Gonzalez",
+    "class": 2019,
+    "category": "player",
+    "position": "TE",
+    "franchises": [
+      "KC",
+      "ATL"
+    ],
+    "birth_date": "1976-02-27"
+  },
+  {
+    "name": "Ty Law",
+    "class": 2019,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "NE",
+      "NYJ",
+      "KC",
+      "DEN"
+    ],
+    "birth_date": "1974-02-10"
+  },
+  {
+    "name": "Alex Karras",
+    "class": 2020,
+    "category": "player",
+    "position": "DT",
+    "franchises": [
+      "DET"
+    ],
+    "birth_date": "1935-07-15"
+  },
+  {
+    "name": "Bill Cowher",
+    "class": 2020,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "PIT"
+    ],
+    "birth_date": "1957-05-08"
+  },
+  {
+    "name": "Bobby Dillon",
+    "class": 2020,
+    "category": "player",
+    "position": "DB",
+    "franchises": [
+      "GB"
+    ],
+    "birth_date": "1930-02-23"
+  },
+  {
+    "name": "Cliff Harris",
+    "class": 2020,
+    "category": "player",
+    "position": "S",
+    "franchises": [
+      "DAL"
+    ],
+    "birth_date": "1948-11-12"
+  },
+  {
+    "name": "Donnie Shell",
+    "class": 2020,
+    "category": "player",
+    "position": "DB",
+    "franchises": [
+      "PIT"
+    ],
+    "birth_date": "1952-08-26"
+  },
+  {
+    "name": "Duke Slater",
+    "class": 2020,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "ARI"
+    ],
+    "birth_date": "1898-12-19"
+  },
+  {
+    "name": "Ed Sprinkle",
+    "class": 2020,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "CHI"
+    ],
+    "birth_date": "1923-09-03"
+  },
+  {
+    "name": "Edgerrin James",
+    "class": 2020,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "IND",
+      "ARI",
+      "SEA"
+    ],
+    "birth_date": "1978-08-01"
+  },
+  {
+    "name": "George Young",
+    "class": 2020,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "MIA",
+      "NYG"
+    ],
+    "birth_date": null
+  },
+  {
+    "name": "Harold Carmichael",
+    "class": 2020,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "PHI",
+      "DAL"
+    ],
+    "birth_date": "1949-09-22"
+  },
+  {
+    "name": "Isaac Bruce",
+    "class": 2020,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "LA",
+      "SF"
+    ],
+    "birth_date": "1972-11-10"
+  },
+  {
+    "name": "Jim Covert",
+    "class": 2020,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "CHI"
+    ],
+    "birth_date": "1960-03-22"
+  },
+  {
+    "name": "Jimmy Johnson",
+    "class": 2020,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "DAL",
+      "MIA"
+    ],
+    "birth_date": "1938-03-31"
+  },
+  {
+    "name": "Mac Speedie",
+    "class": 2020,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "CLE"
+    ],
+    "birth_date": "1920-01-12"
+  },
+  {
+    "name": "Paul Tagliabue",
+    "class": 2020,
+    "category": "contributor",
+    "position": null,
+    "franchises": [],
+    "birth_date": "1940-11-24"
+  },
+  {
+    "name": "Steve Atwater",
+    "class": 2020,
+    "category": "player",
+    "position": "S",
+    "franchises": [
+      "DEN",
+      "NYJ"
+    ],
+    "birth_date": "1966-10-28"
+  },
+  {
+    "name": "Steve Hutchinson",
+    "class": 2020,
+    "category": "player",
+    "position": "G",
+    "franchises": [
+      "SEA",
+      "MIN",
+      "TEN"
+    ],
+    "birth_date": "1977-11-01"
+  },
+  {
+    "name": "Steve Sabol",
+    "class": 2020,
+    "category": "contributor",
+    "position": null,
+    "franchises": [],
+    "birth_date": "1942-10-02"
+  },
+  {
+    "name": "Troy Polamalu",
+    "class": 2020,
+    "category": "player",
+    "position": "S",
+    "franchises": [
+      "PIT"
+    ],
+    "birth_date": "1981-04-19"
+  },
+  {
+    "name": "Winston Hill",
+    "class": 2020,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "NYJ",
+      "LA"
+    ],
+    "birth_date": "1941-10-23"
+  },
+  {
+    "name": "Alan Faneca",
+    "class": 2021,
+    "category": "player",
+    "position": "G",
+    "franchises": [
+      "PIT",
+      "NYJ",
+      "ARI"
+    ],
+    "birth_date": "1976-12-07"
+  },
+  {
+    "name": "Bill Nunn",
+    "class": 2021,
+    "category": "contributor",
+    "position": null,
+    "franchises": [
+      "PIT"
+    ],
+    "birth_date": "1952-10-20"
+  },
+  {
+    "name": "Calvin Johnson",
+    "class": 2021,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "DET"
+    ],
+    "birth_date": "1985-09-29"
+  },
+  {
+    "name": "Charles Woodson",
+    "class": 2021,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "LV",
+      "GB"
+    ],
+    "birth_date": "1976-10-07"
+  },
+  {
+    "name": "Drew Pearson",
+    "class": 2021,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "DAL"
+    ],
+    "birth_date": "1951-01-12"
+  },
+  {
+    "name": "John Lynch",
+    "class": 2021,
+    "category": "player",
+    "position": "S",
+    "franchises": [
+      "TB",
+      "DEN"
+    ],
+    "birth_date": "1971-09-25"
+  },
+  {
+    "name": "Peyton Manning",
+    "class": 2021,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "IND",
+      "DEN"
+    ],
+    "birth_date": "1976-03-24"
+  },
+  {
+    "name": "Tom Flores",
+    "class": 2021,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "LV",
+      "SEA"
+    ],
+    "birth_date": "1937-03-21"
+  },
+  {
+    "name": "Art McNally",
+    "class": 2022,
+    "category": "contributor",
+    "position": null,
+    "franchises": [],
+    "birth_date": "1925-07-01"
+  },
+  {
+    "name": "Bryant Young",
+    "class": 2022,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "SF"
+    ],
+    "birth_date": "1972-01-27"
+  },
+  {
+    "name": "Cliff Branch",
+    "class": 2022,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "LV"
+    ],
+    "birth_date": "1948-08-01"
+  },
+  {
+    "name": "Dick Vermeil",
+    "class": 2022,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "PHI",
+      "LA",
+      "KC"
+    ],
+    "birth_date": "1936-10-30"
+  },
+  {
+    "name": "LeRoy Butler",
+    "class": 2022,
+    "category": "player",
+    "position": "S",
+    "franchises": [
+      "GB"
+    ],
+    "birth_date": "1968-07-19"
+  },
+  {
+    "name": "Richard Seymour",
+    "class": 2022,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "NE",
+      "LV"
+    ],
+    "birth_date": "1979-10-06"
+  },
+  {
+    "name": "Sam Mills",
+    "class": 2022,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "NO",
+      "CAR"
+    ],
+    "birth_date": "1959-06-03"
+  },
+  {
+    "name": "Tony Boselli",
+    "class": 2022,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "JAX"
+    ],
+    "birth_date": "1972-04-17"
+  },
+  {
+    "name": "Chuck Howley",
+    "class": 2023,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "CHI",
+      "DAL"
+    ],
+    "birth_date": "1936-06-28"
+  },
+  {
+    "name": "Darrelle Revis",
+    "class": 2023,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "NYJ",
+      "TB",
+      "NE",
+      "KC"
+    ],
+    "birth_date": "1985-07-14"
+  },
+  {
+    "name": "DeMarcus Ware",
+    "class": 2023,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "DAL",
+      "DEN"
+    ],
+    "birth_date": "1982-07-31"
+  },
+  {
+    "name": "Don Coryell",
+    "class": 2023,
+    "category": "coach",
+    "position": null,
+    "franchises": [
+      "ARI",
+      "LAC"
+    ],
+    "birth_date": "1924-10-17"
+  },
+  {
+    "name": "Joe Klecko",
+    "class": 2023,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "NYJ",
+      "IND"
+    ],
+    "birth_date": "1953-10-15"
+  },
+  {
+    "name": "Joe Thomas",
+    "class": 2023,
+    "category": "player",
+    "position": "T",
+    "franchises": [
+      "CLE"
+    ],
+    "birth_date": null
+  },
+  {
+    "name": "Ken Riley",
+    "class": 2023,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "CIN"
+    ],
+    "birth_date": "1947-08-06"
+  },
+  {
+    "name": "Ronde Barber",
+    "class": 2023,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "TB"
+    ],
+    "birth_date": "1975-04-07"
+  },
+  {
+    "name": "Zach Thomas",
+    "class": 2023,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "MIA",
+      "DAL"
+    ],
+    "birth_date": "1973-09-01"
+  },
+  {
+    "name": "Andre Johnson",
+    "class": 2024,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "HOU",
+      "IND",
+      "TEN"
+    ],
+    "birth_date": "1981-07-11"
+  },
+  {
+    "name": "Devin Hester",
+    "class": 2024,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "CHI",
+      "ATL",
+      "BAL",
+      "SEA"
+    ],
+    "birth_date": "1982-11-04"
+  },
+  {
+    "name": "Dwight Freeney",
+    "class": 2024,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "IND",
+      "LAC",
+      "ARI",
+      "ATL",
+      "SEA",
+      "DET"
+    ],
+    "birth_date": "1980-02-19"
+  },
+  {
+    "name": "Julius Peppers",
+    "class": 2024,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "CAR",
+      "CHI",
+      "GB"
+    ],
+    "birth_date": "1980-01-18"
+  },
+  {
+    "name": "Patrick Willis",
+    "class": 2024,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "SF"
+    ],
+    "birth_date": "1985-01-25"
+  },
+  {
+    "name": "Randy Gradishar",
+    "class": 2024,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "DEN"
+    ],
+    "birth_date": "1952-03-03"
+  },
+  {
+    "name": "Steve McMichael",
+    "class": 2024,
+    "category": "player",
+    "position": "DT",
+    "franchises": [
+      "NE",
+      "CHI",
+      "GB"
+    ],
+    "birth_date": "1957-10-17"
+  },
+  {
+    "name": "Antonio Gates",
+    "class": 2025,
+    "category": "player",
+    "position": "TE",
+    "franchises": [
+      "LAC"
+    ],
+    "birth_date": "1980-06-18"
+  },
+  {
+    "name": "Eric Allen",
+    "class": 2025,
+    "category": "player",
+    "position": "CB",
+    "franchises": [
+      "PHI",
+      "NO",
+      "LV"
+    ],
+    "birth_date": "1965-11-22"
+  },
+  {
+    "name": "Jared Allen",
+    "class": 2025,
+    "category": "player",
+    "position": "DE",
+    "franchises": [
+      "KC",
+      "MIN",
+      "CHI",
+      "CAR"
+    ],
+    "birth_date": "1982-04-03"
+  },
+  {
+    "name": "Sterling Sharpe",
+    "class": 2025,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "GB"
+    ],
+    "birth_date": "1965-04-06"
+  },
+  {
+    "name": "Adam Vinatieri",
+    "class": 2026,
+    "category": "player",
+    "position": "K",
+    "franchises": [
+      "NE",
+      "IND"
+    ],
+    "birth_date": "1972-12-28"
+  },
+  {
+    "name": "Drew Brees",
+    "class": 2026,
+    "category": "player",
+    "position": "QB",
+    "franchises": [
+      "LAC",
+      "NO"
+    ],
+    "birth_date": "1979-01-15"
+  },
+  {
+    "name": "Larry Fitzgerald",
+    "class": 2026,
+    "category": "player",
+    "position": "WR",
+    "franchises": [
+      "ARI"
+    ],
+    "birth_date": "1983-08-31"
+  },
+  {
+    "name": "Luke Kuechly",
+    "class": 2026,
+    "category": "player",
+    "position": "LB",
+    "franchises": [
+      "CAR"
+    ],
+    "birth_date": "1991-04-20"
+  },
+  {
+    "name": "Roger Craig",
+    "class": 2026,
+    "category": "player",
+    "position": "RB",
+    "franchises": [
+      "SF",
+      "LV",
+      "MIN"
+    ],
+    "birth_date": null
+  }
+]

@@ -1,0 +1,3180 @@
+[
+  {
+    "season": 1957,
+    "award": "MVP",
+    "recipient": "Jim Brown",
+    "position": "FB",
+    "team": "CLE"
+  },
+  {
+    "season": 1958,
+    "award": "MVP",
+    "recipient": "Jim Brown",
+    "position": "FB",
+    "team": "CLE"
+  },
+  {
+    "season": 1959,
+    "award": "MVP",
+    "recipient": "Johnny Unitas",
+    "position": "QB",
+    "team": "IND"
+  },
+  {
+    "season": 1960,
+    "award": "MVP",
+    "recipient": "Norm Van Brocklin",
+    "position": "QB",
+    "team": "PHI"
+  },
+  {
+    "season": 1961,
+    "award": "MVP",
+    "recipient": "Paul Hornung",
+    "position": "RB",
+    "team": "GB"
+  },
+  {
+    "season": 1962,
+    "award": "MVP",
+    "recipient": "Jim Taylor",
+    "position": "RB",
+    "team": "GB"
+  },
+  {
+    "season": 1963,
+    "award": "MVP",
+    "recipient": "Y. A. Tittle",
+    "position": "QB",
+    "team": "NYG"
+  },
+  {
+    "season": 1964,
+    "award": "MVP",
+    "recipient": "Johnny Unitas",
+    "position": "QB",
+    "team": "IND"
+  },
+  {
+    "season": 1965,
+    "award": "MVP",
+    "recipient": "Jim Brown",
+    "position": "FB",
+    "team": "CLE"
+  },
+  {
+    "season": 1966,
+    "award": "MVP",
+    "recipient": "Bart Starr",
+    "position": "QB",
+    "team": "GB"
+  },
+  {
+    "season": 1967,
+    "award": "MVP",
+    "recipient": "Johnny Unitas",
+    "position": "QB",
+    "team": "IND"
+  },
+  {
+    "season": 1968,
+    "award": "MVP",
+    "recipient": "Earl Morrall",
+    "position": "QB",
+    "team": "IND"
+  },
+  {
+    "season": 1969,
+    "award": "MVP",
+    "recipient": "Roman Gabriel",
+    "position": "QB",
+    "team": "LA"
+  },
+  {
+    "season": 1970,
+    "award": "MVP",
+    "recipient": "John Brodie",
+    "position": "QB",
+    "team": "SF"
+  },
+  {
+    "season": 1971,
+    "award": "MVP",
+    "recipient": "Alan Page",
+    "position": "DT",
+    "team": "MIN"
+  },
+  {
+    "season": 1972,
+    "award": "MVP",
+    "recipient": "Larry Brown",
+    "position": "RB",
+    "team": "WAS"
+  },
+  {
+    "season": 1973,
+    "award": "MVP",
+    "recipient": "O. J. Simpson",
+    "position": "RB",
+    "team": "BUF"
+  },
+  {
+    "season": 1974,
+    "award": "MVP",
+    "recipient": "Ken Stabler",
+    "position": "QB",
+    "team": "LV"
+  },
+  {
+    "season": 1975,
+    "award": "MVP",
+    "recipient": "Fran Tarkenton",
+    "position": "QB",
+    "team": "MIN"
+  },
+  {
+    "season": 1976,
+    "award": "MVP",
+    "recipient": "Bert Jones",
+    "position": "QB",
+    "team": "IND"
+  },
+  {
+    "season": 1977,
+    "award": "MVP",
+    "recipient": "Walter Payton",
+    "position": "RB",
+    "team": "CHI"
+  },
+  {
+    "season": 1978,
+    "award": "MVP",
+    "recipient": "Terry Bradshaw",
+    "position": "QB",
+    "team": "PIT"
+  },
+  {
+    "season": 1979,
+    "award": "MVP",
+    "recipient": "Earl Campbell",
+    "position": "RB",
+    "team": "TEN"
+  },
+  {
+    "season": 1980,
+    "award": "MVP",
+    "recipient": "Brian Sipe",
+    "position": "QB",
+    "team": "CLE"
+  },
+  {
+    "season": 1981,
+    "award": "MVP",
+    "recipient": "Ken Anderson",
+    "position": "QB",
+    "team": "CIN"
+  },
+  {
+    "season": 1982,
+    "award": "MVP",
+    "recipient": "Mark Moseley",
+    "position": "K",
+    "team": "WAS"
+  },
+  {
+    "season": 1983,
+    "award": "MVP",
+    "recipient": "Joe Theismann",
+    "position": "QB",
+    "team": "WAS"
+  },
+  {
+    "season": 1984,
+    "award": "MVP",
+    "recipient": "Dan Marino",
+    "position": "QB",
+    "team": "MIA"
+  },
+  {
+    "season": 1985,
+    "award": "MVP",
+    "recipient": "Marcus Allen",
+    "position": "RB",
+    "team": "LV"
+  },
+  {
+    "season": 1986,
+    "award": "MVP",
+    "recipient": "Lawrence Taylor",
+    "position": "LB",
+    "team": "NYG"
+  },
+  {
+    "season": 1987,
+    "award": "MVP",
+    "recipient": "John Elway",
+    "position": "QB",
+    "team": "DEN"
+  },
+  {
+    "season": 1988,
+    "award": "MVP",
+    "recipient": "Boomer Esiason",
+    "position": "QB",
+    "team": "CIN"
+  },
+  {
+    "season": 1989,
+    "award": "MVP",
+    "recipient": "Joe Montana",
+    "position": "QB",
+    "team": "SF"
+  },
+  {
+    "season": 1990,
+    "award": "MVP",
+    "recipient": "Joe Montana",
+    "position": "QB",
+    "team": "SF"
+  },
+  {
+    "season": 1991,
+    "award": "MVP",
+    "recipient": "Thurman Thomas",
+    "position": "RB",
+    "team": "BUF"
+  },
+  {
+    "season": 1992,
+    "award": "MVP",
+    "recipient": "Steve Young",
+    "position": "QB",
+    "team": "SF"
+  },
+  {
+    "season": 1993,
+    "award": "MVP",
+    "recipient": "Emmitt Smith",
+    "position": "RB",
+    "team": "DAL"
+  },
+  {
+    "season": 1994,
+    "award": "MVP",
+    "recipient": "Steve Young",
+    "position": "QB",
+    "team": "SF"
+  },
+  {
+    "season": 1995,
+    "award": "MVP",
+    "recipient": "Brett Favre",
+    "position": "QB",
+    "team": "GB"
+  },
+  {
+    "season": 1996,
+    "award": "MVP",
+    "recipient": "Brett Favre",
+    "position": "QB",
+    "team": "GB"
+  },
+  {
+    "season": 1997,
+    "award": "MVP",
+    "recipient": "Brett Favre ; Barry Sanders",
+    "position": "QB",
+    "team": "GB"
+  },
+  {
+    "season": 1998,
+    "award": "MVP",
+    "recipient": "Terrell Davis",
+    "position": "RB",
+    "team": "DEN"
+  },
+  {
+    "season": 1999,
+    "award": "MVP",
+    "recipient": "Kurt Warner",
+    "position": "QB",
+    "team": "LA"
+  },
+  {
+    "season": 2000,
+    "award": "MVP",
+    "recipient": "Marshall Faulk",
+    "position": "RB",
+    "team": "LA"
+  },
+  {
+    "season": 2001,
+    "award": "MVP",
+    "recipient": "Kurt Warner",
+    "position": "QB",
+    "team": "LA"
+  },
+  {
+    "season": 2002,
+    "award": "MVP",
+    "recipient": "Rich Gannon",
+    "position": "QB",
+    "team": "LV"
+  },
+  {
+    "season": 2003,
+    "award": "MVP",
+    "recipient": "Peyton Manning; Steve McNair",
+    "position": "QB",
+    "team": "IND"
+  },
+  {
+    "season": 2004,
+    "award": "MVP",
+    "recipient": "Peyton Manning",
+    "position": "QB",
+    "team": "IND"
+  },
+  {
+    "season": 2005,
+    "award": "MVP",
+    "recipient": "Shaun Alexander",
+    "position": "RB",
+    "team": "SEA"
+  },
+  {
+    "season": 2006,
+    "award": "MVP",
+    "recipient": "LaDainian Tomlinson",
+    "position": "RB",
+    "team": "LAC"
+  },
+  {
+    "season": 2007,
+    "award": "MVP",
+    "recipient": "Tom Brady",
+    "position": "QB",
+    "team": "NE"
+  },
+  {
+    "season": 2008,
+    "award": "MVP",
+    "recipient": "Peyton Manning",
+    "position": "QB",
+    "team": "IND"
+  },
+  {
+    "season": 2009,
+    "award": "MVP",
+    "recipient": "Peyton Manning",
+    "position": "QB",
+    "team": "IND"
+  },
+  {
+    "season": 2010,
+    "award": "MVP",
+    "recipient": "Tom Brady",
+    "position": "QB",
+    "team": "NE"
+  },
+  {
+    "season": 2011,
+    "award": "MVP",
+    "recipient": "Aaron Rodgers",
+    "position": "QB",
+    "team": "GB"
+  },
+  {
+    "season": 2012,
+    "award": "MVP",
+    "recipient": "Adrian Peterson",
+    "position": "RB",
+    "team": "MIN"
+  },
+  {
+    "season": 2013,
+    "award": "MVP",
+    "recipient": "Peyton Manning",
+    "position": "QB",
+    "team": "DEN"
+  },
+  {
+    "season": 2014,
+    "award": "MVP",
+    "recipient": "Aaron Rodgers",
+    "position": "QB",
+    "team": "GB"
+  },
+  {
+    "season": 2015,
+    "award": "MVP",
+    "recipient": "Cam Newton",
+    "position": "QB",
+    "team": "CAR"
+  },
+  {
+    "season": 2016,
+    "award": "MVP",
+    "recipient": "Matt Ryan",
+    "position": "QB",
+    "team": "ATL"
+  },
+  {
+    "season": 2017,
+    "award": "MVP",
+    "recipient": "Tom Brady",
+    "position": "QB",
+    "team": "NE"
+  },
+  {
+    "season": 2018,
+    "award": "MVP",
+    "recipient": "Patrick Mahomes",
+    "position": "QB",
+    "team": "KC"
+  },
+  {
+    "season": 2019,
+    "award": "MVP",
+    "recipient": "Lamar Jackson",
+    "position": "QB",
+    "team": "BAL"
+  },
+  {
+    "season": 2020,
+    "award": "MVP",
+    "recipient": "Aaron Rodgers",
+    "position": "QB",
+    "team": "GB"
+  },
+  {
+    "season": 2021,
+    "award": "MVP",
+    "recipient": "Aaron Rodgers",
+    "position": "QB",
+    "team": "GB"
+  },
+  {
+    "season": 2022,
+    "award": "MVP",
+    "recipient": "Patrick Mahomes",
+    "position": "QB",
+    "team": "KC"
+  },
+  {
+    "season": 2023,
+    "award": "MVP",
+    "recipient": "Lamar Jackson",
+    "position": "QB",
+    "team": "BAL"
+  },
+  {
+    "season": 2024,
+    "award": "MVP",
+    "recipient": "Josh Allen",
+    "position": "QB",
+    "team": "BUF"
+  },
+  {
+    "season": 2025,
+    "award": "MVP",
+    "recipient": "Matthew Stafford",
+    "position": "QB",
+    "team": "LA"
+  },
+  {
+    "season": 1972,
+    "award": "OPOY",
+    "recipient": "Larry Brown",
+    "position": "RB",
+    "team": "WAS"
+  },
+  {
+    "season": 1973,
+    "award": "OPOY",
+    "recipient": "O. J. Simpson",
+    "position": "RB",
+    "team": "BUF"
+  },
+  {
+    "season": 1974,
+    "award": "OPOY",
+    "recipient": "Ken Stabler",
+    "position": "QB",
+    "team": "LV"
+  },
+  {
+    "season": 1975,
+    "award": "OPOY",
+    "recipient": "Fran Tarkenton",
+    "position": "QB",
+    "team": "MIN"
+  },
+  {
+    "season": 1976,
+    "award": "OPOY",
+    "recipient": "Bert Jones",
+    "position": "QB",
+    "team": "IND"
+  },
+  {
+    "season": 1977,
+    "award": "OPOY",
+    "recipient": "Walter Payton",
+    "position": "RB",
+    "team": "CHI"
+  },
+  {
+    "season": 1978,
+    "award": "OPOY",
+    "recipient": "Earl Campbell",
+    "position": "RB",
+    "team": "TEN"
+  },
+  {
+    "season": 1979,
+    "award": "OPOY",
+    "recipient": "Earl Campbell",
+    "position": "RB",
+    "team": "TEN"
+  },
+  {
+    "season": 1980,
+    "award": "OPOY",
+    "recipient": "Earl Campbell",
+    "position": "RB",
+    "team": "TEN"
+  },
+  {
+    "season": 1981,
+    "award": "OPOY",
+    "recipient": "Ken Anderson",
+    "position": "QB",
+    "team": "CIN"
+  },
+  {
+    "season": 1982,
+    "award": "OPOY",
+    "recipient": "Dan Fouts",
+    "position": "QB",
+    "team": "LAC"
+  },
+  {
+    "season": 1983,
+    "award": "OPOY",
+    "recipient": "Joe Theismann",
+    "position": "QB",
+    "team": "WAS"
+  },
+  {
+    "season": 1984,
+    "award": "OPOY",
+    "recipient": "Dan Marino",
+    "position": "QB",
+    "team": "MIA"
+  },
+  {
+    "season": 1985,
+    "award": "OPOY",
+    "recipient": "Marcus Allen",
+    "position": "RB",
+    "team": "LV"
+  },
+  {
+    "season": 1986,
+    "award": "OPOY",
+    "recipient": "Eric Dickerson",
+    "position": "RB",
+    "team": "LA"
+  },
+  {
+    "season": 1987,
+    "award": "OPOY",
+    "recipient": "Jerry Rice",
+    "position": "WR",
+    "team": "SF"
+  },
+  {
+    "season": 1988,
+    "award": "OPOY",
+    "recipient": "Roger Craig",
+    "position": "RB",
+    "team": "SF"
+  },
+  {
+    "season": 1989,
+    "award": "OPOY",
+    "recipient": "Joe Montana",
+    "position": "QB",
+    "team": "SF"
+  },
+  {
+    "season": 1990,
+    "award": "OPOY",
+    "recipient": "Warren Moon",
+    "position": "QB",
+    "team": "TEN"
+  },
+  {
+    "season": 1991,
+    "award": "OPOY",
+    "recipient": "Thurman Thomas",
+    "position": "RB",
+    "team": "BUF"
+  },
+  {
+    "season": 1992,
+    "award": "OPOY",
+    "recipient": "Steve Young",
+    "position": "QB",
+    "team": "SF"
+  },
+  {
+    "season": 1993,
+    "award": "OPOY",
+    "recipient": "Jerry Rice",
+    "position": "WR",
+    "team": "SF"
+  },
+  {
+    "season": 1994,
+    "award": "OPOY",
+    "recipient": "Barry Sanders",
+    "position": "RB",
+    "team": "DET"
+  },
+  {
+    "season": 1995,
+    "award": "OPOY",
+    "recipient": "Brett Favre",
+    "position": "QB",
+    "team": "GB"
+  },
+  {
+    "season": 1996,
+    "award": "OPOY",
+    "recipient": "Terrell Davis",
+    "position": "RB",
+    "team": "DEN"
+  },
+  {
+    "season": 1997,
+    "award": "OPOY",
+    "recipient": "Barry Sanders",
+    "position": "RB",
+    "team": "DET"
+  },
+  {
+    "season": 1998,
+    "award": "OPOY",
+    "recipient": "Terrell Davis",
+    "position": "RB",
+    "team": "DEN"
+  },
+  {
+    "season": 1999,
+    "award": "OPOY",
+    "recipient": "Marshall Faulk",
+    "position": "RB",
+    "team": "LA"
+  },
+  {
+    "season": 2000,
+    "award": "OPOY",
+    "recipient": "Marshall Faulk",
+    "position": "RB",
+    "team": "LA"
+  },
+  {
+    "season": 2001,
+    "award": "OPOY",
+    "recipient": "Marshall Faulk",
+    "position": "RB",
+    "team": "LA"
+  },
+  {
+    "season": 2002,
+    "award": "OPOY",
+    "recipient": "Priest Holmes",
+    "position": "RB",
+    "team": "KC"
+  },
+  {
+    "season": 2003,
+    "award": "OPOY",
+    "recipient": "Jamal Lewis",
+    "position": "RB",
+    "team": "BAL"
+  },
+  {
+    "season": 2004,
+    "award": "OPOY",
+    "recipient": "Peyton Manning",
+    "position": "QB",
+    "team": "IND"
+  },
+  {
+    "season": 2005,
+    "award": "OPOY",
+    "recipient": "Shaun Alexander",
+    "position": "RB",
+    "team": "SEA"
+  },
+  {
+    "season": 2006,
+    "award": "OPOY",
+    "recipient": "LaDainian Tomlinson",
+    "position": "RB",
+    "team": "LAC"
+  },
+  {
+    "season": 2007,
+    "award": "OPOY",
+    "recipient": "Tom Brady",
+    "position": "QB",
+    "team": "NE"
+  },
+  {
+    "season": 2008,
+    "award": "OPOY",
+    "recipient": "Drew Brees",
+    "position": "QB",
+    "team": "NO"
+  },
+  {
+    "season": 2009,
+    "award": "OPOY",
+    "recipient": "Chris Johnson",
+    "position": "RB",
+    "team": "TEN"
+  },
+  {
+    "season": 2010,
+    "award": "OPOY",
+    "recipient": "Tom Brady",
+    "position": "QB",
+    "team": "NE"
+  },
+  {
+    "season": 2011,
+    "award": "OPOY",
+    "recipient": "Drew Brees",
+    "position": "QB",
+    "team": "NO"
+  },
+  {
+    "season": 2012,
+    "award": "OPOY",
+    "recipient": "Adrian Peterson",
+    "position": "RB",
+    "team": "MIN"
+  },
+  {
+    "season": 2013,
+    "award": "OPOY",
+    "recipient": "Peyton Manning",
+    "position": "QB",
+    "team": "DEN"
+  },
+  {
+    "season": 2014,
+    "award": "OPOY",
+    "recipient": "DeMarco Murray",
+    "position": "RB",
+    "team": "DAL"
+  },
+  {
+    "season": 2015,
+    "award": "OPOY",
+    "recipient": "Cam Newton",
+    "position": "QB",
+    "team": "CAR"
+  },
+  {
+    "season": 2016,
+    "award": "OPOY",
+    "recipient": "Matt Ryan",
+    "position": "QB",
+    "team": "ATL"
+  },
+  {
+    "season": 2017,
+    "award": "OPOY",
+    "recipient": "Todd Gurley",
+    "position": "RB",
+    "team": "LA"
+  },
+  {
+    "season": 2018,
+    "award": "OPOY",
+    "recipient": "Patrick Mahomes",
+    "position": "QB",
+    "team": "KC"
+  },
+  {
+    "season": 2019,
+    "award": "OPOY",
+    "recipient": "Michael Thomas",
+    "position": "WR",
+    "team": "NO"
+  },
+  {
+    "season": 2020,
+    "award": "OPOY",
+    "recipient": "Derrick Henry",
+    "position": "RB",
+    "team": "TEN"
+  },
+  {
+    "season": 2021,
+    "award": "OPOY",
+    "recipient": "Cooper Kupp",
+    "position": "WR",
+    "team": "LA"
+  },
+  {
+    "season": 2022,
+    "award": "OPOY",
+    "recipient": "Justin Jefferson",
+    "position": "WR",
+    "team": "MIN"
+  },
+  {
+    "season": 2023,
+    "award": "OPOY",
+    "recipient": "Christian McCaffrey",
+    "position": "RB",
+    "team": "SF"
+  },
+  {
+    "season": 2024,
+    "award": "OPOY",
+    "recipient": "Saquon Barkley",
+    "position": "RB",
+    "team": "PHI"
+  },
+  {
+    "season": 2025,
+    "award": "OPOY",
+    "recipient": "Jaxon Smith-Njigba",
+    "position": "WR",
+    "team": "SEA"
+  },
+  {
+    "season": 1971,
+    "award": "DPOY",
+    "recipient": "Alan Page",
+    "position": "DT",
+    "team": "MIN"
+  },
+  {
+    "season": 1972,
+    "award": "DPOY",
+    "recipient": "Joe Greene",
+    "position": "DT",
+    "team": "PIT"
+  },
+  {
+    "season": 1973,
+    "award": "DPOY",
+    "recipient": "Dick Anderson",
+    "position": "S",
+    "team": "MIA"
+  },
+  {
+    "season": 1974,
+    "award": "DPOY",
+    "recipient": "Joe Greene",
+    "position": "DT",
+    "team": "PIT"
+  },
+  {
+    "season": 1975,
+    "award": "DPOY",
+    "recipient": "Mel Blount",
+    "position": "CB",
+    "team": "PIT"
+  },
+  {
+    "season": 1976,
+    "award": "DPOY",
+    "recipient": "Jack Lambert",
+    "position": "LB",
+    "team": "PIT"
+  },
+  {
+    "season": 1977,
+    "award": "DPOY",
+    "recipient": "Harvey Martin",
+    "position": "DE",
+    "team": "DAL"
+  },
+  {
+    "season": 1978,
+    "award": "DPOY",
+    "recipient": "Randy Gradishar",
+    "position": "LB",
+    "team": "DEN"
+  },
+  {
+    "season": 1979,
+    "award": "DPOY",
+    "recipient": "Lee Roy Selmon",
+    "position": "DE",
+    "team": "TB"
+  },
+  {
+    "season": 1980,
+    "award": "DPOY",
+    "recipient": "Lester Hayes",
+    "position": "CB",
+    "team": "LV"
+  },
+  {
+    "season": 1981,
+    "award": "DPOY",
+    "recipient": "Lawrence Taylor",
+    "position": "LB",
+    "team": "NYG"
+  },
+  {
+    "season": 1982,
+    "award": "DPOY",
+    "recipient": "Lawrence Taylor",
+    "position": "LB",
+    "team": "NYG"
+  },
+  {
+    "season": 1983,
+    "award": "DPOY",
+    "recipient": "Doug Betters",
+    "position": "DE",
+    "team": "MIA"
+  },
+  {
+    "season": 1984,
+    "award": "DPOY",
+    "recipient": "Kenny Easley",
+    "position": "S",
+    "team": "SEA"
+  },
+  {
+    "season": 1985,
+    "award": "DPOY",
+    "recipient": "Mike Singletary",
+    "position": "LB",
+    "team": "CHI"
+  },
+  {
+    "season": 1986,
+    "award": "DPOY",
+    "recipient": "Lawrence Taylor",
+    "position": "LB",
+    "team": "NYG"
+  },
+  {
+    "season": 1987,
+    "award": "DPOY",
+    "recipient": "Reggie White",
+    "position": "DE",
+    "team": "PHI"
+  },
+  {
+    "season": 1988,
+    "award": "DPOY",
+    "recipient": "Mike Singletary",
+    "position": "LB",
+    "team": "CHI"
+  },
+  {
+    "season": 1989,
+    "award": "DPOY",
+    "recipient": "Keith Millard",
+    "position": "DT",
+    "team": "MIN"
+  },
+  {
+    "season": 1990,
+    "award": "DPOY",
+    "recipient": "Bruce Smith",
+    "position": "DE",
+    "team": "BUF"
+  },
+  {
+    "season": 1991,
+    "award": "DPOY",
+    "recipient": "Pat Swilling",
+    "position": "LB",
+    "team": "NO"
+  },
+  {
+    "season": 1992,
+    "award": "DPOY",
+    "recipient": "Cortez Kennedy",
+    "position": "DT",
+    "team": "SEA"
+  },
+  {
+    "season": 1993,
+    "award": "DPOY",
+    "recipient": "Rod Woodson",
+    "position": "CB",
+    "team": "PIT"
+  },
+  {
+    "season": 1994,
+    "award": "DPOY",
+    "recipient": "Deion Sanders",
+    "position": "CB",
+    "team": "SF"
+  },
+  {
+    "season": 1995,
+    "award": "DPOY",
+    "recipient": "Bryce Paup",
+    "position": "LB",
+    "team": "BUF"
+  },
+  {
+    "season": 1996,
+    "award": "DPOY",
+    "recipient": "Bruce Smith",
+    "position": "DE",
+    "team": "BUF"
+  },
+  {
+    "season": 1997,
+    "award": "DPOY",
+    "recipient": "Dana Stubblefield",
+    "position": "DT",
+    "team": "SF"
+  },
+  {
+    "season": 1998,
+    "award": "DPOY",
+    "recipient": "Reggie White",
+    "position": "DE",
+    "team": "GB"
+  },
+  {
+    "season": 1999,
+    "award": "DPOY",
+    "recipient": "Warren Sapp",
+    "position": "DT",
+    "team": "TB"
+  },
+  {
+    "season": 2000,
+    "award": "DPOY",
+    "recipient": "Ray Lewis",
+    "position": "LB",
+    "team": "BAL"
+  },
+  {
+    "season": 2001,
+    "award": "DPOY",
+    "recipient": "Michael Strahan",
+    "position": "DE",
+    "team": "NYG"
+  },
+  {
+    "season": 2002,
+    "award": "DPOY",
+    "recipient": "Derrick Brooks",
+    "position": "LB",
+    "team": "TB"
+  },
+  {
+    "season": 2003,
+    "award": "DPOY",
+    "recipient": "Ray Lewis",
+    "position": "LB",
+    "team": "BAL"
+  },
+  {
+    "season": 2004,
+    "award": "DPOY",
+    "recipient": "Ed Reed",
+    "position": "S",
+    "team": "BAL"
+  },
+  {
+    "season": 2005,
+    "award": "DPOY",
+    "recipient": "Brian Urlacher",
+    "position": "LB",
+    "team": "CHI"
+  },
+  {
+    "season": 2006,
+    "award": "DPOY",
+    "recipient": "Jason Taylor",
+    "position": "DE",
+    "team": "MIA"
+  },
+  {
+    "season": 2007,
+    "award": "DPOY",
+    "recipient": "Bob Sanders",
+    "position": "S",
+    "team": "IND"
+  },
+  {
+    "season": 2008,
+    "award": "DPOY",
+    "recipient": "James Harrison",
+    "position": "LB",
+    "team": "PIT"
+  },
+  {
+    "season": 2009,
+    "award": "DPOY",
+    "recipient": "Charles Woodson",
+    "position": "CB",
+    "team": "GB"
+  },
+  {
+    "season": 2010,
+    "award": "DPOY",
+    "recipient": "Troy Polamalu",
+    "position": "S",
+    "team": "PIT"
+  },
+  {
+    "season": 2011,
+    "award": "DPOY",
+    "recipient": "Terrell Suggs",
+    "position": "LB",
+    "team": "BAL"
+  },
+  {
+    "season": 2012,
+    "award": "DPOY",
+    "recipient": "J. J. Watt",
+    "position": "DE",
+    "team": "HOU"
+  },
+  {
+    "season": 2013,
+    "award": "DPOY",
+    "recipient": "Luke Kuechly",
+    "position": "LB",
+    "team": "CAR"
+  },
+  {
+    "season": 2014,
+    "award": "DPOY",
+    "recipient": "J. J. Watt",
+    "position": "DE",
+    "team": "HOU"
+  },
+  {
+    "season": 2015,
+    "award": "DPOY",
+    "recipient": "J. J. Watt",
+    "position": "DE",
+    "team": "HOU"
+  },
+  {
+    "season": 2016,
+    "award": "DPOY",
+    "recipient": "Khalil Mack",
+    "position": "DE",
+    "team": "LV"
+  },
+  {
+    "season": 2017,
+    "award": "DPOY",
+    "recipient": "Aaron Donald",
+    "position": "DT",
+    "team": "LA"
+  },
+  {
+    "season": 2018,
+    "award": "DPOY",
+    "recipient": "Aaron Donald",
+    "position": "DT",
+    "team": "LA"
+  },
+  {
+    "season": 2019,
+    "award": "DPOY",
+    "recipient": "Stephon Gilmore",
+    "position": "CB",
+    "team": "NE"
+  },
+  {
+    "season": 2020,
+    "award": "DPOY",
+    "recipient": "Aaron Donald",
+    "position": "DT",
+    "team": "LA"
+  },
+  {
+    "season": 2021,
+    "award": "DPOY",
+    "recipient": "T. J. Watt",
+    "position": "LB",
+    "team": "PIT"
+  },
+  {
+    "season": 2022,
+    "award": "DPOY",
+    "recipient": "Nick Bosa",
+    "position": "DE",
+    "team": "SF"
+  },
+  {
+    "season": 2023,
+    "award": "DPOY",
+    "recipient": "Myles Garrett",
+    "position": "DE",
+    "team": "CLE"
+  },
+  {
+    "season": 2024,
+    "award": "DPOY",
+    "recipient": "Patrick Surtain II",
+    "position": "CB",
+    "team": "DEN"
+  },
+  {
+    "season": 2025,
+    "award": "DPOY",
+    "recipient": "Myles Garrett",
+    "position": "DE",
+    "team": "CLE"
+  },
+  {
+    "season": 1967,
+    "award": "OROY",
+    "recipient": "Mel Farr",
+    "position": "RB",
+    "team": "DET"
+  },
+  {
+    "season": 1968,
+    "award": "OROY",
+    "recipient": "Earl McCullouch",
+    "position": "WR",
+    "team": "DET"
+  },
+  {
+    "season": 1969,
+    "award": "OROY",
+    "recipient": "Calvin Hill",
+    "position": "RB",
+    "team": "DAL"
+  },
+  {
+    "season": 1970,
+    "award": "OROY",
+    "recipient": "Dennis Shaw",
+    "position": "QB",
+    "team": "BUF"
+  },
+  {
+    "season": 1971,
+    "award": "OROY",
+    "recipient": "John Brockington",
+    "position": "RB",
+    "team": "GB"
+  },
+  {
+    "season": 1972,
+    "award": "OROY",
+    "recipient": "Franco Harris",
+    "position": "RB",
+    "team": "PIT"
+  },
+  {
+    "season": 1973,
+    "award": "OROY",
+    "recipient": "Chuck Foreman",
+    "position": "RB",
+    "team": "MIN"
+  },
+  {
+    "season": 1974,
+    "award": "OROY",
+    "recipient": "Don Woods",
+    "position": "RB",
+    "team": "LAC"
+  },
+  {
+    "season": 1975,
+    "award": "OROY",
+    "recipient": "Mike Thomas",
+    "position": "RB",
+    "team": "WAS"
+  },
+  {
+    "season": 1976,
+    "award": "OROY",
+    "recipient": "Sammy White",
+    "position": "WR",
+    "team": "MIN"
+  },
+  {
+    "season": 1977,
+    "award": "OROY",
+    "recipient": "Tony Dorsett",
+    "position": "RB",
+    "team": "DAL"
+  },
+  {
+    "season": 1978,
+    "award": "OROY",
+    "recipient": "Earl Campbell",
+    "position": "RB",
+    "team": "TEN"
+  },
+  {
+    "season": 1979,
+    "award": "OROY",
+    "recipient": "Ottis Anderson",
+    "position": "RB",
+    "team": "ARI"
+  },
+  {
+    "season": 1980,
+    "award": "OROY",
+    "recipient": "Billy Sims",
+    "position": "RB",
+    "team": "DET"
+  },
+  {
+    "season": 1981,
+    "award": "OROY",
+    "recipient": "George Rogers",
+    "position": "RB",
+    "team": "NO"
+  },
+  {
+    "season": 1982,
+    "award": "OROY",
+    "recipient": "Marcus Allen",
+    "position": "RB",
+    "team": "LV"
+  },
+  {
+    "season": 1983,
+    "award": "OROY",
+    "recipient": "Eric Dickerson",
+    "position": "RB",
+    "team": "LA"
+  },
+  {
+    "season": 1984,
+    "award": "OROY",
+    "recipient": "Louis Lipps",
+    "position": "WR",
+    "team": "PIT"
+  },
+  {
+    "season": 1985,
+    "award": "OROY",
+    "recipient": "Eddie Brown",
+    "position": "WR",
+    "team": "CIN"
+  },
+  {
+    "season": 1986,
+    "award": "OROY",
+    "recipient": "Rueben Mayes",
+    "position": "RB",
+    "team": "NO"
+  },
+  {
+    "season": 1987,
+    "award": "OROY",
+    "recipient": "Troy Stradford",
+    "position": "RB",
+    "team": "MIA"
+  },
+  {
+    "season": 1988,
+    "award": "OROY",
+    "recipient": "John Stephens",
+    "position": "RB",
+    "team": "NE"
+  },
+  {
+    "season": 1989,
+    "award": "OROY",
+    "recipient": "Barry Sanders",
+    "position": "RB",
+    "team": "DET"
+  },
+  {
+    "season": 1990,
+    "award": "OROY",
+    "recipient": "Emmitt Smith",
+    "position": "RB",
+    "team": "DAL"
+  },
+  {
+    "season": 1991,
+    "award": "OROY",
+    "recipient": "Leonard Russell",
+    "position": "RB",
+    "team": "NE"
+  },
+  {
+    "season": 1992,
+    "award": "OROY",
+    "recipient": "Carl Pickens",
+    "position": "WR",
+    "team": "CIN"
+  },
+  {
+    "season": 1993,
+    "award": "OROY",
+    "recipient": "Jerome Bettis",
+    "position": "RB",
+    "team": "LA"
+  },
+  {
+    "season": 1994,
+    "award": "OROY",
+    "recipient": "Marshall Faulk",
+    "position": "RB",
+    "team": "IND"
+  },
+  {
+    "season": 1995,
+    "award": "OROY",
+    "recipient": "Curtis Martin",
+    "position": "RB",
+    "team": "NE"
+  },
+  {
+    "season": 1996,
+    "award": "OROY",
+    "recipient": "Eddie George",
+    "position": "RB",
+    "team": "TEN"
+  },
+  {
+    "season": 1997,
+    "award": "OROY",
+    "recipient": "Warrick Dunn",
+    "position": "RB",
+    "team": "TB"
+  },
+  {
+    "season": 1998,
+    "award": "OROY",
+    "recipient": "Randy Moss",
+    "position": "WR",
+    "team": "MIN"
+  },
+  {
+    "season": 1999,
+    "award": "OROY",
+    "recipient": "Edgerrin James",
+    "position": "RB",
+    "team": "IND"
+  },
+  {
+    "season": 2000,
+    "award": "OROY",
+    "recipient": "Mike Anderson",
+    "position": "RB",
+    "team": "DEN"
+  },
+  {
+    "season": 2001,
+    "award": "OROY",
+    "recipient": "Anthony Thomas",
+    "position": "RB",
+    "team": "CHI"
+  },
+  {
+    "season": 2002,
+    "award": "OROY",
+    "recipient": "Clinton Portis",
+    "position": "RB",
+    "team": "DEN"
+  },
+  {
+    "season": 2003,
+    "award": "OROY",
+    "recipient": "Anquan Boldin",
+    "position": "WR",
+    "team": "ARI"
+  },
+  {
+    "season": 2004,
+    "award": "OROY",
+    "recipient": "Ben Roethlisberger",
+    "position": "QB",
+    "team": "PIT"
+  },
+  {
+    "season": 2005,
+    "award": "OROY",
+    "recipient": "Cadillac Williams",
+    "position": "RB",
+    "team": "TB"
+  },
+  {
+    "season": 2006,
+    "award": "OROY",
+    "recipient": "Vince Young",
+    "position": "QB",
+    "team": "TEN"
+  },
+  {
+    "season": 2007,
+    "award": "OROY",
+    "recipient": "Adrian Peterson",
+    "position": "RB",
+    "team": "MIN"
+  },
+  {
+    "season": 2008,
+    "award": "OROY",
+    "recipient": "Matt Ryan",
+    "position": "QB",
+    "team": "ATL"
+  },
+  {
+    "season": 2009,
+    "award": "OROY",
+    "recipient": "Percy Harvin",
+    "position": "WR",
+    "team": "MIN"
+  },
+  {
+    "season": 2010,
+    "award": "OROY",
+    "recipient": "Sam Bradford",
+    "position": "QB",
+    "team": "LA"
+  },
+  {
+    "season": 2011,
+    "award": "OROY",
+    "recipient": "Cam Newton",
+    "position": "QB",
+    "team": "CAR"
+  },
+  {
+    "season": 2012,
+    "award": "OROY",
+    "recipient": "Robert Griffin III",
+    "position": "QB",
+    "team": "WAS"
+  },
+  {
+    "season": 2013,
+    "award": "OROY",
+    "recipient": "Eddie Lacy",
+    "position": "RB",
+    "team": "GB"
+  },
+  {
+    "season": 2014,
+    "award": "OROY",
+    "recipient": "Odell Beckham Jr.",
+    "position": "WR",
+    "team": "NYG"
+  },
+  {
+    "season": 2015,
+    "award": "OROY",
+    "recipient": "Todd Gurley",
+    "position": "RB",
+    "team": "LA"
+  },
+  {
+    "season": 2016,
+    "award": "OROY",
+    "recipient": "Dak Prescott",
+    "position": "QB",
+    "team": "DAL"
+  },
+  {
+    "season": 2017,
+    "award": "OROY",
+    "recipient": "Alvin Kamara",
+    "position": "RB",
+    "team": "NO"
+  },
+  {
+    "season": 2018,
+    "award": "OROY",
+    "recipient": "Saquon Barkley",
+    "position": "RB",
+    "team": "NYG"
+  },
+  {
+    "season": 2019,
+    "award": "OROY",
+    "recipient": "Kyler Murray",
+    "position": "QB",
+    "team": "ARI"
+  },
+  {
+    "season": 2020,
+    "award": "OROY",
+    "recipient": "Justin Herbert",
+    "position": "QB",
+    "team": "LAC"
+  },
+  {
+    "season": 2021,
+    "award": "OROY",
+    "recipient": "Ja'Marr Chase",
+    "position": "WR",
+    "team": "CIN"
+  },
+  {
+    "season": 2022,
+    "award": "OROY",
+    "recipient": "Garrett Wilson",
+    "position": "WR",
+    "team": "NYJ"
+  },
+  {
+    "season": 2023,
+    "award": "OROY",
+    "recipient": "C. J. Stroud",
+    "position": "QB",
+    "team": "HOU"
+  },
+  {
+    "season": 2024,
+    "award": "OROY",
+    "recipient": "Jayden Daniels",
+    "position": "QB",
+    "team": "WAS"
+  },
+  {
+    "season": 2025,
+    "award": "OROY",
+    "recipient": "Tetairoa McMillan",
+    "position": "WR",
+    "team": "CAR"
+  },
+  {
+    "season": 1967,
+    "award": "DROY",
+    "recipient": "Lem Barney",
+    "position": "CB",
+    "team": "DET"
+  },
+  {
+    "season": 1968,
+    "award": "DROY",
+    "recipient": "Claude Humphrey",
+    "position": "DE",
+    "team": "ATL"
+  },
+  {
+    "season": 1969,
+    "award": "DROY",
+    "recipient": "Joe Greene",
+    "position": "DT",
+    "team": "PIT"
+  },
+  {
+    "season": 1970,
+    "award": "DROY",
+    "recipient": "Bruce Taylor",
+    "position": "CB",
+    "team": "SF"
+  },
+  {
+    "season": 1971,
+    "award": "DROY",
+    "recipient": "Isiah Robertson",
+    "position": "LB",
+    "team": "LA"
+  },
+  {
+    "season": 1972,
+    "award": "DROY",
+    "recipient": "Willie Buchanon",
+    "position": "CB",
+    "team": "GB"
+  },
+  {
+    "season": 1973,
+    "award": "DROY",
+    "recipient": "Wally Chambers",
+    "position": "DT",
+    "team": "CHI"
+  },
+  {
+    "season": 1974,
+    "award": "DROY",
+    "recipient": "Jack Lambert",
+    "position": "LB",
+    "team": "PIT"
+  },
+  {
+    "season": 1975,
+    "award": "DROY",
+    "recipient": "Robert Brazile",
+    "position": "LB",
+    "team": "TEN"
+  },
+  {
+    "season": 1976,
+    "award": "DROY",
+    "recipient": "Mike Haynes",
+    "position": "CB",
+    "team": "NE"
+  },
+  {
+    "season": 1977,
+    "award": "DROY",
+    "recipient": "A. J. Duhe",
+    "position": "DE",
+    "team": "MIA"
+  },
+  {
+    "season": 1978,
+    "award": "DROY",
+    "recipient": "Al Baker",
+    "position": "DE",
+    "team": "DET"
+  },
+  {
+    "season": 1979,
+    "award": "DROY",
+    "recipient": "Jim Haslett",
+    "position": "LB",
+    "team": "BUF"
+  },
+  {
+    "season": 1980,
+    "award": "DROY",
+    "recipient": "Buddy Curry; Al Richardson",
+    "position": "LB",
+    "team": "ATL"
+  },
+  {
+    "season": 1981,
+    "award": "DROY",
+    "recipient": "Lawrence Taylor",
+    "position": "LB",
+    "team": "NYG"
+  },
+  {
+    "season": 1982,
+    "award": "DROY",
+    "recipient": "Chip Banks",
+    "position": "LB",
+    "team": "CLE"
+  },
+  {
+    "season": 1983,
+    "award": "DROY",
+    "recipient": "Vernon Maxwell",
+    "position": "LB",
+    "team": "IND"
+  },
+  {
+    "season": 1984,
+    "award": "DROY",
+    "recipient": "Bill Maas",
+    "position": "DT",
+    "team": "KC"
+  },
+  {
+    "season": 1985,
+    "award": "DROY",
+    "recipient": "Duane Bickett",
+    "position": "LB",
+    "team": "IND"
+  },
+  {
+    "season": 1986,
+    "award": "DROY",
+    "recipient": "Leslie O'Neal",
+    "position": "DE",
+    "team": "LAC"
+  },
+  {
+    "season": 1987,
+    "award": "DROY",
+    "recipient": "Shane Conlan",
+    "position": "LB",
+    "team": "BUF"
+  },
+  {
+    "season": 1988,
+    "award": "DROY",
+    "recipient": "Erik McMillan",
+    "position": "S",
+    "team": "NYJ"
+  },
+  {
+    "season": 1989,
+    "award": "DROY",
+    "recipient": "Derrick Thomas",
+    "position": "LB",
+    "team": "KC"
+  },
+  {
+    "season": 1990,
+    "award": "DROY",
+    "recipient": "Mark Carrier",
+    "position": "S",
+    "team": "CHI"
+  },
+  {
+    "season": 1991,
+    "award": "DROY",
+    "recipient": "Mike Croel",
+    "position": "LB",
+    "team": "DEN"
+  },
+  {
+    "season": 1992,
+    "award": "DROY",
+    "recipient": "Dale Carter",
+    "position": "CB",
+    "team": "KC"
+  },
+  {
+    "season": 1993,
+    "award": "DROY",
+    "recipient": "Dana Stubblefield",
+    "position": "DT",
+    "team": "SF"
+  },
+  {
+    "season": 1994,
+    "award": "DROY",
+    "recipient": "Tim Bowens",
+    "position": "DT",
+    "team": "MIA"
+  },
+  {
+    "season": 1995,
+    "award": "DROY",
+    "recipient": "Hugh Douglas",
+    "position": "DE",
+    "team": "NYJ"
+  },
+  {
+    "season": 1996,
+    "award": "DROY",
+    "recipient": "Simeon Rice",
+    "position": "DE",
+    "team": "ARI"
+  },
+  {
+    "season": 1997,
+    "award": "DROY",
+    "recipient": "Peter Boulware",
+    "position": "LB",
+    "team": "BAL"
+  },
+  {
+    "season": 1998,
+    "award": "DROY",
+    "recipient": "Charles Woodson",
+    "position": "CB",
+    "team": "LV"
+  },
+  {
+    "season": 1999,
+    "award": "DROY",
+    "recipient": "Jevon Kearse",
+    "position": "DE",
+    "team": "TEN"
+  },
+  {
+    "season": 2000,
+    "award": "DROY",
+    "recipient": "Brian Urlacher",
+    "position": "LB",
+    "team": "CHI"
+  },
+  {
+    "season": 2001,
+    "award": "DROY",
+    "recipient": "Kendrell Bell",
+    "position": "LB",
+    "team": "PIT"
+  },
+  {
+    "season": 2002,
+    "award": "DROY",
+    "recipient": "Julius Peppers",
+    "position": "DE",
+    "team": "CAR"
+  },
+  {
+    "season": 2003,
+    "award": "DROY",
+    "recipient": "Terrell Suggs",
+    "position": "LB",
+    "team": "BAL"
+  },
+  {
+    "season": 2004,
+    "award": "DROY",
+    "recipient": "Jonathan Vilma",
+    "position": "LB",
+    "team": "NYJ"
+  },
+  {
+    "season": 2005,
+    "award": "DROY",
+    "recipient": "Shawne Merriman",
+    "position": "LB",
+    "team": "LAC"
+  },
+  {
+    "season": 2006,
+    "award": "DROY",
+    "recipient": "DeMeco Ryans",
+    "position": "LB",
+    "team": "HOU"
+  },
+  {
+    "season": 2007,
+    "award": "DROY",
+    "recipient": "Patrick Willis",
+    "position": "LB",
+    "team": "SF"
+  },
+  {
+    "season": 2008,
+    "award": "DROY",
+    "recipient": "Jerod Mayo",
+    "position": "LB",
+    "team": "NE"
+  },
+  {
+    "season": 2009,
+    "award": "DROY",
+    "recipient": "Brian Cushing",
+    "position": "LB",
+    "team": "HOU"
+  },
+  {
+    "season": 2010,
+    "award": "DROY",
+    "recipient": "Ndamukong Suh",
+    "position": "DT",
+    "team": "DET"
+  },
+  {
+    "season": 2011,
+    "award": "DROY",
+    "recipient": "Von Miller",
+    "position": "LB",
+    "team": "DEN"
+  },
+  {
+    "season": 2012,
+    "award": "DROY",
+    "recipient": "Luke Kuechly",
+    "position": "LB",
+    "team": "CAR"
+  },
+  {
+    "season": 2013,
+    "award": "DROY",
+    "recipient": "Sheldon Richardson",
+    "position": "DE",
+    "team": "NYJ"
+  },
+  {
+    "season": 2014,
+    "award": "DROY",
+    "recipient": "Aaron Donald",
+    "position": "DT",
+    "team": "LA"
+  },
+  {
+    "season": 2015,
+    "award": "DROY",
+    "recipient": "Marcus Peters",
+    "position": "CB",
+    "team": "KC"
+  },
+  {
+    "season": 2016,
+    "award": "DROY",
+    "recipient": "Joey Bosa",
+    "position": "DE",
+    "team": "LAC"
+  },
+  {
+    "season": 2017,
+    "award": "DROY",
+    "recipient": "Marshon Lattimore",
+    "position": "CB",
+    "team": "NO"
+  },
+  {
+    "season": 2018,
+    "award": "DROY",
+    "recipient": "Shaquille Leonard",
+    "position": "LB",
+    "team": "IND"
+  },
+  {
+    "season": 2019,
+    "award": "DROY",
+    "recipient": "Nick Bosa",
+    "position": "DE",
+    "team": "SF"
+  },
+  {
+    "season": 2020,
+    "award": "DROY",
+    "recipient": "Chase Young",
+    "position": "DE",
+    "team": "WAS"
+  },
+  {
+    "season": 2021,
+    "award": "DROY",
+    "recipient": "Micah Parsons",
+    "position": "LB",
+    "team": "DAL"
+  },
+  {
+    "season": 2022,
+    "award": "DROY",
+    "recipient": "Sauce Gardner",
+    "position": "CB",
+    "team": "NYJ"
+  },
+  {
+    "season": 2023,
+    "award": "DROY",
+    "recipient": "Will Anderson Jr.",
+    "position": "DE",
+    "team": "HOU"
+  },
+  {
+    "season": 2024,
+    "award": "DROY",
+    "recipient": "Jared Verse",
+    "position": "LB",
+    "team": "LA"
+  },
+  {
+    "season": 2025,
+    "award": "DROY",
+    "recipient": "Carson Schwesinger",
+    "position": "LB",
+    "team": "CLE"
+  },
+  {
+    "season": 1998,
+    "award": "CPOY",
+    "recipient": "Doug Flutie",
+    "position": "QB",
+    "team": "BUF"
+  },
+  {
+    "season": 1999,
+    "award": "CPOY",
+    "recipient": "Bryant Young",
+    "position": "DT",
+    "team": "SF"
+  },
+  {
+    "season": 2000,
+    "award": "CPOY",
+    "recipient": "Joe Johnson",
+    "position": "DE",
+    "team": "NO"
+  },
+  {
+    "season": 2001,
+    "award": "CPOY",
+    "recipient": "Garrison Hearst",
+    "position": "RB",
+    "team": "SF"
+  },
+  {
+    "season": 2002,
+    "award": "CPOY",
+    "recipient": "Tommy Maddox",
+    "position": "QB",
+    "team": "PIT"
+  },
+  {
+    "season": 2003,
+    "award": "CPOY",
+    "recipient": "Jon Kitna",
+    "position": "QB",
+    "team": "CIN"
+  },
+  {
+    "season": 2004,
+    "award": "CPOY",
+    "recipient": "Drew Brees",
+    "position": "QB",
+    "team": "LAC"
+  },
+  {
+    "season": 2005,
+    "award": "CPOY",
+    "recipient": "Steve Smith Sr.",
+    "position": "WR",
+    "team": "CAR"
+  },
+  {
+    "season": 2005,
+    "award": "CPOY",
+    "recipient": "Tedy Bruschi",
+    "position": "LB",
+    "team": "NE"
+  },
+  {
+    "season": 2006,
+    "award": "CPOY",
+    "recipient": "Chad Pennington",
+    "position": "QB",
+    "team": "NYJ"
+  },
+  {
+    "season": 2007,
+    "award": "CPOY",
+    "recipient": "Greg Ellis",
+    "position": "DE",
+    "team": "DAL"
+  },
+  {
+    "season": 2008,
+    "award": "CPOY",
+    "recipient": "Chad Pennington",
+    "position": "QB",
+    "team": "MIA"
+  },
+  {
+    "season": 2009,
+    "award": "CPOY",
+    "recipient": "Tom Brady",
+    "position": "QB",
+    "team": "NE"
+  },
+  {
+    "season": 2010,
+    "award": "CPOY",
+    "recipient": "Michael Vick",
+    "position": "QB",
+    "team": "PHI"
+  },
+  {
+    "season": 2011,
+    "award": "CPOY",
+    "recipient": "Matthew Stafford",
+    "position": "QB",
+    "team": "DET"
+  },
+  {
+    "season": 2012,
+    "award": "CPOY",
+    "recipient": "Peyton Manning",
+    "position": "QB",
+    "team": "DEN"
+  },
+  {
+    "season": 2013,
+    "award": "CPOY",
+    "recipient": "Philip Rivers",
+    "position": "QB",
+    "team": "LAC"
+  },
+  {
+    "season": 2014,
+    "award": "CPOY",
+    "recipient": "Rob Gronkowski",
+    "position": "TE",
+    "team": "NE"
+  },
+  {
+    "season": 2015,
+    "award": "CPOY",
+    "recipient": "Eric Berry",
+    "position": "S",
+    "team": "KC"
+  },
+  {
+    "season": 2016,
+    "award": "CPOY",
+    "recipient": "Jordy Nelson",
+    "position": "WR",
+    "team": "GB"
+  },
+  {
+    "season": 2017,
+    "award": "CPOY",
+    "recipient": "Keenan Allen",
+    "position": "WR",
+    "team": "LAC"
+  },
+  {
+    "season": 2018,
+    "award": "CPOY",
+    "recipient": "Andrew Luck",
+    "position": "QB",
+    "team": "IND"
+  },
+  {
+    "season": 2019,
+    "award": "CPOY",
+    "recipient": "Ryan Tannehill",
+    "position": "QB",
+    "team": "TEN"
+  },
+  {
+    "season": 2020,
+    "award": "CPOY",
+    "recipient": "Alex Smith",
+    "position": "QB",
+    "team": "WAS"
+  },
+  {
+    "season": 2021,
+    "award": "CPOY",
+    "recipient": "Joe Burrow",
+    "position": "QB",
+    "team": "CIN"
+  },
+  {
+    "season": 2022,
+    "award": "CPOY",
+    "recipient": "Geno Smith",
+    "position": "QB",
+    "team": "SEA"
+  },
+  {
+    "season": 2023,
+    "award": "CPOY",
+    "recipient": "Joe Flacco",
+    "position": "QB",
+    "team": "CLE"
+  },
+  {
+    "season": 2024,
+    "award": "CPOY",
+    "recipient": "Joe Burrow",
+    "position": "QB",
+    "team": "CIN"
+  },
+  {
+    "season": 2025,
+    "award": "CPOY",
+    "recipient": "Christian McCaffrey",
+    "position": "RB",
+    "team": "SF"
+  },
+  {
+    "season": 1957,
+    "award": "COY",
+    "recipient": "George Wilson",
+    "position": null,
+    "team": "DET"
+  },
+  {
+    "season": 1958,
+    "award": "COY",
+    "recipient": "Weeb Ewbank",
+    "position": null,
+    "team": "IND"
+  },
+  {
+    "season": 1959,
+    "award": "COY",
+    "recipient": "Vince Lombardi",
+    "position": null,
+    "team": "GB"
+  },
+  {
+    "season": 1960,
+    "award": "COY",
+    "recipient": "Buck Shaw",
+    "position": null,
+    "team": "PHI"
+  },
+  {
+    "season": 1961,
+    "award": "COY",
+    "recipient": "Allie Sherman",
+    "position": null,
+    "team": "NYG"
+  },
+  {
+    "season": 1962,
+    "award": "COY",
+    "recipient": "Allie Sherman",
+    "position": null,
+    "team": "NYG"
+  },
+  {
+    "season": 1963,
+    "award": "COY",
+    "recipient": "George Halas",
+    "position": null,
+    "team": "CHI"
+  },
+  {
+    "season": 1964,
+    "award": "COY",
+    "recipient": "Don Shula",
+    "position": null,
+    "team": "IND"
+  },
+  {
+    "season": 1965,
+    "award": "COY",
+    "recipient": "George Halas",
+    "position": null,
+    "team": "CHI"
+  },
+  {
+    "season": 1966,
+    "award": "COY",
+    "recipient": "Tom Landry",
+    "position": null,
+    "team": "DAL"
+  },
+  {
+    "season": 1967,
+    "award": "COY",
+    "recipient": "Don Shula",
+    "position": null,
+    "team": "IND"
+  },
+  {
+    "season": 1967,
+    "award": "COY",
+    "recipient": "George Allen",
+    "position": null,
+    "team": "LA"
+  },
+  {
+    "season": 1968,
+    "award": "COY",
+    "recipient": "Don Shula",
+    "position": null,
+    "team": "IND"
+  },
+  {
+    "season": 1969,
+    "award": "COY",
+    "recipient": "Bud Grant",
+    "position": null,
+    "team": "MIN"
+  },
+  {
+    "season": 1970,
+    "award": "COY",
+    "recipient": "Paul Brown",
+    "position": null,
+    "team": "CIN"
+  },
+  {
+    "season": 1971,
+    "award": "COY",
+    "recipient": "George Allen",
+    "position": null,
+    "team": "WAS"
+  },
+  {
+    "season": 1972,
+    "award": "COY",
+    "recipient": "Don Shula",
+    "position": null,
+    "team": "MIA"
+  },
+  {
+    "season": 1973,
+    "award": "COY",
+    "recipient": "Chuck Knox",
+    "position": null,
+    "team": "LA"
+  },
+  {
+    "season": 1974,
+    "award": "COY",
+    "recipient": "Don Coryell",
+    "position": null,
+    "team": "ARI"
+  },
+  {
+    "season": 1975,
+    "award": "COY",
+    "recipient": "Ted Marchibroda",
+    "position": null,
+    "team": "IND"
+  },
+  {
+    "season": 1976,
+    "award": "COY",
+    "recipient": "Forrest Gregg",
+    "position": null,
+    "team": "CLE"
+  },
+  {
+    "season": 1977,
+    "award": "COY",
+    "recipient": "Red Miller",
+    "position": null,
+    "team": "DEN"
+  },
+  {
+    "season": 1978,
+    "award": "COY",
+    "recipient": "Jack Patera",
+    "position": null,
+    "team": "SEA"
+  },
+  {
+    "season": 1979,
+    "award": "COY",
+    "recipient": "Jack Pardee",
+    "position": null,
+    "team": "WAS"
+  },
+  {
+    "season": 1980,
+    "award": "COY",
+    "recipient": "Chuck Knox",
+    "position": null,
+    "team": "BUF"
+  },
+  {
+    "season": 1981,
+    "award": "COY",
+    "recipient": "Bill Walsh",
+    "position": null,
+    "team": "SF"
+  },
+  {
+    "season": 1982,
+    "award": "COY",
+    "recipient": "Joe Gibbs",
+    "position": null,
+    "team": "WAS"
+  },
+  {
+    "season": 1983,
+    "award": "COY",
+    "recipient": "Joe Gibbs",
+    "position": null,
+    "team": "WAS"
+  },
+  {
+    "season": 1984,
+    "award": "COY",
+    "recipient": "Chuck Knox",
+    "position": null,
+    "team": "SEA"
+  },
+  {
+    "season": 1985,
+    "award": "COY",
+    "recipient": "Mike Ditka",
+    "position": null,
+    "team": "CHI"
+  },
+  {
+    "season": 1986,
+    "award": "COY",
+    "recipient": "Bill Parcells",
+    "position": null,
+    "team": "NYG"
+  },
+  {
+    "season": 1987,
+    "award": "COY",
+    "recipient": "Jim Mora",
+    "position": null,
+    "team": "NO"
+  },
+  {
+    "season": 1988,
+    "award": "COY",
+    "recipient": "Mike Ditka",
+    "position": null,
+    "team": "CHI"
+  },
+  {
+    "season": 1989,
+    "award": "COY",
+    "recipient": "Lindy Infante",
+    "position": null,
+    "team": "GB"
+  },
+  {
+    "season": 1990,
+    "award": "COY",
+    "recipient": "Jimmy Johnson",
+    "position": null,
+    "team": "DAL"
+  },
+  {
+    "season": 1991,
+    "award": "COY",
+    "recipient": "Wayne Fontes",
+    "position": null,
+    "team": "DET"
+  },
+  {
+    "season": 1992,
+    "award": "COY",
+    "recipient": "Bill Cowher",
+    "position": null,
+    "team": "PIT"
+  },
+  {
+    "season": 1993,
+    "award": "COY",
+    "recipient": "Dan Reeves",
+    "position": null,
+    "team": "NYG"
+  },
+  {
+    "season": 1994,
+    "award": "COY",
+    "recipient": "Bill Parcells",
+    "position": null,
+    "team": "NE"
+  },
+  {
+    "season": 1995,
+    "award": "COY",
+    "recipient": "Ray Rhodes",
+    "position": null,
+    "team": "PHI"
+  },
+  {
+    "season": 1996,
+    "award": "COY",
+    "recipient": "Dom Capers",
+    "position": null,
+    "team": "CAR"
+  },
+  {
+    "season": 1997,
+    "award": "COY",
+    "recipient": "Jim Fassel",
+    "position": null,
+    "team": "NYG"
+  },
+  {
+    "season": 1998,
+    "award": "COY",
+    "recipient": "Dan Reeves",
+    "position": null,
+    "team": "ATL"
+  },
+  {
+    "season": 1999,
+    "award": "COY",
+    "recipient": "Dick Vermeil",
+    "position": null,
+    "team": "LA"
+  },
+  {
+    "season": 2000,
+    "award": "COY",
+    "recipient": "Jim Haslett",
+    "position": null,
+    "team": "NO"
+  },
+  {
+    "season": 2001,
+    "award": "COY",
+    "recipient": "Dick Jauron",
+    "position": null,
+    "team": "CHI"
+  },
+  {
+    "season": 2002,
+    "award": "COY",
+    "recipient": "Andy Reid",
+    "position": null,
+    "team": "PHI"
+  },
+  {
+    "season": 2003,
+    "award": "COY",
+    "recipient": "Bill Belichick",
+    "position": null,
+    "team": "NE"
+  },
+  {
+    "season": 2004,
+    "award": "COY",
+    "recipient": "Marty Schottenheimer",
+    "position": null,
+    "team": "LAC"
+  },
+  {
+    "season": 2005,
+    "award": "COY",
+    "recipient": "Lovie Smith",
+    "position": null,
+    "team": "CHI"
+  },
+  {
+    "season": 2006,
+    "award": "COY",
+    "recipient": "Sean Payton",
+    "position": null,
+    "team": "NO"
+  },
+  {
+    "season": 2007,
+    "award": "COY",
+    "recipient": "Bill Belichick",
+    "position": null,
+    "team": "NE"
+  },
+  {
+    "season": 2008,
+    "award": "COY",
+    "recipient": "Mike Smith",
+    "position": null,
+    "team": "ATL"
+  },
+  {
+    "season": 2009,
+    "award": "COY",
+    "recipient": "Marvin Lewis",
+    "position": null,
+    "team": "CIN"
+  },
+  {
+    "season": 2010,
+    "award": "COY",
+    "recipient": "Bill Belichick",
+    "position": null,
+    "team": "NE"
+  },
+  {
+    "season": 2011,
+    "award": "COY",
+    "recipient": "Jim Harbaugh",
+    "position": null,
+    "team": "SF"
+  },
+  {
+    "season": 2012,
+    "award": "COY",
+    "recipient": "Bruce Arians",
+    "position": null,
+    "team": "IND"
+  },
+  {
+    "season": 2013,
+    "award": "COY",
+    "recipient": "Ron Rivera",
+    "position": null,
+    "team": "CAR"
+  },
+  {
+    "season": 2014,
+    "award": "COY",
+    "recipient": "Bruce Arians",
+    "position": null,
+    "team": "ARI"
+  },
+  {
+    "season": 2015,
+    "award": "COY",
+    "recipient": "Ron Rivera",
+    "position": null,
+    "team": "CAR"
+  },
+  {
+    "season": 2016,
+    "award": "COY",
+    "recipient": "Jason Garrett",
+    "position": null,
+    "team": "DAL"
+  },
+  {
+    "season": 2017,
+    "award": "COY",
+    "recipient": "Sean McVay",
+    "position": null,
+    "team": "LA"
+  },
+  {
+    "season": 2018,
+    "award": "COY",
+    "recipient": "Matt Nagy",
+    "position": null,
+    "team": "CHI"
+  },
+  {
+    "season": 2019,
+    "award": "COY",
+    "recipient": "John Harbaugh",
+    "position": null,
+    "team": "BAL"
+  },
+  {
+    "season": 2020,
+    "award": "COY",
+    "recipient": "Kevin Stefanski",
+    "position": null,
+    "team": "CLE"
+  },
+  {
+    "season": 2021,
+    "award": "COY",
+    "recipient": "Mike Vrabel",
+    "position": null,
+    "team": "TEN"
+  },
+  {
+    "season": 2022,
+    "award": "COY",
+    "recipient": "Brian Daboll",
+    "position": null,
+    "team": "NYG"
+  },
+  {
+    "season": 2023,
+    "award": "COY",
+    "recipient": "Kevin Stefanski",
+    "position": null,
+    "team": "CLE"
+  },
+  {
+    "season": 2024,
+    "award": "COY",
+    "recipient": "Kevin O'Connell",
+    "position": null,
+    "team": "MIN"
+  },
+  {
+    "season": 2025,
+    "award": "COY",
+    "recipient": "Mike Vrabel",
+    "position": null,
+    "team": "NE"
+  },
+  {
+    "season": 1970,
+    "award": "WPMOY",
+    "recipient": "Johnny Unitas",
+    "position": "QB",
+    "team": "IND"
+  },
+  {
+    "season": 1971,
+    "award": "WPMOY",
+    "recipient": "John Hadl",
+    "position": "QB",
+    "team": "LAC"
+  },
+  {
+    "season": 1972,
+    "award": "WPMOY",
+    "recipient": "Willie Lanier",
+    "position": "LB",
+    "team": "KC"
+  },
+  {
+    "season": 1973,
+    "award": "WPMOY",
+    "recipient": "Len Dawson",
+    "position": "QB",
+    "team": "KC"
+  },
+  {
+    "season": 1974,
+    "award": "WPMOY",
+    "recipient": "George Blanda",
+    "position": "QB",
+    "team": "LV"
+  },
+  {
+    "season": 1975,
+    "award": "WPMOY",
+    "recipient": "Ken Anderson",
+    "position": "QB",
+    "team": "CIN"
+  },
+  {
+    "season": 1976,
+    "award": "WPMOY",
+    "recipient": "Franco Harris",
+    "position": "RB",
+    "team": "PIT"
+  },
+  {
+    "season": 1977,
+    "award": "WPMOY",
+    "recipient": "Walter Payton",
+    "position": "RB",
+    "team": "CHI"
+  },
+  {
+    "season": 1978,
+    "award": "WPMOY",
+    "recipient": "Roger Staubach",
+    "position": "QB",
+    "team": "DAL"
+  },
+  {
+    "season": 1979,
+    "award": "WPMOY",
+    "recipient": "Joe Greene",
+    "position": "DT",
+    "team": "PIT"
+  },
+  {
+    "season": 1980,
+    "award": "WPMOY",
+    "recipient": "Harold Carmichael",
+    "position": "WR",
+    "team": "PHI"
+  },
+  {
+    "season": 1981,
+    "award": "WPMOY",
+    "recipient": "Lynn Swann",
+    "position": "WR",
+    "team": "PIT"
+  },
+  {
+    "season": 1982,
+    "award": "WPMOY",
+    "recipient": "Joe Theismann",
+    "position": "QB",
+    "team": "WAS"
+  },
+  {
+    "season": 1983,
+    "award": "WPMOY",
+    "recipient": "Rolf Benirschke",
+    "position": "K",
+    "team": "LAC"
+  },
+  {
+    "season": 1984,
+    "award": "WPMOY",
+    "recipient": "Marty Lyons",
+    "position": "DT",
+    "team": "NYJ"
+  },
+  {
+    "season": 1985,
+    "award": "WPMOY",
+    "recipient": "Dwight Stephenson",
+    "position": "C",
+    "team": "MIA"
+  },
+  {
+    "season": 1986,
+    "award": "WPMOY",
+    "recipient": "Reggie Williams",
+    "position": "LB",
+    "team": "CIN"
+  },
+  {
+    "season": 1987,
+    "award": "WPMOY",
+    "recipient": "Dave Duerson",
+    "position": "S",
+    "team": "CHI"
+  },
+  {
+    "season": 1988,
+    "award": "WPMOY",
+    "recipient": "Steve Largent",
+    "position": "WR",
+    "team": "SEA"
+  },
+  {
+    "season": 1989,
+    "award": "WPMOY",
+    "recipient": "Warren Moon",
+    "position": "QB",
+    "team": "TEN"
+  },
+  {
+    "season": 1990,
+    "award": "WPMOY",
+    "recipient": "Mike Singletary",
+    "position": "LB",
+    "team": "CHI"
+  },
+  {
+    "season": 1991,
+    "award": "WPMOY",
+    "recipient": "Anthony Muñoz",
+    "position": "T",
+    "team": "CIN"
+  },
+  {
+    "season": 1992,
+    "award": "WPMOY",
+    "recipient": "John Elway",
+    "position": "QB",
+    "team": "DEN"
+  },
+  {
+    "season": 1993,
+    "award": "WPMOY",
+    "recipient": "Derrick Thomas",
+    "position": "LB",
+    "team": "KC"
+  },
+  {
+    "season": 1994,
+    "award": "WPMOY",
+    "recipient": "Junior Seau",
+    "position": "LB",
+    "team": "LAC"
+  },
+  {
+    "season": 1995,
+    "award": "WPMOY",
+    "recipient": "Boomer Esiason",
+    "position": "QB",
+    "team": "NYJ"
+  },
+  {
+    "season": 1996,
+    "award": "WPMOY",
+    "recipient": "Darrell Green",
+    "position": "CB",
+    "team": "WAS"
+  },
+  {
+    "season": 1997,
+    "award": "WPMOY",
+    "recipient": "Troy Aikman",
+    "position": "QB",
+    "team": "DAL"
+  },
+  {
+    "season": 1998,
+    "award": "WPMOY",
+    "recipient": "Dan Marino",
+    "position": "QB",
+    "team": "MIA"
+  },
+  {
+    "season": 1999,
+    "award": "WPMOY",
+    "recipient": "Cris Carter",
+    "position": "WR",
+    "team": "MIN"
+  },
+  {
+    "season": 2000,
+    "award": "WPMOY",
+    "recipient": "Derrick Brooks",
+    "position": "LB",
+    "team": "TB"
+  },
+  {
+    "season": 2000,
+    "award": "WPMOY",
+    "recipient": "Jim Flanigan",
+    "position": "DT",
+    "team": "CHI"
+  },
+  {
+    "season": 2001,
+    "award": "WPMOY",
+    "recipient": "Jerome Bettis",
+    "position": "RB",
+    "team": "PIT"
+  },
+  {
+    "season": 2002,
+    "award": "WPMOY",
+    "recipient": "Troy Vincent",
+    "position": "CB",
+    "team": "PHI"
+  },
+  {
+    "season": 2003,
+    "award": "WPMOY",
+    "recipient": "Will Shields",
+    "position": "G",
+    "team": "KC"
+  },
+  {
+    "season": 2004,
+    "award": "WPMOY",
+    "recipient": "Warrick Dunn",
+    "position": "RB",
+    "team": "ATL"
+  },
+  {
+    "season": 2005,
+    "award": "WPMOY",
+    "recipient": "Peyton Manning",
+    "position": "QB",
+    "team": "IND"
+  },
+  {
+    "season": 2006,
+    "award": "WPMOY",
+    "recipient": "Drew Brees",
+    "position": "QB",
+    "team": "NO"
+  },
+  {
+    "season": 2006,
+    "award": "WPMOY",
+    "recipient": "LaDainian Tomlinson",
+    "position": "RB",
+    "team": "LAC"
+  },
+  {
+    "season": 2007,
+    "award": "WPMOY",
+    "recipient": "Jason Taylor",
+    "position": "DE",
+    "team": "MIA"
+  },
+  {
+    "season": 2008,
+    "award": "WPMOY",
+    "recipient": "Kurt Warner",
+    "position": "QB",
+    "team": "ARI"
+  },
+  {
+    "season": 2009,
+    "award": "WPMOY",
+    "recipient": "Brian Waters",
+    "position": "G",
+    "team": "KC"
+  },
+  {
+    "season": 2010,
+    "award": "WPMOY",
+    "recipient": "Madieu Williams",
+    "position": "S",
+    "team": "MIN"
+  },
+  {
+    "season": 2011,
+    "award": "WPMOY",
+    "recipient": "Matt Birk",
+    "position": "C",
+    "team": "BAL"
+  },
+  {
+    "season": 2012,
+    "award": "WPMOY",
+    "recipient": "Jason Witten",
+    "position": "TE",
+    "team": "DAL"
+  },
+  {
+    "season": 2013,
+    "award": "WPMOY",
+    "recipient": "Charles Tillman",
+    "position": "CB",
+    "team": "CHI"
+  },
+  {
+    "season": 2014,
+    "award": "WPMOY",
+    "recipient": "Thomas Davis Sr.",
+    "position": "LB",
+    "team": "CAR"
+  },
+  {
+    "season": 2015,
+    "award": "WPMOY",
+    "recipient": "Anquan Boldin",
+    "position": "WR",
+    "team": "SF"
+  },
+  {
+    "season": 2016,
+    "award": "WPMOY",
+    "recipient": "Eli Manning",
+    "position": "QB",
+    "team": "NYG"
+  },
+  {
+    "season": 2016,
+    "award": "WPMOY",
+    "recipient": "Larry Fitzgerald",
+    "position": "WR",
+    "team": "ARI"
+  },
+  {
+    "season": 2017,
+    "award": "WPMOY",
+    "recipient": "J. J. Watt",
+    "position": "DE",
+    "team": "HOU"
+  },
+  {
+    "season": 2018,
+    "award": "WPMOY",
+    "recipient": "Chris Long",
+    "position": "DE",
+    "team": "PHI"
+  },
+  {
+    "season": 2019,
+    "award": "WPMOY",
+    "recipient": "Calais Campbell",
+    "position": "DE",
+    "team": "JAX"
+  },
+  {
+    "season": 2020,
+    "award": "WPMOY",
+    "recipient": "Russell Wilson",
+    "position": "QB",
+    "team": "SEA"
+  },
+  {
+    "season": 2021,
+    "award": "WPMOY",
+    "recipient": "Andrew Whitworth",
+    "position": "T",
+    "team": "LA"
+  },
+  {
+    "season": 2022,
+    "award": "WPMOY",
+    "recipient": "Dak Prescott",
+    "position": "QB",
+    "team": "DAL"
+  },
+  {
+    "season": 2023,
+    "award": "WPMOY",
+    "recipient": "Cameron Heyward",
+    "position": "DT",
+    "team": "PIT"
+  },
+  {
+    "season": 2024,
+    "award": "WPMOY",
+    "recipient": "Arik Armstead",
+    "position": "DE",
+    "team": "JAX"
+  },
+  {
+    "season": 2025,
+    "award": "WPMOY",
+    "recipient": "Bobby Wagner",
+    "position": "LB",
+    "team": "WAS"
+  }
+]
