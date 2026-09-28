@@ -2,6 +2,7 @@ import { nflverseAsset, nflverseUpdatedAt } from "../lib/cache";
 import { pruneStale, recordSource, upsertRows } from "../lib/db";
 import { lit, litList } from "../lib/duck";
 import { range } from "../lib/seasons";
+import { seedPath } from "../lib/seeds";
 import type { Dataset, SyncContext } from "../lib/types";
 
 export const FIRST_ROSTER_SEASON = 1920;
@@ -172,6 +173,102 @@ export const players: Dataset = {
       union all by name
       select * from legacy`);
 
+    // ── Hall of Fame ─────────────────────────────────────────────────────────
+    // Match curated inductees (category "player") to player_rows: (a) norm_name + birth_date,
+    // (b) else a unique norm_name match whose career touched one of the inductee's franchises,
+    // (c) else a unique norm_name match overall. is_hof is OR'd with the existing draft-honors flag.
+    await duck.exec(`
+      create or replace table hof_players as
+      select row_number() over () as hof_row_id, name, "class"::integer as class, franchises,
+        try_cast(birth_date as date) as birth_date
+      from read_json(${lit(seedPath("hall-of-fame.json"))}, format = 'array')
+      where category = 'player'`);
+
+    // Name variants: as written, nickname removed ('Dick "Night Train" Lane' → Dick Lane), nickname + surname
+    // (Night Train Lane), and first + last word (drops middle initials).
+    await duck.exec(`
+      create or replace table hof_keys as
+      with parts as (
+        select hof_row_id, name,
+          trim(regexp_replace(regexp_replace(name, '"[^"]*"', '', 'g'), '\\([^)]*\\)', '', 'g')) as plain,
+          coalesce(nullif(regexp_extract(name, '"([^"]+)"', 1), ''), nullif(regexp_extract(name, '\\(([^)]+)\\)', 1), '')) as nickname
+        from hof_players
+      ),
+      variants as (
+        select hof_row_id, norm_name(name) as key_name from parts
+        union select hof_row_id, norm_name(plain) from parts
+        union select hof_row_id, norm_name(nullif(nickname, '') || ' ' || list_last(string_split(plain, ' '))) from parts
+        union select hof_row_id, norm_name(list_first(string_split(plain, ' ')) || ' ' || list_last(string_split(plain, ' '))) from parts
+        -- Roster spellings that no rule derives (checked against the players table).
+        union select p.hof_row_id, norm_name(alias.roster_name)
+        from parts p
+        join (values
+          ('Charley Trippi', 'Charlie Trippi'),
+          ('Dan Fortmann', 'Danny Fortmann'),
+          ('Johnny Blood', 'Johnny (Blood) McNally'),
+          ('William R. Lyman', 'Link Lyman')
+        ) as alias(hof_name, roster_name) on alias.hof_name = p.name
+      )
+      select distinct hof_row_id, key_name from variants where key_name is not null and key_name <> ''`);
+
+    await duck.exec(`
+      create or replace table hof_by_birth as
+      select h.hof_row_id, min(pr.id) as player_id
+      from hof_players h
+      join hof_keys k using (hof_row_id)
+      join player_rows pr on norm_name(pr.display_name) = k.key_name and pr.birth_date = h.birth_date
+      where h.birth_date is not null
+      group by h.hof_row_id
+      having count(distinct pr.id) = 1`);
+
+    await duck.exec(`
+      create or replace table hof_by_franchise as
+      select h.hof_row_id, min(pr.id) as player_id
+      from hof_players h
+      join hof_keys k using (hof_row_id)
+      join player_rows pr on norm_name(pr.display_name) = k.key_name
+      join roster_ids ri on ri.player_id = pr.id and list_contains(h.franchises, ri.franchise_id)
+      where h.hof_row_id not in (select hof_row_id from hof_by_birth)
+      group by h.hof_row_id
+      having count(distinct pr.id) = 1`);
+
+    await duck.exec(`
+      create or replace table hof_by_name as
+      select h.hof_row_id, min(pr.id) as player_id
+      from hof_players h
+      join hof_keys k using (hof_row_id)
+      join player_rows pr on norm_name(pr.display_name) = k.key_name
+      where h.hof_row_id not in (select hof_row_id from hof_by_birth)
+        and h.hof_row_id not in (select hof_row_id from hof_by_franchise)
+      group by h.hof_row_id
+      having count(distinct pr.id) = 1`);
+
+    await duck.exec(`
+      create or replace table hof_matches as
+      select h.hof_row_id, h.class, m.player_id
+      from hof_players h
+      join (
+        select * from hof_by_birth
+        union all select * from hof_by_franchise
+        union all select * from hof_by_name
+      ) m using (hof_row_id)`);
+
+    await duck.exec(`alter table player_rows add column hof_class smallint`);
+    await duck.exec(`
+      update player_rows
+      set is_hof = true, hof_class = m.class
+      from hof_matches m
+      where player_rows.id = m.player_id`);
+
+    const hofTotal = (await duck.one<{ n: number }>(`select count(*)::integer as n from hof_players`)).n;
+    const hofMatched = (await duck.one<{ n: number }>(`select count(*)::integer as n from hof_matches`)).n;
+    const hofUnmatched = await duck.all<{ name: string }>(`
+      select h.name from hof_players h where h.hof_row_id not in (select hof_row_id from hof_matches) order by h.name`);
+    ctx.log(
+      `  hof: matched ${hofMatched}/${hofTotal} player inductees` +
+        (hofUnmatched.length ? `; unmatched: ${hofUnmatched.map((r) => r.name).join(", ")}` : ""),
+    );
+
     const rows = await duck.all(`
       select * replace (
         birth_date::varchar as birth_date,
@@ -180,7 +277,8 @@ export const players: Dataset = {
         years_exp::integer as years_exp, draft_season::integer as draft_season, draft_round::integer as draft_round,
         draft_pick::integer as draft_pick, all_pro_count::integer as all_pro_count,
         pro_bowl_count::integer as pro_bowl_count, career_av::integer as career_av,
-        espn_id::varchar as espn_id, pff_id::varchar as pff_id, otc_id::varchar as otc_id
+        espn_id::varchar as espn_id, pff_id::varchar as pff_id, otc_id::varchar as otc_id,
+        hof_class::integer as hof_class
       )
       from player_rows`);
     await upsertRows(ctx, "players", rows, "id");
@@ -201,6 +299,12 @@ export const players: Dataset = {
       license: "CC-BY-4.0",
       coverage: `${FIRST_ROSTER_SEASON}–${ctx.currentSeason}`,
       upstreamUpdatedAt: await nflverseUpdatedAt("rosters"),
+    });
+    await recordSource(ctx, {
+      id: "curated.hall_of_fame",
+      name: "Curated Pro Football Hall of Fame inductees",
+      url: "https://github.com/jorelm68/gridiron-atlas/tree/main/data/seed",
+      coverage: `${hofTotal} player inductees`,
     });
   },
 };

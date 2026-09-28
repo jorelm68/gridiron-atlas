@@ -40,3 +40,20 @@ export interface TeamAbbrSeed {
   franchise: string | null;
   name: string;
 }
+
+export interface HallOfFameSeed {
+  name: string;
+  class: number;
+  category: "player" | "coach" | "contributor";
+  position: string | null;
+  franchises: string[];
+  birth_date: string | null;
+}
+
+export interface AwardSeed {
+  season: number;
+  award: string;
+  recipient: string;
+  position: string | null;
+  team: string;
+}
