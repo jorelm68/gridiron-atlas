@@ -91,12 +91,9 @@ export function AtlasExperience({
     return teams.filter((t) => t.id !== selectedTeam?.id && t.venue?.id === venueId).map((t) => t.nickname);
   }, [teams, selectedTeam]);
 
-  const selectTeam = useCallback(
+  /** Opens a team's panel and points the camera at it (never toggles it closed). */
+  const openTeam = useCallback(
     (id: string) => {
-      if (selectedTeamId === id) {
-        setSelectedTeamId(null);
-        return;
-      }
       lastSelectedId.current = id;
       // How much of the frame the panel will cover, so the camera can centre the team in what's left.
       const frame = frameRef.current?.getBoundingClientRect();
@@ -107,8 +104,30 @@ export function AtlasExperience({
       }
       setSelectedTeamId(id);
     },
-    [selectedTeamId, isDesktop],
+    [isDesktop],
   );
+
+  const selectTeam = useCallback(
+    (id: string) => {
+      if (selectedTeamId === id) setSelectedTeamId(null);
+      else openTeam(id);
+    },
+    [selectedTeamId, openTeam],
+  );
+
+  // The guided tour drives the map through a window event (see src/lib/tour/actions.ts): { teamId } opens that
+  // team's panel, { teamId: null } closes it. Map view only, so the list view is switched off first.
+  useEffect(() => {
+    const onFocus = (event: Event) => {
+      const teamId = (event as CustomEvent<{ teamId: string | null }>).detail?.teamId ?? null;
+      if (teamId === null) return setSelectedTeamId(null);
+      if (!teams.some((t) => t.id === teamId)) return;
+      setListView(false);
+      openTeam(teamId);
+    };
+    window.addEventListener("atlas:focus", onFocus);
+    return () => window.removeEventListener("atlas:focus", onFocus);
+  }, [teams, openTeam]);
 
   // On phones the bottom sheet covers half the screen, so bring the map to the top of the viewport. This runs after
   // the render that adds the scroll spacer below, otherwise the page is too short to scroll that far.

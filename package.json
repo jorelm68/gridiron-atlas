@@ -14,7 +14,8 @@
     "db:push": "supabase db push",
     "db:types": "supabase gen types typescript --linked --schema public > src/lib/supabase/database.types.ts",
     "sync": "tsx scripts/sync/index.ts",
-    "check:seeds": "node scripts/seed-checks/teams.mjs && node scripts/seed-checks/super-bowls-venues.mjs && node scripts/seed-checks/honors.mjs && node scripts/seed-checks/coaches.mjs"
+    "check:seeds": "node scripts/seed-checks/teams.mjs && node scripts/seed-checks/super-bowls-venues.mjs && node scripts/seed-checks/honors.mjs && node scripts/seed-checks/coaches.mjs",
+    "test:tour": "playwright test"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.9",
@@ -25,6 +26,7 @@
     "cn": "^0.4.0",
     "d3-delaunay": "^6.0.4",
     "d3-geo": "^3.1.1",
+    "driver.js": "^1.8.0",
     "katex": "^0.18.9",
     "lucide-react": "^1.48.0",
     "motion": "^13.4.4",
@@ -43,6 +45,7 @@
   },
   "devDependencies": {
     "@duckdb/node-api": "^1.5.5-r.5",
+    "@playwright/test": "^1.63.0",
     "@tailwindcss/postcss": "^4",
     "@types/d3-delaunay": "^6.0.4",
     "@types/d3-geo": "^3.1.1",

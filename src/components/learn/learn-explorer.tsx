@@ -118,7 +118,7 @@ export function LearnExplorer({ categories, topics }: { categories: ExplorerCate
       {noResults && <p className="text-sm text-muted-foreground">No stats or topics match “{query}”.</p>}
 
       {filteredCategories.length > 0 && (
-        <section aria-labelledby="stat-glossary-heading">
+        <section aria-labelledby="stat-glossary-heading" data-tour="learn-stats">
           <h2 id="stat-glossary-heading" className="mb-4 font-display text-2xl font-semibold">
             Stat glossary
           </h2>
@@ -153,7 +153,7 @@ export function LearnExplorer({ categories, topics }: { categories: ExplorerCate
       )}
 
       {filteredTopics.length > 0 && (
-        <section aria-labelledby="league-mechanics-heading">
+        <section aria-labelledby="league-mechanics-heading" data-tour="learn-league">
           <h2 id="league-mechanics-heading" className="mb-4 font-display text-2xl font-semibold">
             League mechanics
           </h2>

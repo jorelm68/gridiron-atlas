@@ -96,7 +96,7 @@ export default async function StatPage({ params }: PageProps<"/learn/stats/[id]"
         ← All stats &amp; league topics
       </Link>
 
-      <header className="mb-8">
+      <header className="mb-8" data-tour="stat-header">
         <p className="eyebrow mb-2 text-primary">{category?.label ?? stat.category}</p>
         <h1 className="text-4xl font-bold text-balance sm:text-5xl">
           {stat.name}
@@ -144,7 +144,7 @@ export default async function StatPage({ params }: PageProps<"/learn/stats/[id]"
           </section>
         )}
 
-        <section>
+        <section data-tour="stat-how-to-read">
           <h2 className="mb-3 font-display text-xl font-semibold">How to read it</h2>
           <div className="space-y-3 text-sm leading-relaxed text-muted-foreground">
             {stat.howToRead.map((p) => (
