@@ -4,6 +4,7 @@ import { coaches } from "./coaches";
 import { contracts } from "./contracts";
 import { depthCharts } from "./depth-charts";
 import { draft } from "./draft";
+import { gameFlow } from "./game-flow";
 import { games } from "./games";
 import { injuries } from "./injuries";
 import { players } from "./players";
@@ -18,6 +19,6 @@ import { venues } from "./venues";
 
 /** Every dataset, in dependency order (a dataset only depends on ones listed before it). */
 export const DATASETS: Dataset[] = [
-  reference, venues, players, games, rosters, stats, teamSeasons, draft, superBowls,
+  reference, venues, players, games, gameFlow, rosters, stats, teamSeasons, draft, superBowls,
   awards, depthCharts, injuries, snaps, contracts, trades, coaches,
 ];
