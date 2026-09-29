@@ -442,6 +442,88 @@ export type Database = {
           },
         ]
       }
+      franchise_players: {
+        Row: {
+          all_pro_count: number | null
+          career_av: number | null
+          display_name: string
+          first_season: number
+          franchise_id: string
+          franchise_value: number | null
+          headshot_url: string | null
+          hof_class: number | null
+          hof_here: boolean
+          is_hof: boolean
+          last_season: number
+          player_id: string
+          position: string | null
+          position_group: string | null
+          pro_bowl_count: number | null
+          seasons: number
+          sync_run_id: number | null
+        }
+        Insert: {
+          all_pro_count?: number | null
+          career_av?: number | null
+          display_name: string
+          first_season: number
+          franchise_id: string
+          franchise_value?: number | null
+          headshot_url?: string | null
+          hof_class?: number | null
+          hof_here?: boolean
+          is_hof?: boolean
+          last_season: number
+          player_id: string
+          position?: string | null
+          position_group?: string | null
+          pro_bowl_count?: number | null
+          seasons: number
+          sync_run_id?: number | null
+        }
+        Update: {
+          all_pro_count?: number | null
+          career_av?: number | null
+          display_name?: string
+          first_season?: number
+          franchise_id?: string
+          franchise_value?: number | null
+          headshot_url?: string | null
+          hof_class?: number | null
+          hof_here?: boolean
+          is_hof?: boolean
+          last_season?: number
+          player_id?: string
+          position?: string | null
+          position_group?: string | null
+          pro_bowl_count?: number | null
+          seasons?: number
+          sync_run_id?: number | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "franchise_players_franchise_id_fkey"
+            columns: ["franchise_id"]
+            isOneToOne: false
+            referencedRelation: "franchises"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "franchise_players_player_id_fkey"
+            columns: ["player_id"]
+            isOneToOne: false
+            referencedRelation: "players"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "franchise_players_sync_run_id_fkey"
+            columns: ["sync_run_id"]
+            isOneToOne: false
+            referencedRelation: "sync_runs"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
       franchises: {
         Row: {
           color_primary: string | null
@@ -2322,42 +2404,6 @@ export type Database = {
       }
     }
     Views: {
-      franchise_players: {
-        Row: {
-          all_pro_count: number | null
-          career_av: number | null
-          display_name: string | null
-          first_season: number | null
-          franchise_id: string | null
-          franchise_value: number | null
-          headshot_url: string | null
-          hof_class: number | null
-          hof_here: boolean | null
-          is_hof: boolean | null
-          last_season: number | null
-          player_id: string | null
-          position: string | null
-          position_group: string | null
-          pro_bowl_count: number | null
-          seasons: number | null
-        }
-        Relationships: [
-          {
-            foreignKeyName: "player_seasons_franchise_id_fkey"
-            columns: ["franchise_id"]
-            isOneToOne: false
-            referencedRelation: "franchises"
-            referencedColumns: ["id"]
-          },
-          {
-            foreignKeyName: "player_seasons_player_id_fkey"
-            columns: ["player_id"]
-            isOneToOne: false
-            referencedRelation: "players"
-            referencedColumns: ["id"]
-          },
-        ]
-      }
       player_season_snaps: {
         Row: {
           avg_defense_pct: number | null
