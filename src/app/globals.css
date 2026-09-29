@@ -2,6 +2,7 @@
 @import "tw-animate-css";
 @import "shadcn/tailwind.css";
 @import "katex/dist/katex.min.css";
+@import "driver.js/dist/driver.css";
 
 @custom-variant dark (&:is(.dark *));
 
@@ -220,4 +221,181 @@
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
   }
+}
+
+/*
+ * Guided tour (driver.js). The library's stylesheet is unlayered, so these rules are too, and use a doubled class
+ * (.driver-popover.gridiron-tour) to win on specificity. Everything reads the app's tokens, so dark and light
+ * both come for free; src/lib/tour/engine.ts adds the eyebrow line and sets --tour-progress (0–1).
+ */
+.driver-popover.gridiron-tour {
+  --tour-pad: 1.15rem;
+  width: min(23rem, calc(100vw - 2rem));
+  min-width: 0;
+  max-width: none;
+  padding: var(--tour-pad);
+  padding-bottom: calc(var(--tour-pad) + 0.15rem);
+  font-family: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+  color: var(--popover-foreground);
+  background: var(--popover);
+  border: 1px solid color-mix(in oklch, var(--foreground) 14%, transparent);
+  border-radius: var(--radius-xl);
+  box-shadow:
+    0 28px 60px -18px rgb(0 0 0 / 0.55),
+    0 2px 6px rgb(0 0 0 / 0.18);
+}
+/* Thin progress rail along the bottom edge. */
+.driver-popover.gridiron-tour::after {
+  content: "";
+  position: absolute;
+  right: 1.05rem;
+  bottom: -1px;
+  left: 1.05rem;
+  height: 2px;
+  border-radius: 2px;
+  background: linear-gradient(
+    to right,
+    var(--primary) calc(var(--tour-progress, 0) * 100%),
+    color-mix(in oklch, var(--foreground) 10%, transparent) 0
+  );
+}
+.gridiron-tour .gridiron-tour-eyebrow {
+  margin: 0 0 0.3rem;
+  padding-right: 1.75rem;
+  font-family: var(--font-display), ui-sans-serif, sans-serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  line-height: 1.2;
+  text-transform: uppercase;
+  color: var(--primary);
+}
+.driver-popover.gridiron-tour .driver-popover-title {
+  padding-right: 1.75rem;
+  font-family: var(--font-display), ui-sans-serif, sans-serif;
+  font-size: 1.6rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.08;
+  text-wrap: balance;
+}
+.driver-popover.gridiron-tour .driver-popover-description {
+  margin-top: 0.55rem;
+  font-size: 0.9rem;
+  line-height: 1.55;
+  color: color-mix(in oklch, var(--popover-foreground) 80%, transparent);
+  text-wrap: pretty;
+}
+.gridiron-tour .driver-popover-description strong {
+  font-weight: 600;
+  color: var(--popover-foreground);
+}
+.gridiron-tour .driver-popover-description kbd {
+  display: inline-block;
+  min-width: 1.35rem;
+  padding: 0.05rem 0.4rem;
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.72rem;
+  line-height: 1.5;
+  text-align: center;
+  color: var(--popover-foreground);
+  background: var(--muted);
+  border: 1px solid var(--border);
+  border-radius: 0.4rem;
+}
+.driver-popover.gridiron-tour .driver-popover-close-btn {
+  top: 0.65rem;
+  right: 0.65rem;
+  display: grid;
+  width: 1.75rem;
+  height: 1.75rem;
+  place-items: center;
+  font-size: 1.3rem;
+  line-height: 1;
+  color: var(--muted-foreground);
+  border-radius: 0.55rem;
+  transition:
+    color 0.15s,
+    background-color 0.15s;
+}
+.driver-popover.gridiron-tour .driver-popover-close-btn:hover {
+  color: var(--foreground);
+  background: var(--muted);
+}
+.driver-popover.gridiron-tour .driver-popover-footer {
+  margin-top: 1.05rem;
+  gap: 0.75rem;
+}
+.driver-popover.gridiron-tour .driver-popover-progress-text {
+  font-size: 0.75rem;
+  font-variant-numeric: tabular-nums;
+  color: var(--muted-foreground);
+  white-space: nowrap;
+}
+.driver-popover.gridiron-tour .driver-popover-navigation-btns {
+  gap: 0.4rem;
+}
+.driver-popover.gridiron-tour .driver-popover-navigation-btns button + button {
+  margin-left: 0;
+}
+.driver-popover.gridiron-tour .driver-popover-footer-btn {
+  display: inline-flex;
+  height: 2rem;
+  align-items: center;
+  padding: 0 0.8rem;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  line-height: 1;
+  color: var(--foreground);
+  background: transparent;
+  border: 1px solid var(--input);
+  border-radius: var(--radius-lg);
+  cursor: pointer;
+  transition:
+    background-color 0.15s,
+    opacity 0.15s,
+    translate 0.1s;
+}
+.driver-popover.gridiron-tour .driver-popover-footer-btn:hover {
+  background: var(--muted);
+}
+.driver-popover.gridiron-tour .driver-popover-footer-btn:active {
+  translate: 0 1px;
+}
+.driver-popover.gridiron-tour .driver-popover-next-btn {
+  color: var(--primary-foreground);
+  background: var(--primary);
+  border-color: transparent;
+}
+.driver-popover.gridiron-tour .driver-popover-next-btn:hover {
+  background: color-mix(in oklch, var(--primary) 85%, var(--foreground));
+}
+.driver-popover.gridiron-tour .driver-popover-close-btn:focus-visible,
+.driver-popover.gridiron-tour .driver-popover-footer-btn:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+}
+/* Arrow: filled with the popover color; the colored edge is the one facing the highlighted element. */
+.driver-popover.gridiron-tour .driver-popover-arrow {
+  border-width: 6px;
+}
+.driver-popover.gridiron-tour .driver-popover-arrow-side-left {
+  border-color: transparent transparent transparent var(--popover);
+}
+.driver-popover.gridiron-tour .driver-popover-arrow-side-right {
+  border-color: transparent var(--popover) transparent transparent;
+}
+.driver-popover.gridiron-tour .driver-popover-arrow-side-top {
+  border-color: var(--popover) transparent transparent transparent;
+}
+.driver-popover.gridiron-tour .driver-popover-arrow-side-bottom {
+  border-color: transparent transparent var(--popover) transparent;
+}
+.gridiron-tour .driver-popover-description code {
+  padding: 0.05rem 0.35rem;
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.8em;
+  color: var(--popover-foreground);
+  background: var(--muted);
+  border-radius: 0.35rem;
 }

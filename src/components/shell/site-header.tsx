@@ -6,6 +6,7 @@ import { CommandSearch } from "./command-search";
 import { FreshnessPill } from "./freshness-pill";
 import { MobileNav } from "./mobile-nav";
 import { NavLinks } from "./nav-links";
+import { TourMenu } from "@/components/tour/tour-menu";
 import { ThemeToggle } from "./theme-toggle";
 
 export async function SiteHeader() {
@@ -32,6 +33,7 @@ export async function SiteHeader() {
           </Suspense>
           <CommandSearch teams={teams} />
           <ThemeToggle />
+          <TourMenu />
         </div>
       </div>
     </header>

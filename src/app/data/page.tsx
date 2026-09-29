@@ -60,7 +60,7 @@ export default async function DataPage() {
 
       <div className="grid gap-8 lg:grid-cols-[1fr_22rem]">
         <div className="space-y-10">
-          <section aria-labelledby="history">
+          <section aria-labelledby="history" data-tour="data-history">
             <h2 id="history" className="mb-3 text-2xl font-semibold">
               Update history
             </h2>
@@ -102,7 +102,7 @@ export default async function DataPage() {
             </div>
           </section>
 
-          <section aria-labelledby="sources">
+          <section aria-labelledby="sources" data-tour="data-sources">
             <h2 id="sources" className="mb-3 text-2xl font-semibold">
               Sources
             </h2>
@@ -129,7 +129,7 @@ export default async function DataPage() {
             <h2 className="mb-4 text-xl font-semibold">Update now</h2>
             <UpdatePanel latestRunId={runs[0]?.id ?? null} />
           </div>
-          <Explainer title="Why a passphrase?">
+          <Explainer title="Why a passphrase?" data-tour="data-passphrase">
             <p>
               The app has no accounts, so the Update button asks for the <code>SYNC_SECRET</code> from your settings to
               keep strangers from triggering updates.
