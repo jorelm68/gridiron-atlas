@@ -65,7 +65,8 @@ export const stats: Dataset = {
         )
       ).n;
 
-      const playerRows = await duck.all(`
+      await duck.exec(`
+      create or replace table season_pgs as
       select
         s.player_id, s.game_id, s.season::integer as season, s.week::integer as week, s.season_type,
         s.team as team_abbr, a.franchise_id, s.opponent_team as opponent_abbr, s.position,
@@ -101,6 +102,7 @@ export const stats: Dataset = {
       from src_player_stats s
       left join team_abbrs a on a.abbr = s.team and s.season between a.start_season and a.end_season
       where s.player_id in (select id from player_rows) and s.game_id in (select id from game_rows) and s.team is not null`);
+      const playerRows = await duck.all(`select * from season_pgs`);
       droppedPlayer += totalPlayer - playerRows.length;
       await upsertRows(
         ctx,
@@ -109,6 +111,37 @@ export const stats: Dataset = {
         "player_id,game_id",
         { batchSize: 1000 },
       );
+
+      // Season totals (REG/POST) for this season, summed here so readers never aggregate game rows.
+      const totals = await duck.all(`
+        select
+          player_id, season, season_type, count(*)::integer as games,
+          arg_max(franchise_id, week) as last_franchise_id,
+          coalesce(list_sort(list_distinct(list(franchise_id) filter (where franchise_id is not null))), []) as franchise_ids,
+          coalesce(sum(completions), 0)::integer as completions, coalesce(sum(attempts), 0)::integer as attempts, coalesce(sum(passing_yards), 0)::integer as passing_yards,
+          coalesce(sum(passing_tds), 0)::integer as passing_tds, coalesce(sum(passing_interceptions), 0)::integer as passing_interceptions, coalesce(sum(sacks_suffered), 0)::integer as sacks_suffered,
+          coalesce(sum(sack_yards_lost), 0)::integer as sack_yards_lost, coalesce(sum(passing_air_yards), 0)::integer as passing_air_yards, coalesce(sum(passing_yards_after_catch), 0)::integer as passing_yards_after_catch,
+          coalesce(sum(passing_first_downs), 0)::integer as passing_first_downs, coalesce(sum(passing_2pt_conversions), 0)::integer as passing_2pt_conversions, coalesce(sum(carries), 0)::integer as carries,
+          coalesce(sum(rushing_yards), 0)::integer as rushing_yards, coalesce(sum(rushing_tds), 0)::integer as rushing_tds, coalesce(sum(rushing_first_downs), 0)::integer as rushing_first_downs,
+          coalesce(sum(rushing_2pt_conversions), 0)::integer as rushing_2pt_conversions, coalesce(sum(targets), 0)::integer as targets, coalesce(sum(receptions), 0)::integer as receptions,
+          coalesce(sum(receiving_yards), 0)::integer as receiving_yards, coalesce(sum(receiving_tds), 0)::integer as receiving_tds, coalesce(sum(receiving_air_yards), 0)::integer as receiving_air_yards,
+          coalesce(sum(receiving_yards_after_catch), 0)::integer as receiving_yards_after_catch, coalesce(sum(receiving_first_downs), 0)::integer as receiving_first_downs, coalesce(sum(receiving_2pt_conversions), 0)::integer as receiving_2pt_conversions,
+          coalesce(sum(fumbles_lost), 0)::integer as fumbles_lost, coalesce(sum(def_tackles_solo), 0)::integer as def_tackles_solo, coalesce(sum(def_tackle_assists), 0)::integer as def_tackle_assists,
+          coalesce(sum(def_qb_hits), 0)::integer as def_qb_hits, coalesce(sum(def_interceptions), 0)::integer as def_interceptions, coalesce(sum(def_pass_defended), 0)::integer as def_pass_defended,
+          coalesce(sum(def_fumbles_forced), 0)::integer as def_fumbles_forced, coalesce(sum(def_tds), 0)::integer as def_tds, coalesce(sum(def_safeties), 0)::integer as def_safeties,
+          coalesce(sum(punt_returns), 0)::integer as punt_returns, coalesce(sum(punt_return_yards), 0)::integer as punt_return_yards, coalesce(sum(kickoff_returns), 0)::integer as kickoff_returns,
+          coalesce(sum(kickoff_return_yards), 0)::integer as kickoff_return_yards, coalesce(sum(special_teams_tds), 0)::integer as special_teams_tds, coalesce(sum(fg_made), 0)::integer as fg_made,
+          coalesce(sum(fg_att), 0)::integer as fg_att, coalesce(sum(fg_made_50_plus), 0)::integer as fg_made_50_plus, coalesce(sum(pat_made), 0)::integer as pat_made,
+          coalesce(sum(pat_att), 0)::integer as pat_att, coalesce(sum(punts), 0)::integer as punts, coalesce(sum(punt_yards), 0)::integer as punt_yards,
+          coalesce(sum(punts_inside_20), 0)::integer as punts_inside_20, coalesce(sum(passing_epa), 0)::double as passing_epa, coalesce(sum(rushing_epa), 0)::double as rushing_epa,
+          coalesce(sum(receiving_epa), 0)::double as receiving_epa, coalesce(sum(def_tackles_for_loss), 0)::double as def_tackles_for_loss, coalesce(sum(def_sacks), 0)::double as def_sacks,
+          case when sum(attempts) filter (where passing_cpoe is not null) > 0
+            then sum(passing_cpoe * attempts) filter (where passing_cpoe is not null)
+              / sum(attempts) filter (where passing_cpoe is not null) end as passing_cpoe,
+          max(fg_long)::integer as fg_long
+        from season_pgs
+        group by player_id, season, season_type`);
+      await upsertRows(ctx, "player_season_stats", totals, "player_id,season,season_type", { batchSize: 1000 });
 
       // ── Team stats ────────────────────────────────────────────────────────────
       await duck.exec(
@@ -158,6 +191,7 @@ export const stats: Dataset = {
     );
     await pruneStale(ctx, "player_game_stats", seasonScope(ctx, seasons));
     await pruneStale(ctx, "team_game_stats", seasonScope(ctx, seasons));
+    await pruneStale(ctx, "player_season_stats", seasonScope(ctx, seasons));
 
     await recordSource(ctx, {
       id: "nflverse.stats_player",

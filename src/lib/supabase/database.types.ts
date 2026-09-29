@@ -1214,6 +1214,217 @@ export type Database = {
           },
         ]
       }
+      player_season_stats: {
+        Row: {
+          attempts: number
+          carries: number
+          completions: number
+          def_fumbles_forced: number
+          def_interceptions: number
+          def_pass_defended: number
+          def_qb_hits: number
+          def_sacks: number
+          def_safeties: number
+          def_tackle_assists: number
+          def_tackles_for_loss: number
+          def_tackles_solo: number
+          def_tds: number
+          fg_att: number
+          fg_long: number | null
+          fg_made: number
+          fg_made_50_plus: number
+          franchise_ids: string[]
+          fumbles_lost: number
+          games: number
+          kickoff_return_yards: number
+          kickoff_returns: number
+          last_franchise_id: string | null
+          passing_2pt_conversions: number
+          passing_air_yards: number
+          passing_cpoe: number | null
+          passing_epa: number
+          passing_first_downs: number
+          passing_interceptions: number
+          passing_tds: number
+          passing_yards: number
+          passing_yards_after_catch: number
+          pat_att: number
+          pat_made: number
+          player_id: string
+          punt_return_yards: number
+          punt_returns: number
+          punt_yards: number
+          punts: number
+          punts_inside_20: number
+          receiving_2pt_conversions: number
+          receiving_air_yards: number
+          receiving_epa: number
+          receiving_first_downs: number
+          receiving_tds: number
+          receiving_yards: number
+          receiving_yards_after_catch: number
+          receptions: number
+          rushing_2pt_conversions: number
+          rushing_epa: number
+          rushing_first_downs: number
+          rushing_tds: number
+          rushing_yards: number
+          sack_yards_lost: number
+          sacks_suffered: number
+          season: number
+          season_type: string
+          special_teams_tds: number
+          sync_run_id: number | null
+          targets: number
+        }
+        Insert: {
+          attempts?: number
+          carries?: number
+          completions?: number
+          def_fumbles_forced?: number
+          def_interceptions?: number
+          def_pass_defended?: number
+          def_qb_hits?: number
+          def_sacks?: number
+          def_safeties?: number
+          def_tackle_assists?: number
+          def_tackles_for_loss?: number
+          def_tackles_solo?: number
+          def_tds?: number
+          fg_att?: number
+          fg_long?: number | null
+          fg_made?: number
+          fg_made_50_plus?: number
+          franchise_ids?: string[]
+          fumbles_lost?: number
+          games: number
+          kickoff_return_yards?: number
+          kickoff_returns?: number
+          last_franchise_id?: string | null
+          passing_2pt_conversions?: number
+          passing_air_yards?: number
+          passing_cpoe?: number | null
+          passing_epa?: number
+          passing_first_downs?: number
+          passing_interceptions?: number
+          passing_tds?: number
+          passing_yards?: number
+          passing_yards_after_catch?: number
+          pat_att?: number
+          pat_made?: number
+          player_id: string
+          punt_return_yards?: number
+          punt_returns?: number
+          punt_yards?: number
+          punts?: number
+          punts_inside_20?: number
+          receiving_2pt_conversions?: number
+          receiving_air_yards?: number
+          receiving_epa?: number
+          receiving_first_downs?: number
+          receiving_tds?: number
+          receiving_yards?: number
+          receiving_yards_after_catch?: number
+          receptions?: number
+          rushing_2pt_conversions?: number
+          rushing_epa?: number
+          rushing_first_downs?: number
+          rushing_tds?: number
+          rushing_yards?: number
+          sack_yards_lost?: number
+          sacks_suffered?: number
+          season: number
+          season_type: string
+          special_teams_tds?: number
+          sync_run_id?: number | null
+          targets?: number
+        }
+        Update: {
+          attempts?: number
+          carries?: number
+          completions?: number
+          def_fumbles_forced?: number
+          def_interceptions?: number
+          def_pass_defended?: number
+          def_qb_hits?: number
+          def_sacks?: number
+          def_safeties?: number
+          def_tackle_assists?: number
+          def_tackles_for_loss?: number
+          def_tackles_solo?: number
+          def_tds?: number
+          fg_att?: number
+          fg_long?: number | null
+          fg_made?: number
+          fg_made_50_plus?: number
+          franchise_ids?: string[]
+          fumbles_lost?: number
+          games?: number
+          kickoff_return_yards?: number
+          kickoff_returns?: number
+          last_franchise_id?: string | null
+          passing_2pt_conversions?: number
+          passing_air_yards?: number
+          passing_cpoe?: number | null
+          passing_epa?: number
+          passing_first_downs?: number
+          passing_interceptions?: number
+          passing_tds?: number
+          passing_yards?: number
+          passing_yards_after_catch?: number
+          pat_att?: number
+          pat_made?: number
+          player_id?: string
+          punt_return_yards?: number
+          punt_returns?: number
+          punt_yards?: number
+          punts?: number
+          punts_inside_20?: number
+          receiving_2pt_conversions?: number
+          receiving_air_yards?: number
+          receiving_epa?: number
+          receiving_first_downs?: number
+          receiving_tds?: number
+          receiving_yards?: number
+          receiving_yards_after_catch?: number
+          receptions?: number
+          rushing_2pt_conversions?: number
+          rushing_epa?: number
+          rushing_first_downs?: number
+          rushing_tds?: number
+          rushing_yards?: number
+          sack_yards_lost?: number
+          sacks_suffered?: number
+          season?: number
+          season_type?: string
+          special_teams_tds?: number
+          sync_run_id?: number | null
+          targets?: number
+        }
+        Relationships: [
+          {
+            foreignKeyName: "player_season_stats_last_franchise_id_fkey"
+            columns: ["last_franchise_id"]
+            isOneToOne: false
+            referencedRelation: "franchises"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "player_season_stats_player_id_fkey"
+            columns: ["player_id"]
+            isOneToOne: false
+            referencedRelation: "players"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "player_season_stats_sync_run_id_fkey"
+            columns: ["sync_run_id"]
+            isOneToOne: false
+            referencedRelation: "sync_runs"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
       player_seasons: {
         Row: {
           depth_chart_position: string | null
@@ -2162,78 +2373,6 @@ export type Database = {
         Relationships: [
           {
             foreignKeyName: "player_game_snaps_player_id_fkey"
-            columns: ["player_id"]
-            isOneToOne: false
-            referencedRelation: "players"
-            referencedColumns: ["id"]
-          },
-        ]
-      }
-      player_season_stats: {
-        Row: {
-          attempts: number | null
-          carries: number | null
-          completions: number | null
-          def_fumbles_forced: number | null
-          def_interceptions: number | null
-          def_pass_defended: number | null
-          def_qb_hits: number | null
-          def_sacks: number | null
-          def_safeties: number | null
-          def_tackle_assists: number | null
-          def_tackles_for_loss: number | null
-          def_tackles_solo: number | null
-          def_tds: number | null
-          fg_att: number | null
-          fg_long: number | null
-          fg_made: number | null
-          fg_made_50_plus: number | null
-          franchise_ids: string[] | null
-          fumbles_lost: number | null
-          games: number | null
-          kickoff_return_yards: number | null
-          kickoff_returns: number | null
-          last_franchise_id: string | null
-          passing_2pt_conversions: number | null
-          passing_air_yards: number | null
-          passing_cpoe: number | null
-          passing_epa: number | null
-          passing_first_downs: number | null
-          passing_interceptions: number | null
-          passing_tds: number | null
-          passing_yards: number | null
-          passing_yards_after_catch: number | null
-          pat_att: number | null
-          pat_made: number | null
-          player_id: string | null
-          punt_return_yards: number | null
-          punt_returns: number | null
-          punt_yards: number | null
-          punts: number | null
-          punts_inside_20: number | null
-          receiving_2pt_conversions: number | null
-          receiving_air_yards: number | null
-          receiving_epa: number | null
-          receiving_first_downs: number | null
-          receiving_tds: number | null
-          receiving_yards: number | null
-          receiving_yards_after_catch: number | null
-          receptions: number | null
-          rushing_2pt_conversions: number | null
-          rushing_epa: number | null
-          rushing_first_downs: number | null
-          rushing_tds: number | null
-          rushing_yards: number | null
-          sack_yards_lost: number | null
-          sacks_suffered: number | null
-          season: number | null
-          season_type: string | null
-          special_teams_tds: number | null
-          targets: number | null
-        }
-        Relationships: [
-          {
-            foreignKeyName: "player_game_stats_player_id_fkey"
             columns: ["player_id"]
             isOneToOne: false
             referencedRelation: "players"

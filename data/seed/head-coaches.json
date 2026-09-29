@@ -1,0 +1,9317 @@
+[
+  {
+    "franchise": "ARI",
+    "coach": "Paddy Driscoll",
+    "from": 1920,
+    "to": 1922,
+    "interim": false,
+    "regular": {
+      "w": 17,
+      "l": 8,
+      "t": 4
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Arnold Horween",
+    "from": 1923,
+    "to": 1924,
+    "interim": false,
+    "regular": {
+      "w": 13,
+      "l": 8,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Norman Barry",
+    "from": 1925,
+    "to": 1926,
+    "interim": false,
+    "regular": {
+      "w": 16,
+      "l": 8,
+      "t": 2
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Guy Chamberlin",
+    "from": 1927,
+    "to": 1927,
+    "interim": false,
+    "regular": {
+      "w": 3,
+      "l": 7,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Fred Gillies",
+    "from": 1928,
+    "to": 1928,
+    "interim": false,
+    "regular": {
+      "w": 1,
+      "l": 5,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Dewey Scanlon",
+    "from": 1929,
+    "to": 1929,
+    "interim": false,
+    "regular": {
+      "w": 6,
+      "l": 6,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Ernie Nevers",
+    "from": 1930,
+    "to": 1931,
+    "interim": false,
+    "regular": {
+      "w": 10,
+      "l": 9,
+      "t": 2
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Roy Andrews",
+    "from": 1931,
+    "to": 1931,
+    "interim": true,
+    "regular": {
+      "w": 0,
+      "l": 1,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Ernie Nevers during the 1931 season."
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Jack Chevigny",
+    "from": 1932,
+    "to": 1932,
+    "interim": false,
+    "regular": {
+      "w": 2,
+      "l": 6,
+      "t": 2
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Paul Schissler",
+    "from": 1933,
+    "to": 1934,
+    "interim": false,
+    "regular": {
+      "w": 6,
+      "l": 15,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Milan Creighton",
+    "from": 1935,
+    "to": 1938,
+    "interim": false,
+    "regular": {
+      "w": 16,
+      "l": 26,
+      "t": 4
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Ernie Nevers",
+    "from": 1939,
+    "to": 1939,
+    "interim": false,
+    "regular": {
+      "w": 1,
+      "l": 10,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Jimmy Conzelman",
+    "from": 1940,
+    "to": 1942,
+    "interim": false,
+    "regular": {
+      "w": 8,
+      "l": 22,
+      "t": 3
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Phil Handler",
+    "from": 1943,
+    "to": 1943,
+    "interim": false,
+    "regular": {
+      "w": 0,
+      "l": 10,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Phil Handler",
+    "from": 1944,
+    "to": 1944,
+    "interim": false,
+    "regular": {
+      "w": 0,
+      "l": 10,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Co-head coach with Walt Kiesling of the merged Card-Pitt team in 1944."
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Walt Kiesling",
+    "from": 1944,
+    "to": 1944,
+    "interim": false,
+    "regular": {
+      "w": 0,
+      "l": 10,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Co-head coach with Phil Handler of the merged Card-Pitt team in 1944."
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Phil Handler",
+    "from": 1945,
+    "to": 1945,
+    "interim": false,
+    "regular": {
+      "w": 1,
+      "l": 9,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Jimmy Conzelman",
+    "from": 1946,
+    "to": 1948,
+    "interim": false,
+    "regular": {
+      "w": 26,
+      "l": 9,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Buddy Parker",
+    "from": 1949,
+    "to": 1949,
+    "interim": false,
+    "regular": {
+      "w": 6,
+      "l": 5,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Curly Lambeau",
+    "from": 1950,
+    "to": 1951,
+    "interim": false,
+    "regular": {
+      "w": 7,
+      "l": 15,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Cecil Isbell",
+    "from": 1951,
+    "to": 1951,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 1,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Curly Lambeau during the 1951 season."
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Joe Kuharich",
+    "from": 1952,
+    "to": 1952,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 8,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Joe Stydahar",
+    "from": 1953,
+    "to": 1954,
+    "interim": false,
+    "regular": {
+      "w": 3,
+      "l": 20,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Ray Richards",
+    "from": 1955,
+    "to": 1957,
+    "interim": false,
+    "regular": {
+      "w": 14,
+      "l": 21,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Pop Ivy",
+    "from": 1958,
+    "to": 1961,
+    "interim": false,
+    "regular": {
+      "w": 15,
+      "l": 31,
+      "t": 2
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Ray Willsey",
+    "from": 1961,
+    "to": 1961,
+    "interim": true,
+    "regular": {
+      "w": 2,
+      "l": 0,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Shared interim duties with Ray Prochaska and Chuck Drulis after Pop Ivy left mid-1961; each is credited with the same 2-0 finish."
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Ray Prochaska",
+    "from": 1961,
+    "to": 1961,
+    "interim": true,
+    "regular": {
+      "w": 2,
+      "l": 0,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Shared interim duties with Ray Willsey and Chuck Drulis after Pop Ivy left mid-1961; each is credited with the same 2-0 finish."
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Chuck Drulis",
+    "from": 1961,
+    "to": 1961,
+    "interim": true,
+    "regular": {
+      "w": 2,
+      "l": 0,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Shared interim duties with Ray Willsey and Ray Prochaska after Pop Ivy left mid-1961; each is credited with the same 2-0 finish."
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Wally Lemm",
+    "from": 1962,
+    "to": 1965,
+    "interim": false,
+    "regular": {
+      "w": 27,
+      "l": 26,
+      "t": 3
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Charley Winner",
+    "from": 1966,
+    "to": 1970,
+    "interim": false,
+    "regular": {
+      "w": 35,
+      "l": 30,
+      "t": 5
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Bob Hollway",
+    "from": 1971,
+    "to": 1972,
+    "interim": false,
+    "regular": {
+      "w": 8,
+      "l": 18,
+      "t": 2
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Don Coryell",
+    "from": 1973,
+    "to": 1977,
+    "interim": false,
+    "regular": {
+      "w": 42,
+      "l": 27,
+      "t": 1
+    },
+    "playoff": {
+      "w": 0,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Bud Wilkinson",
+    "from": 1978,
+    "to": 1979,
+    "interim": false,
+    "regular": {
+      "w": 9,
+      "l": 20,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Larry Wilson",
+    "from": 1979,
+    "to": 1979,
+    "interim": true,
+    "regular": {
+      "w": 2,
+      "l": 1,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Bud Wilkinson during the 1979 season."
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Jim Hanifan",
+    "from": 1980,
+    "to": 1985,
+    "interim": false,
+    "regular": {
+      "w": 39,
+      "l": 49,
+      "t": 1
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Gene Stallings",
+    "from": 1986,
+    "to": 1989,
+    "interim": false,
+    "regular": {
+      "w": 23,
+      "l": 34,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Hank Kuhlmann",
+    "from": 1989,
+    "to": 1989,
+    "interim": true,
+    "regular": {
+      "w": 0,
+      "l": 5,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Gene Stallings during the 1989 season."
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Joe Bugel",
+    "from": 1990,
+    "to": 1993,
+    "interim": false,
+    "regular": {
+      "w": 20,
+      "l": 44,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Buddy Ryan",
+    "from": 1994,
+    "to": 1995,
+    "interim": false,
+    "regular": {
+      "w": 12,
+      "l": 20,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Vince Tobin",
+    "from": 1996,
+    "to": 2000,
+    "interim": false,
+    "regular": {
+      "w": 28,
+      "l": 43,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Dave McGinnis",
+    "from": 2000,
+    "to": 2003,
+    "interim": false,
+    "regular": {
+      "w": 17,
+      "l": 40,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Began as interim head coach in 2000 after Vince Tobin left, then was retained as head coach."
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Dennis Green",
+    "from": 2004,
+    "to": 2006,
+    "interim": false,
+    "regular": {
+      "w": 16,
+      "l": 32,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Ken Whisenhunt",
+    "from": 2007,
+    "to": 2012,
+    "interim": false,
+    "regular": {
+      "w": 45,
+      "l": 51,
+      "t": 0
+    },
+    "playoff": {
+      "w": 4,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Bruce Arians",
+    "from": 2013,
+    "to": 2017,
+    "interim": false,
+    "regular": {
+      "w": 49,
+      "l": 30,
+      "t": 1
+    },
+    "playoff": {
+      "w": 1,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Steve Wilks",
+    "from": 2018,
+    "to": 2018,
+    "interim": false,
+    "regular": {
+      "w": 3,
+      "l": 13,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Kliff Kingsbury",
+    "from": 2019,
+    "to": 2022,
+    "interim": false,
+    "regular": {
+      "w": 28,
+      "l": 37,
+      "t": 1
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Jonathan Gannon",
+    "from": 2023,
+    "to": 2025,
+    "interim": false,
+    "regular": {
+      "w": 15,
+      "l": 36,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ARI",
+    "coach": "Mike LaFleur",
+    "from": 2026,
+    "to": null,
+    "interim": false,
+    "regular": null,
+    "playoff": null,
+    "note": "Hired for the 2026 season; no games coached with this franchise before 2026, so no record is listed yet."
+  },
+  {
+    "franchise": "ATL",
+    "coach": "Norb Hecker",
+    "from": 1966,
+    "to": 1968,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 26,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ATL",
+    "coach": "Norm Van Brocklin",
+    "from": 1968,
+    "to": 1974,
+    "interim": false,
+    "regular": {
+      "w": 37,
+      "l": 49,
+      "t": 3
+    },
+    "playoff": null,
+    "note": "Succeeded Norb Hecker during the 1968 season."
+  },
+  {
+    "franchise": "ATL",
+    "coach": "Marion Campbell",
+    "from": 1974,
+    "to": 1976,
+    "interim": false,
+    "regular": {
+      "w": 6,
+      "l": 19,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Began as interim head coach in 1974 after Norm Van Brocklin left, then was retained as head coach."
+  },
+  {
+    "franchise": "ATL",
+    "coach": "Pat Peppler",
+    "from": 1976,
+    "to": 1976,
+    "interim": true,
+    "regular": {
+      "w": 3,
+      "l": 6,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Marion Campbell during the 1976 season."
+  },
+  {
+    "franchise": "ATL",
+    "coach": "Leeman Bennett",
+    "from": 1977,
+    "to": 1982,
+    "interim": false,
+    "regular": {
+      "w": 46,
+      "l": 41,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "ATL",
+    "coach": "Dan Henning",
+    "from": 1983,
+    "to": 1986,
+    "interim": false,
+    "regular": {
+      "w": 22,
+      "l": 41,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ATL",
+    "coach": "Marion Campbell",
+    "from": 1987,
+    "to": 1989,
+    "interim": false,
+    "regular": {
+      "w": 11,
+      "l": 32,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ATL",
+    "coach": "Jim Hanifan",
+    "from": 1989,
+    "to": 1989,
+    "interim": true,
+    "regular": {
+      "w": 0,
+      "l": 4,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Marion Campbell during the 1989 season."
+  },
+  {
+    "franchise": "ATL",
+    "coach": "Jerry Glanville",
+    "from": 1990,
+    "to": 1993,
+    "interim": false,
+    "regular": {
+      "w": 27,
+      "l": 37,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "ATL",
+    "coach": "June Jones",
+    "from": 1994,
+    "to": 1996,
+    "interim": false,
+    "regular": {
+      "w": 19,
+      "l": 29,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "ATL",
+    "coach": "Dan Reeves",
+    "from": 1997,
+    "to": 2003,
+    "interim": false,
+    "regular": {
+      "w": 49,
+      "l": 59,
+      "t": 1
+    },
+    "playoff": {
+      "w": 3,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "ATL",
+    "coach": "Wade Phillips",
+    "from": 2003,
+    "to": 2003,
+    "interim": true,
+    "regular": {
+      "w": 2,
+      "l": 1,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Dan Reeves during the 2003 season."
+  },
+  {
+    "franchise": "ATL",
+    "coach": "Jim L. Mora",
+    "from": 2004,
+    "to": 2006,
+    "interim": false,
+    "regular": {
+      "w": 26,
+      "l": 22,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "ATL",
+    "coach": "Bobby Petrino",
+    "from": 2007,
+    "to": 2007,
+    "interim": false,
+    "regular": {
+      "w": 3,
+      "l": 10,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ATL",
+    "coach": "Emmitt Thomas",
+    "from": 2007,
+    "to": 2007,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 2,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Bobby Petrino during the 2007 season."
+  },
+  {
+    "franchise": "ATL",
+    "coach": "Mike Smith",
+    "from": 2008,
+    "to": 2014,
+    "interim": false,
+    "regular": {
+      "w": 66,
+      "l": 46,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 4
+    },
+    "note": null
+  },
+  {
+    "franchise": "ATL",
+    "coach": "Dan Quinn",
+    "from": 2015,
+    "to": 2020,
+    "interim": false,
+    "regular": {
+      "w": 43,
+      "l": 42,
+      "t": 0
+    },
+    "playoff": {
+      "w": 3,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "ATL",
+    "coach": "Raheem Morris",
+    "from": 2020,
+    "to": 2020,
+    "interim": true,
+    "regular": {
+      "w": 4,
+      "l": 7,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Dan Quinn during the 2020 season."
+  },
+  {
+    "franchise": "ATL",
+    "coach": "Arthur Smith",
+    "from": 2021,
+    "to": 2023,
+    "interim": false,
+    "regular": {
+      "w": 21,
+      "l": 30,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ATL",
+    "coach": "Raheem Morris",
+    "from": 2024,
+    "to": 2025,
+    "interim": false,
+    "regular": {
+      "w": 16,
+      "l": 18,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "ATL",
+    "coach": "Kevin Stefanski",
+    "from": 2026,
+    "to": null,
+    "interim": false,
+    "regular": null,
+    "playoff": null,
+    "note": "Hired for the 2026 season; no games coached with this franchise before 2026, so no record is listed yet."
+  },
+  {
+    "franchise": "BAL",
+    "coach": "Ted Marchibroda",
+    "from": 1996,
+    "to": 1998,
+    "interim": false,
+    "regular": {
+      "w": 16,
+      "l": 31,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "BAL",
+    "coach": "Brian Billick",
+    "from": 1999,
+    "to": 2007,
+    "interim": false,
+    "regular": {
+      "w": 80,
+      "l": 64,
+      "t": 0
+    },
+    "playoff": {
+      "w": 5,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "BAL",
+    "coach": "John Harbaugh",
+    "from": 2008,
+    "to": 2025,
+    "interim": false,
+    "regular": {
+      "w": 180,
+      "l": 113,
+      "t": 0
+    },
+    "playoff": {
+      "w": 13,
+      "l": 11
+    },
+    "note": null
+  },
+  {
+    "franchise": "BAL",
+    "coach": "Jesse Minter",
+    "from": 2026,
+    "to": null,
+    "interim": false,
+    "regular": null,
+    "playoff": null,
+    "note": "Hired for the 2026 season; no games coached with this franchise before 2026, so no record is listed yet."
+  },
+  {
+    "franchise": "BUF",
+    "coach": "Buster Ramsey",
+    "from": 1960,
+    "to": 1961,
+    "interim": false,
+    "regular": {
+      "w": 11,
+      "l": 16,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "BUF",
+    "coach": "Lou Saban",
+    "from": 1962,
+    "to": 1965,
+    "interim": false,
+    "regular": {
+      "w": 36,
+      "l": 17,
+      "t": 3
+    },
+    "playoff": {
+      "w": 2,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "BUF",
+    "coach": "Joe Collier",
+    "from": 1966,
+    "to": 1968,
+    "interim": false,
+    "regular": {
+      "w": 13,
+      "l": 16,
+      "t": 1
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "BUF",
+    "coach": "Harvey Johnson",
+    "from": 1968,
+    "to": 1968,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 10,
+      "t": 1
+    },
+    "playoff": null,
+    "note": "Took over from Joe Collier during the 1968 season."
+  },
+  {
+    "franchise": "BUF",
+    "coach": "John Rauch",
+    "from": 1969,
+    "to": 1970,
+    "interim": false,
+    "regular": {
+      "w": 7,
+      "l": 20,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "BUF",
+    "coach": "Harvey Johnson",
+    "from": 1971,
+    "to": 1971,
+    "interim": false,
+    "regular": {
+      "w": 1,
+      "l": 13,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "BUF",
+    "coach": "Lou Saban",
+    "from": 1972,
+    "to": 1976,
+    "interim": false,
+    "regular": {
+      "w": 32,
+      "l": 28,
+      "t": 1
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "BUF",
+    "coach": "Jim Ringo",
+    "from": 1976,
+    "to": 1977,
+    "interim": false,
+    "regular": {
+      "w": 3,
+      "l": 20,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Began as interim head coach in 1976 after Lou Saban left, then was retained as head coach."
+  },
+  {
+    "franchise": "BUF",
+    "coach": "Chuck Knox",
+    "from": 1978,
+    "to": 1982,
+    "interim": false,
+    "regular": {
+      "w": 37,
+      "l": 36,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "BUF",
+    "coach": "Kay Stephenson",
+    "from": 1983,
+    "to": 1985,
+    "interim": false,
+    "regular": {
+      "w": 10,
+      "l": 26,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "BUF",
+    "coach": "Hank Bullough",
+    "from": 1985,
+    "to": 1986,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 17,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Began as interim head coach in 1985 after Kay Stephenson left, then was retained as head coach."
+  },
+  {
+    "franchise": "BUF",
+    "coach": "Marv Levy",
+    "from": 1986,
+    "to": 1997,
+    "interim": false,
+    "regular": {
+      "w": 112,
+      "l": 70,
+      "t": 0
+    },
+    "playoff": {
+      "w": 11,
+      "l": 8
+    },
+    "note": "Succeeded Hank Bullough during the 1986 season."
+  },
+  {
+    "franchise": "BUF",
+    "coach": "Wade Phillips",
+    "from": 1998,
+    "to": 2000,
+    "interim": false,
+    "regular": {
+      "w": 29,
+      "l": 19,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "BUF",
+    "coach": "Gregg Williams",
+    "from": 2001,
+    "to": 2003,
+    "interim": false,
+    "regular": {
+      "w": 17,
+      "l": 31,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "BUF",
+    "coach": "Mike Mularkey",
+    "from": 2004,
+    "to": 2005,
+    "interim": false,
+    "regular": {
+      "w": 14,
+      "l": 18,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "BUF",
+    "coach": "Dick Jauron",
+    "from": 2006,
+    "to": 2009,
+    "interim": false,
+    "regular": {
+      "w": 24,
+      "l": 33,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "BUF",
+    "coach": "Perry Fewell",
+    "from": 2009,
+    "to": 2009,
+    "interim": true,
+    "regular": {
+      "w": 3,
+      "l": 4,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Dick Jauron during the 2009 season."
+  },
+  {
+    "franchise": "BUF",
+    "coach": "Chan Gailey",
+    "from": 2010,
+    "to": 2012,
+    "interim": false,
+    "regular": {
+      "w": 16,
+      "l": 32,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "BUF",
+    "coach": "Doug Marrone",
+    "from": 2013,
+    "to": 2014,
+    "interim": false,
+    "regular": {
+      "w": 15,
+      "l": 17,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "BUF",
+    "coach": "Rex Ryan",
+    "from": 2015,
+    "to": 2016,
+    "interim": false,
+    "regular": {
+      "w": 15,
+      "l": 16,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "BUF",
+    "coach": "Anthony Lynn",
+    "from": 2016,
+    "to": 2016,
+    "interim": true,
+    "regular": {
+      "w": 0,
+      "l": 1,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Rex Ryan during the 2016 season."
+  },
+  {
+    "franchise": "BUF",
+    "coach": "Sean McDermott",
+    "from": 2017,
+    "to": 2025,
+    "interim": false,
+    "regular": {
+      "w": 98,
+      "l": 50,
+      "t": 0
+    },
+    "playoff": {
+      "w": 8,
+      "l": 8
+    },
+    "note": null
+  },
+  {
+    "franchise": "BUF",
+    "coach": "Joe Brady",
+    "from": 2026,
+    "to": null,
+    "interim": false,
+    "regular": null,
+    "playoff": null,
+    "note": "Hired for the 2026 season; no games coached with this franchise before 2026, so no record is listed yet."
+  },
+  {
+    "franchise": "CAR",
+    "coach": "Dom Capers",
+    "from": 1995,
+    "to": 1998,
+    "interim": false,
+    "regular": {
+      "w": 30,
+      "l": 34,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "CAR",
+    "coach": "George Seifert",
+    "from": 1999,
+    "to": 2001,
+    "interim": false,
+    "regular": {
+      "w": 16,
+      "l": 32,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "CAR",
+    "coach": "John Fox",
+    "from": 2002,
+    "to": 2010,
+    "interim": false,
+    "regular": {
+      "w": 73,
+      "l": 71,
+      "t": 0
+    },
+    "playoff": {
+      "w": 5,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "CAR",
+    "coach": "Ron Rivera",
+    "from": 2011,
+    "to": 2019,
+    "interim": false,
+    "regular": {
+      "w": 76,
+      "l": 63,
+      "t": 1
+    },
+    "playoff": {
+      "w": 3,
+      "l": 4
+    },
+    "note": null
+  },
+  {
+    "franchise": "CAR",
+    "coach": "Perry Fewell",
+    "from": 2019,
+    "to": 2019,
+    "interim": true,
+    "regular": {
+      "w": 0,
+      "l": 4,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Ron Rivera during the 2019 season."
+  },
+  {
+    "franchise": "CAR",
+    "coach": "Matt Rhule",
+    "from": 2020,
+    "to": 2022,
+    "interim": false,
+    "regular": {
+      "w": 11,
+      "l": 27,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "CAR",
+    "coach": "Steve Wilks",
+    "from": 2022,
+    "to": 2022,
+    "interim": true,
+    "regular": {
+      "w": 6,
+      "l": 6,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Matt Rhule during the 2022 season."
+  },
+  {
+    "franchise": "CAR",
+    "coach": "Frank Reich",
+    "from": 2023,
+    "to": 2023,
+    "interim": false,
+    "regular": {
+      "w": 1,
+      "l": 10,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "CAR",
+    "coach": "Chris Tabor",
+    "from": 2023,
+    "to": 2023,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 5,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Frank Reich during the 2023 season."
+  },
+  {
+    "franchise": "CAR",
+    "coach": "Dave Canales",
+    "from": 2024,
+    "to": null,
+    "interim": false,
+    "regular": {
+      "w": 13,
+      "l": 21,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": "Record is through the 2025 season; 2026 games are not included."
+  },
+  {
+    "franchise": "CHI",
+    "coach": "George Halas",
+    "from": 1920,
+    "to": 1929,
+    "interim": false,
+    "regular": {
+      "w": 84,
+      "l": 31,
+      "t": 19
+    },
+    "playoff": null,
+    "note": "Founder; coached the Decatur/Chicago Staleys and Bears (1920-29, 1933-42, 1946-55, 1958-67)."
+  },
+  {
+    "franchise": "CHI",
+    "coach": "Ralph Jones",
+    "from": 1930,
+    "to": 1932,
+    "interim": false,
+    "regular": {
+      "w": 24,
+      "l": 10,
+      "t": 7
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "CHI",
+    "coach": "George Halas",
+    "from": 1933,
+    "to": 1942,
+    "interim": false,
+    "regular": {
+      "w": 84,
+      "l": 22,
+      "t": 4
+    },
+    "playoff": {
+      "w": 4,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "CHI",
+    "coach": "Hunk Anderson",
+    "from": 1942,
+    "to": 1945,
+    "interim": false,
+    "regular": {
+      "w": 23,
+      "l": 11,
+      "t": 2
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": "Co-head coach with Luke Johnsos while George Halas served in the Navy; both are credited with the same record."
+  },
+  {
+    "franchise": "CHI",
+    "coach": "Luke Johnsos",
+    "from": 1942,
+    "to": 1945,
+    "interim": false,
+    "regular": {
+      "w": 23,
+      "l": 11,
+      "t": 2
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": "Co-head coach with Hunk Anderson while George Halas served in the Navy; both are credited with the same record."
+  },
+  {
+    "franchise": "CHI",
+    "coach": "George Halas",
+    "from": 1946,
+    "to": 1955,
+    "interim": false,
+    "regular": {
+      "w": 75,
+      "l": 42,
+      "t": 2
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "CHI",
+    "coach": "Paddy Driscoll",
+    "from": 1956,
+    "to": 1957,
+    "interim": false,
+    "regular": {
+      "w": 14,
+      "l": 9,
+      "t": 1
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "CHI",
+    "coach": "George Halas",
+    "from": 1958,
+    "to": 1967,
+    "interim": false,
+    "regular": {
+      "w": 75,
+      "l": 53,
+      "t": 6
+    },
+    "playoff": {
+      "w": 1,
+      "l": 0
+    },
+    "note": null
+  },
+  {
+    "franchise": "CHI",
+    "coach": "Jim Dooley",
+    "from": 1968,
+    "to": 1971,
+    "interim": false,
+    "regular": {
+      "w": 20,
+      "l": 36,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "CHI",
+    "coach": "Abe Gibron",
+    "from": 1972,
+    "to": 1974,
+    "interim": false,
+    "regular": {
+      "w": 11,
+      "l": 30,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "CHI",
+    "coach": "Jack Pardee",
+    "from": 1975,
+    "to": 1977,
+    "interim": false,
+    "regular": {
+      "w": 20,
+      "l": 22,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "CHI",
+    "coach": "Neill Armstrong",
+    "from": 1978,
+    "to": 1981,
+    "interim": false,
+    "regular": {
+      "w": 30,
+      "l": 34,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "CHI",
+    "coach": "Mike Ditka",
+    "from": 1982,
+    "to": 1992,
+    "interim": false,
+    "regular": {
+      "w": 106,
+      "l": 62,
+      "t": 0
+    },
+    "playoff": {
+      "w": 6,
+      "l": 6
+    },
+    "note": null
+  },
+  {
+    "franchise": "CHI",
+    "coach": "Dave Wannstedt",
+    "from": 1993,
+    "to": 1998,
+    "interim": false,
+    "regular": {
+      "w": 40,
+      "l": 56,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "CHI",
+    "coach": "Dick Jauron",
+    "from": 1999,
+    "to": 2003,
+    "interim": false,
+    "regular": {
+      "w": 35,
+      "l": 45,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "CHI",
+    "coach": "Lovie Smith",
+    "from": 2004,
+    "to": 2012,
+    "interim": false,
+    "regular": {
+      "w": 81,
+      "l": 63,
+      "t": 0
+    },
+    "playoff": {
+      "w": 3,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "CHI",
+    "coach": "Marc Trestman",
+    "from": 2013,
+    "to": 2014,
+    "interim": false,
+    "regular": {
+      "w": 13,
+      "l": 19,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "CHI",
+    "coach": "John Fox",
+    "from": 2015,
+    "to": 2017,
+    "interim": false,
+    "regular": {
+      "w": 14,
+      "l": 34,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "CHI",
+    "coach": "Matt Nagy",
+    "from": 2018,
+    "to": 2021,
+    "interim": false,
+    "regular": {
+      "w": 34,
+      "l": 31,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "CHI",
+    "coach": "Matt Eberflus",
+    "from": 2022,
+    "to": 2024,
+    "interim": false,
+    "regular": {
+      "w": 14,
+      "l": 32,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "CHI",
+    "coach": "Thomas Brown",
+    "from": 2024,
+    "to": 2024,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 4,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Matt Eberflus during the 2024 season."
+  },
+  {
+    "franchise": "CHI",
+    "coach": "Ben Johnson",
+    "from": 2025,
+    "to": null,
+    "interim": false,
+    "regular": {
+      "w": 11,
+      "l": 6,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": "Record is through the 2025 season; 2026 games are not included."
+  },
+  {
+    "franchise": "CIN",
+    "coach": "Paul Brown",
+    "from": 1968,
+    "to": 1975,
+    "interim": false,
+    "regular": {
+      "w": 55,
+      "l": 56,
+      "t": 1
+    },
+    "playoff": {
+      "w": 0,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "CIN",
+    "coach": "Bill Johnson",
+    "from": 1976,
+    "to": 1978,
+    "interim": false,
+    "regular": {
+      "w": 18,
+      "l": 15,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "CIN",
+    "coach": "Homer Rice",
+    "from": 1978,
+    "to": 1979,
+    "interim": false,
+    "regular": {
+      "w": 8,
+      "l": 19,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Succeeded Bill Johnson during the 1978 season."
+  },
+  {
+    "franchise": "CIN",
+    "coach": "Forrest Gregg",
+    "from": 1980,
+    "to": 1983,
+    "interim": false,
+    "regular": {
+      "w": 32,
+      "l": 25,
+      "t": 0
+    },
+    "playoff": {
+      "w": 2,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "CIN",
+    "coach": "Sam Wyche",
+    "from": 1984,
+    "to": 1991,
+    "interim": false,
+    "regular": {
+      "w": 61,
+      "l": 66,
+      "t": 0
+    },
+    "playoff": {
+      "w": 3,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "CIN",
+    "coach": "Dave Shula",
+    "from": 1992,
+    "to": 1996,
+    "interim": false,
+    "regular": {
+      "w": 19,
+      "l": 52,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "CIN",
+    "coach": "Bruce Coslet",
+    "from": 1996,
+    "to": 2000,
+    "interim": false,
+    "regular": {
+      "w": 21,
+      "l": 39,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Succeeded Dave Shula during the 1996 season."
+  },
+  {
+    "franchise": "CIN",
+    "coach": "Dick LeBeau",
+    "from": 2000,
+    "to": 2002,
+    "interim": false,
+    "regular": {
+      "w": 12,
+      "l": 33,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Succeeded Bruce Coslet during the 2000 season."
+  },
+  {
+    "franchise": "CIN",
+    "coach": "Marvin Lewis",
+    "from": 2003,
+    "to": 2018,
+    "interim": false,
+    "regular": {
+      "w": 131,
+      "l": 122,
+      "t": 3
+    },
+    "playoff": {
+      "w": 0,
+      "l": 7
+    },
+    "note": null
+  },
+  {
+    "franchise": "CIN",
+    "coach": "Zac Taylor",
+    "from": 2019,
+    "to": null,
+    "interim": false,
+    "regular": {
+      "w": 52,
+      "l": 63,
+      "t": 1
+    },
+    "playoff": {
+      "w": 5,
+      "l": 2
+    },
+    "note": "Record is through the 2025 season; 2026 games are not included."
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Paul Brown",
+    "from": 1946,
+    "to": 1962,
+    "interim": false,
+    "regular": {
+      "w": 158,
+      "l": 48,
+      "t": 8
+    },
+    "playoff": {
+      "w": 9,
+      "l": 5
+    },
+    "note": "Record includes the 1946-49 AAFC seasons (47-4-3 regular season, 4-1 playoffs) plus 1950-62 in the NFL."
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Blanton Collier",
+    "from": 1963,
+    "to": 1970,
+    "interim": false,
+    "regular": {
+      "w": 76,
+      "l": 34,
+      "t": 2
+    },
+    "playoff": {
+      "w": 3,
+      "l": 4
+    },
+    "note": null
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Nick Skorich",
+    "from": 1971,
+    "to": 1974,
+    "interim": false,
+    "regular": {
+      "w": 30,
+      "l": 24,
+      "t": 2
+    },
+    "playoff": {
+      "w": 0,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Forrest Gregg",
+    "from": 1975,
+    "to": 1977,
+    "interim": false,
+    "regular": {
+      "w": 18,
+      "l": 23,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Dick Modzelewski",
+    "from": 1977,
+    "to": 1977,
+    "interim": true,
+    "regular": {
+      "w": 0,
+      "l": 1,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Forrest Gregg during the 1977 season."
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Sam Rutigliano",
+    "from": 1978,
+    "to": 1984,
+    "interim": false,
+    "regular": {
+      "w": 47,
+      "l": 50,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Marty Schottenheimer",
+    "from": 1984,
+    "to": 1988,
+    "interim": false,
+    "regular": {
+      "w": 44,
+      "l": 27,
+      "t": 0
+    },
+    "playoff": {
+      "w": 2,
+      "l": 4
+    },
+    "note": "Began as interim head coach in 1984 after Sam Rutigliano left, then was retained as head coach."
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Bud Carson",
+    "from": 1989,
+    "to": 1990,
+    "interim": false,
+    "regular": {
+      "w": 11,
+      "l": 13,
+      "t": 1
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Jim Shofner",
+    "from": 1990,
+    "to": 1990,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 6,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Bud Carson during the 1990 season."
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Bill Belichick",
+    "from": 1991,
+    "to": 1995,
+    "interim": false,
+    "regular": {
+      "w": 36,
+      "l": 44,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Chris Palmer",
+    "from": 1999,
+    "to": 2000,
+    "interim": false,
+    "regular": {
+      "w": 5,
+      "l": 27,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Butch Davis",
+    "from": 2001,
+    "to": 2004,
+    "interim": false,
+    "regular": {
+      "w": 24,
+      "l": 35,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Terry Robiskie",
+    "from": 2004,
+    "to": 2004,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 4,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Butch Davis during the 2004 season."
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Romeo Crennel",
+    "from": 2005,
+    "to": 2008,
+    "interim": false,
+    "regular": {
+      "w": 24,
+      "l": 40,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Eric Mangini",
+    "from": 2009,
+    "to": 2010,
+    "interim": false,
+    "regular": {
+      "w": 10,
+      "l": 22,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Pat Shurmur",
+    "from": 2011,
+    "to": 2012,
+    "interim": false,
+    "regular": {
+      "w": 9,
+      "l": 23,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Rob Chudzinski",
+    "from": 2013,
+    "to": 2013,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 12,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Mike Pettine",
+    "from": 2014,
+    "to": 2015,
+    "interim": false,
+    "regular": {
+      "w": 10,
+      "l": 22,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Hue Jackson",
+    "from": 2016,
+    "to": 2018,
+    "interim": false,
+    "regular": {
+      "w": 3,
+      "l": 36,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Gregg Williams",
+    "from": 2018,
+    "to": 2018,
+    "interim": true,
+    "regular": {
+      "w": 5,
+      "l": 3,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Hue Jackson during the 2018 season."
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Freddie Kitchens",
+    "from": 2019,
+    "to": 2019,
+    "interim": false,
+    "regular": {
+      "w": 6,
+      "l": 10,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Kevin Stefanski",
+    "from": 2020,
+    "to": 2025,
+    "interim": false,
+    "regular": {
+      "w": 45,
+      "l": 56,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "CLE",
+    "coach": "Todd Monken",
+    "from": 2026,
+    "to": null,
+    "interim": false,
+    "regular": null,
+    "playoff": null,
+    "note": "Hired for the 2026 season; no games coached with this franchise before 2026, so no record is listed yet."
+  },
+  {
+    "franchise": "DAL",
+    "coach": "Tom Landry",
+    "from": 1960,
+    "to": 1988,
+    "interim": false,
+    "regular": {
+      "w": 250,
+      "l": 162,
+      "t": 6
+    },
+    "playoff": {
+      "w": 20,
+      "l": 16
+    },
+    "note": null
+  },
+  {
+    "franchise": "DAL",
+    "coach": "Jimmy Johnson",
+    "from": 1989,
+    "to": 1993,
+    "interim": false,
+    "regular": {
+      "w": 44,
+      "l": 36,
+      "t": 0
+    },
+    "playoff": {
+      "w": 7,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "DAL",
+    "coach": "Barry Switzer",
+    "from": 1994,
+    "to": 1997,
+    "interim": false,
+    "regular": {
+      "w": 40,
+      "l": 24,
+      "t": 0
+    },
+    "playoff": {
+      "w": 5,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "DAL",
+    "coach": "Chan Gailey",
+    "from": 1998,
+    "to": 1999,
+    "interim": false,
+    "regular": {
+      "w": 18,
+      "l": 14,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "DAL",
+    "coach": "Dave Campo",
+    "from": 2000,
+    "to": 2002,
+    "interim": false,
+    "regular": {
+      "w": 15,
+      "l": 33,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DAL",
+    "coach": "Bill Parcells",
+    "from": 2003,
+    "to": 2006,
+    "interim": false,
+    "regular": {
+      "w": 34,
+      "l": 30,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "DAL",
+    "coach": "Wade Phillips",
+    "from": 2007,
+    "to": 2010,
+    "interim": false,
+    "regular": {
+      "w": 34,
+      "l": 22,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "DAL",
+    "coach": "Jason Garrett",
+    "from": 2010,
+    "to": 2019,
+    "interim": false,
+    "regular": {
+      "w": 85,
+      "l": 67,
+      "t": 0
+    },
+    "playoff": {
+      "w": 2,
+      "l": 3
+    },
+    "note": "Began as interim head coach in 2010 after Wade Phillips left, then was retained as head coach."
+  },
+  {
+    "franchise": "DAL",
+    "coach": "Mike McCarthy",
+    "from": 2020,
+    "to": 2024,
+    "interim": false,
+    "regular": {
+      "w": 49,
+      "l": 35,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "DAL",
+    "coach": "Brian Schottenheimer",
+    "from": 2025,
+    "to": null,
+    "interim": false,
+    "regular": {
+      "w": 7,
+      "l": 9,
+      "t": 1
+    },
+    "playoff": null,
+    "note": "Record is through the 2025 season; 2026 games are not included."
+  },
+  {
+    "franchise": "DEN",
+    "coach": "Frank Filchock",
+    "from": 1960,
+    "to": 1961,
+    "interim": false,
+    "regular": {
+      "w": 7,
+      "l": 20,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DEN",
+    "coach": "Jack Faulkner",
+    "from": 1962,
+    "to": 1964,
+    "interim": false,
+    "regular": {
+      "w": 9,
+      "l": 22,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DEN",
+    "coach": "Mac Speedie",
+    "from": 1964,
+    "to": 1966,
+    "interim": false,
+    "regular": {
+      "w": 6,
+      "l": 19,
+      "t": 1
+    },
+    "playoff": null,
+    "note": "Succeeded Jack Faulkner during the 1964 season."
+  },
+  {
+    "franchise": "DEN",
+    "coach": "Ray Malavasi",
+    "from": 1966,
+    "to": 1966,
+    "interim": true,
+    "regular": {
+      "w": 4,
+      "l": 8,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Mac Speedie during the 1966 season."
+  },
+  {
+    "franchise": "DEN",
+    "coach": "Lou Saban",
+    "from": 1967,
+    "to": 1971,
+    "interim": false,
+    "regular": {
+      "w": 20,
+      "l": 42,
+      "t": 3
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DEN",
+    "coach": "Jerry Smith",
+    "from": 1971,
+    "to": 1971,
+    "interim": true,
+    "regular": {
+      "w": 2,
+      "l": 3,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Lou Saban during the 1971 season."
+  },
+  {
+    "franchise": "DEN",
+    "coach": "John Ralston",
+    "from": 1972,
+    "to": 1976,
+    "interim": false,
+    "regular": {
+      "w": 34,
+      "l": 33,
+      "t": 3
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DEN",
+    "coach": "Red Miller",
+    "from": 1977,
+    "to": 1980,
+    "interim": false,
+    "regular": {
+      "w": 40,
+      "l": 22,
+      "t": 0
+    },
+    "playoff": {
+      "w": 2,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "DEN",
+    "coach": "Dan Reeves",
+    "from": 1981,
+    "to": 1992,
+    "interim": false,
+    "regular": {
+      "w": 110,
+      "l": 73,
+      "t": 1
+    },
+    "playoff": {
+      "w": 7,
+      "l": 6
+    },
+    "note": null
+  },
+  {
+    "franchise": "DEN",
+    "coach": "Wade Phillips",
+    "from": 1993,
+    "to": 1994,
+    "interim": false,
+    "regular": {
+      "w": 16,
+      "l": 16,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "DEN",
+    "coach": "Mike Shanahan",
+    "from": 1995,
+    "to": 2008,
+    "interim": false,
+    "regular": {
+      "w": 138,
+      "l": 86,
+      "t": 0
+    },
+    "playoff": {
+      "w": 8,
+      "l": 5
+    },
+    "note": null
+  },
+  {
+    "franchise": "DEN",
+    "coach": "Josh McDaniels",
+    "from": 2009,
+    "to": 2010,
+    "interim": false,
+    "regular": {
+      "w": 11,
+      "l": 17,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DEN",
+    "coach": "Eric Studesville",
+    "from": 2010,
+    "to": 2010,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 3,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Josh McDaniels during the 2010 season."
+  },
+  {
+    "franchise": "DEN",
+    "coach": "John Fox",
+    "from": 2011,
+    "to": 2014,
+    "interim": false,
+    "regular": {
+      "w": 46,
+      "l": 18,
+      "t": 0
+    },
+    "playoff": {
+      "w": 3,
+      "l": 4
+    },
+    "note": null
+  },
+  {
+    "franchise": "DEN",
+    "coach": "Gary Kubiak",
+    "from": 2015,
+    "to": 2016,
+    "interim": false,
+    "regular": {
+      "w": 21,
+      "l": 11,
+      "t": 0
+    },
+    "playoff": {
+      "w": 3,
+      "l": 0
+    },
+    "note": null
+  },
+  {
+    "franchise": "DEN",
+    "coach": "Vance Joseph",
+    "from": 2017,
+    "to": 2018,
+    "interim": false,
+    "regular": {
+      "w": 11,
+      "l": 21,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DEN",
+    "coach": "Vic Fangio",
+    "from": 2019,
+    "to": 2021,
+    "interim": false,
+    "regular": {
+      "w": 19,
+      "l": 30,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DEN",
+    "coach": "Nathaniel Hackett",
+    "from": 2022,
+    "to": 2022,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 11,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DEN",
+    "coach": "Jerry Rosburg",
+    "from": 2022,
+    "to": 2022,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 1,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Nathaniel Hackett during the 2022 season."
+  },
+  {
+    "franchise": "DEN",
+    "coach": "Sean Payton",
+    "from": 2023,
+    "to": null,
+    "interim": false,
+    "regular": {
+      "w": 32,
+      "l": 19,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 2
+    },
+    "note": "Record is through the 2025 season; 2026 games are not included."
+  },
+  {
+    "franchise": "DET",
+    "coach": "Hal Griffen",
+    "from": 1930,
+    "to": 1930,
+    "interim": false,
+    "regular": {
+      "w": 5,
+      "l": 6,
+      "t": 3
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "Potsy Clark",
+    "from": 1931,
+    "to": 1936,
+    "interim": false,
+    "regular": {
+      "w": 48,
+      "l": 20,
+      "t": 6
+    },
+    "playoff": {
+      "w": 1,
+      "l": 0
+    },
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "Dutch Clark",
+    "from": 1937,
+    "to": 1938,
+    "interim": false,
+    "regular": {
+      "w": 14,
+      "l": 8,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "Gus Henderson",
+    "from": 1939,
+    "to": 1939,
+    "interim": false,
+    "regular": {
+      "w": 6,
+      "l": 5,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "Potsy Clark",
+    "from": 1940,
+    "to": 1940,
+    "interim": false,
+    "regular": {
+      "w": 5,
+      "l": 5,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "Bill Edwards",
+    "from": 1941,
+    "to": 1942,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 9,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "John Karcis",
+    "from": 1942,
+    "to": 1942,
+    "interim": true,
+    "regular": {
+      "w": 0,
+      "l": 8,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Bill Edwards during the 1942 season."
+  },
+  {
+    "franchise": "DET",
+    "coach": "Gus Dorais",
+    "from": 1943,
+    "to": 1947,
+    "interim": false,
+    "regular": {
+      "w": 20,
+      "l": 31,
+      "t": 2
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "Bo McMillin",
+    "from": 1948,
+    "to": 1950,
+    "interim": false,
+    "regular": {
+      "w": 12,
+      "l": 24,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "Buddy Parker",
+    "from": 1951,
+    "to": 1956,
+    "interim": false,
+    "regular": {
+      "w": 47,
+      "l": 23,
+      "t": 2
+    },
+    "playoff": {
+      "w": 3,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "George Wilson",
+    "from": 1957,
+    "to": 1964,
+    "interim": false,
+    "regular": {
+      "w": 53,
+      "l": 45,
+      "t": 6
+    },
+    "playoff": {
+      "w": 2,
+      "l": 0
+    },
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "Harry Gilmer",
+    "from": 1965,
+    "to": 1966,
+    "interim": false,
+    "regular": {
+      "w": 10,
+      "l": 16,
+      "t": 2
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "Joe Schmidt",
+    "from": 1967,
+    "to": 1972,
+    "interim": false,
+    "regular": {
+      "w": 43,
+      "l": 34,
+      "t": 7
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "Don McCafferty",
+    "from": 1973,
+    "to": 1973,
+    "interim": false,
+    "regular": {
+      "w": 6,
+      "l": 7,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "Rick Forzano",
+    "from": 1974,
+    "to": 1976,
+    "interim": false,
+    "regular": {
+      "w": 15,
+      "l": 17,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "Tommy Hudspeth",
+    "from": 1976,
+    "to": 1977,
+    "interim": false,
+    "regular": {
+      "w": 11,
+      "l": 13,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Succeeded Rick Forzano during the 1976 season."
+  },
+  {
+    "franchise": "DET",
+    "coach": "Monte Clark",
+    "from": 1978,
+    "to": 1984,
+    "interim": false,
+    "regular": {
+      "w": 43,
+      "l": 61,
+      "t": 1
+    },
+    "playoff": {
+      "w": 0,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "Darryl Rogers",
+    "from": 1985,
+    "to": 1988,
+    "interim": false,
+    "regular": {
+      "w": 18,
+      "l": 40,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "Wayne Fontes",
+    "from": 1988,
+    "to": 1996,
+    "interim": false,
+    "regular": {
+      "w": 66,
+      "l": 67,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 4
+    },
+    "note": "Began as interim head coach in 1988 after Darryl Rogers left, then was retained as head coach."
+  },
+  {
+    "franchise": "DET",
+    "coach": "Bobby Ross",
+    "from": 1997,
+    "to": 2000,
+    "interim": false,
+    "regular": {
+      "w": 27,
+      "l": 30,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "Gary Moeller",
+    "from": 2000,
+    "to": 2000,
+    "interim": true,
+    "regular": {
+      "w": 4,
+      "l": 3,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Bobby Ross during the 2000 season."
+  },
+  {
+    "franchise": "DET",
+    "coach": "Marty Mornhinweg",
+    "from": 2001,
+    "to": 2002,
+    "interim": false,
+    "regular": {
+      "w": 5,
+      "l": 27,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "Steve Mariucci",
+    "from": 2003,
+    "to": 2005,
+    "interim": false,
+    "regular": {
+      "w": 15,
+      "l": 28,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "Dick Jauron",
+    "from": 2005,
+    "to": 2005,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 4,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Steve Mariucci during the 2005 season."
+  },
+  {
+    "franchise": "DET",
+    "coach": "Rod Marinelli",
+    "from": 2006,
+    "to": 2008,
+    "interim": false,
+    "regular": {
+      "w": 10,
+      "l": 38,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "Jim Schwartz",
+    "from": 2009,
+    "to": 2013,
+    "interim": false,
+    "regular": {
+      "w": 29,
+      "l": 51,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "Jim Caldwell",
+    "from": 2014,
+    "to": 2017,
+    "interim": false,
+    "regular": {
+      "w": 36,
+      "l": 28,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "Matt Patricia",
+    "from": 2018,
+    "to": 2020,
+    "interim": false,
+    "regular": {
+      "w": 13,
+      "l": 29,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "DET",
+    "coach": "Darrell Bevell",
+    "from": 2020,
+    "to": 2020,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 3,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Matt Patricia during the 2020 season."
+  },
+  {
+    "franchise": "DET",
+    "coach": "Robert Prince",
+    "from": 2020,
+    "to": 2020,
+    "interim": true,
+    "regular": {
+      "w": 0,
+      "l": 1,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Darrell Bevell during the 2020 season."
+  },
+  {
+    "franchise": "DET",
+    "coach": "Dan Campbell",
+    "from": 2021,
+    "to": null,
+    "interim": false,
+    "regular": {
+      "w": 48,
+      "l": 36,
+      "t": 1
+    },
+    "playoff": {
+      "w": 2,
+      "l": 2
+    },
+    "note": "Record is through the 2025 season; 2026 games are not included."
+  },
+  {
+    "franchise": "GB",
+    "coach": "Curly Lambeau",
+    "from": 1921,
+    "to": 1949,
+    "interim": false,
+    "regular": {
+      "w": 209,
+      "l": 104,
+      "t": 21
+    },
+    "playoff": {
+      "w": 3,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "GB",
+    "coach": "Gene Ronzani",
+    "from": 1950,
+    "to": 1953,
+    "interim": false,
+    "regular": {
+      "w": 14,
+      "l": 31,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "GB",
+    "coach": "Hugh Devore",
+    "from": 1953,
+    "to": 1953,
+    "interim": true,
+    "regular": {
+      "w": 0,
+      "l": 2,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Shared interim duties with Ray McLean for the last two games of 1953 after Gene Ronzani resigned."
+  },
+  {
+    "franchise": "GB",
+    "coach": "Ray McLean",
+    "from": 1953,
+    "to": 1953,
+    "interim": true,
+    "regular": {
+      "w": 0,
+      "l": 2,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Shared interim duties with Hugh Devore for the last two games of 1953 after Gene Ronzani resigned."
+  },
+  {
+    "franchise": "GB",
+    "coach": "Lisle Blackbourn",
+    "from": 1954,
+    "to": 1957,
+    "interim": false,
+    "regular": {
+      "w": 17,
+      "l": 31,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "GB",
+    "coach": "Ray McLean",
+    "from": 1958,
+    "to": 1958,
+    "interim": false,
+    "regular": {
+      "w": 1,
+      "l": 10,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "GB",
+    "coach": "Vince Lombardi",
+    "from": 1959,
+    "to": 1967,
+    "interim": false,
+    "regular": {
+      "w": 89,
+      "l": 29,
+      "t": 4
+    },
+    "playoff": {
+      "w": 9,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "GB",
+    "coach": "Phil Bengtson",
+    "from": 1968,
+    "to": 1970,
+    "interim": false,
+    "regular": {
+      "w": 20,
+      "l": 21,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "GB",
+    "coach": "Dan Devine",
+    "from": 1971,
+    "to": 1974,
+    "interim": false,
+    "regular": {
+      "w": 25,
+      "l": 27,
+      "t": 4
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "GB",
+    "coach": "Bart Starr",
+    "from": 1975,
+    "to": 1983,
+    "interim": false,
+    "regular": {
+      "w": 52,
+      "l": 76,
+      "t": 3
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "GB",
+    "coach": "Forrest Gregg",
+    "from": 1984,
+    "to": 1987,
+    "interim": false,
+    "regular": {
+      "w": 25,
+      "l": 37,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "GB",
+    "coach": "Lindy Infante",
+    "from": 1988,
+    "to": 1991,
+    "interim": false,
+    "regular": {
+      "w": 24,
+      "l": 40,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "GB",
+    "coach": "Mike Holmgren",
+    "from": 1992,
+    "to": 1998,
+    "interim": false,
+    "regular": {
+      "w": 75,
+      "l": 37,
+      "t": 0
+    },
+    "playoff": {
+      "w": 9,
+      "l": 5
+    },
+    "note": null
+  },
+  {
+    "franchise": "GB",
+    "coach": "Ray Rhodes",
+    "from": 1999,
+    "to": 1999,
+    "interim": false,
+    "regular": {
+      "w": 8,
+      "l": 8,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "GB",
+    "coach": "Mike Sherman",
+    "from": 2000,
+    "to": 2005,
+    "interim": false,
+    "regular": {
+      "w": 57,
+      "l": 39,
+      "t": 0
+    },
+    "playoff": {
+      "w": 2,
+      "l": 4
+    },
+    "note": null
+  },
+  {
+    "franchise": "GB",
+    "coach": "Mike McCarthy",
+    "from": 2006,
+    "to": 2018,
+    "interim": false,
+    "regular": {
+      "w": 125,
+      "l": 77,
+      "t": 2
+    },
+    "playoff": {
+      "w": 10,
+      "l": 8
+    },
+    "note": null
+  },
+  {
+    "franchise": "GB",
+    "coach": "Joe Philbin",
+    "from": 2018,
+    "to": 2018,
+    "interim": true,
+    "regular": {
+      "w": 2,
+      "l": 2,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Mike McCarthy during the 2018 season."
+  },
+  {
+    "franchise": "GB",
+    "coach": "Matt LaFleur",
+    "from": 2019,
+    "to": null,
+    "interim": false,
+    "regular": {
+      "w": 76,
+      "l": 40,
+      "t": 1
+    },
+    "playoff": {
+      "w": 3,
+      "l": 6
+    },
+    "note": "Record is through the 2025 season; 2026 games are not included."
+  },
+  {
+    "franchise": "HOU",
+    "coach": "Dom Capers",
+    "from": 2002,
+    "to": 2005,
+    "interim": false,
+    "regular": {
+      "w": 18,
+      "l": 46,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "HOU",
+    "coach": "Gary Kubiak",
+    "from": 2006,
+    "to": 2013,
+    "interim": false,
+    "regular": {
+      "w": 61,
+      "l": 64,
+      "t": 0
+    },
+    "playoff": {
+      "w": 2,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "HOU",
+    "coach": "Wade Phillips",
+    "from": 2013,
+    "to": 2013,
+    "interim": true,
+    "regular": {
+      "w": 0,
+      "l": 3,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Gary Kubiak during the 2013 season."
+  },
+  {
+    "franchise": "HOU",
+    "coach": "Bill O'Brien",
+    "from": 2014,
+    "to": 2020,
+    "interim": false,
+    "regular": {
+      "w": 52,
+      "l": 48,
+      "t": 0
+    },
+    "playoff": {
+      "w": 2,
+      "l": 4
+    },
+    "note": null
+  },
+  {
+    "franchise": "HOU",
+    "coach": "Romeo Crennel",
+    "from": 2020,
+    "to": 2020,
+    "interim": true,
+    "regular": {
+      "w": 4,
+      "l": 8,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Bill O'Brien during the 2020 season."
+  },
+  {
+    "franchise": "HOU",
+    "coach": "David Culley",
+    "from": 2021,
+    "to": 2021,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 13,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "HOU",
+    "coach": "Lovie Smith",
+    "from": 2022,
+    "to": 2022,
+    "interim": false,
+    "regular": {
+      "w": 3,
+      "l": 13,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "HOU",
+    "coach": "DeMeco Ryans",
+    "from": 2023,
+    "to": null,
+    "interim": false,
+    "regular": {
+      "w": 32,
+      "l": 19,
+      "t": 0
+    },
+    "playoff": {
+      "w": 3,
+      "l": 3
+    },
+    "note": "Record is through the 2025 season; 2026 games are not included."
+  },
+  {
+    "franchise": "IND",
+    "coach": "Keith Molesworth",
+    "from": 1953,
+    "to": 1953,
+    "interim": false,
+    "regular": {
+      "w": 3,
+      "l": 9,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "IND",
+    "coach": "Weeb Ewbank",
+    "from": 1954,
+    "to": 1962,
+    "interim": false,
+    "regular": {
+      "w": 59,
+      "l": 52,
+      "t": 1
+    },
+    "playoff": {
+      "w": 2,
+      "l": 0
+    },
+    "note": null
+  },
+  {
+    "franchise": "IND",
+    "coach": "Don Shula",
+    "from": 1963,
+    "to": 1969,
+    "interim": false,
+    "regular": {
+      "w": 71,
+      "l": 23,
+      "t": 4
+    },
+    "playoff": {
+      "w": 2,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "IND",
+    "coach": "Don McCafferty",
+    "from": 1970,
+    "to": 1972,
+    "interim": false,
+    "regular": {
+      "w": 22,
+      "l": 10,
+      "t": 1
+    },
+    "playoff": {
+      "w": 4,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "IND",
+    "coach": "John Sandusky",
+    "from": 1972,
+    "to": 1972,
+    "interim": true,
+    "regular": {
+      "w": 4,
+      "l": 5,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Don McCafferty during the 1972 season."
+  },
+  {
+    "franchise": "IND",
+    "coach": "Howard Schnellenberger",
+    "from": 1973,
+    "to": 1974,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 13,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "IND",
+    "coach": "Joe Thomas",
+    "from": 1974,
+    "to": 1974,
+    "interim": true,
+    "regular": {
+      "w": 2,
+      "l": 9,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Howard Schnellenberger during the 1974 season."
+  },
+  {
+    "franchise": "IND",
+    "coach": "Ted Marchibroda",
+    "from": 1975,
+    "to": 1979,
+    "interim": false,
+    "regular": {
+      "w": 41,
+      "l": 33,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "IND",
+    "coach": "Mike McCormack",
+    "from": 1980,
+    "to": 1981,
+    "interim": false,
+    "regular": {
+      "w": 9,
+      "l": 23,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "IND",
+    "coach": "Frank Kush",
+    "from": 1982,
+    "to": 1984,
+    "interim": false,
+    "regular": {
+      "w": 11,
+      "l": 28,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "IND",
+    "coach": "Hal Hunter",
+    "from": 1984,
+    "to": 1984,
+    "interim": true,
+    "regular": {
+      "w": 0,
+      "l": 1,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Frank Kush during the 1984 season."
+  },
+  {
+    "franchise": "IND",
+    "coach": "Rod Dowhower",
+    "from": 1985,
+    "to": 1986,
+    "interim": false,
+    "regular": {
+      "w": 5,
+      "l": 24,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "IND",
+    "coach": "Ron Meyer",
+    "from": 1986,
+    "to": 1991,
+    "interim": false,
+    "regular": {
+      "w": 36,
+      "l": 35,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 2
+    },
+    "note": "Began as interim head coach in 1986 after Rod Dowhower left, then was retained as head coach."
+  },
+  {
+    "franchise": "IND",
+    "coach": "Rick Venturi",
+    "from": 1991,
+    "to": 1991,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 10,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Ron Meyer during the 1991 season."
+  },
+  {
+    "franchise": "IND",
+    "coach": "Ted Marchibroda",
+    "from": 1992,
+    "to": 1995,
+    "interim": false,
+    "regular": {
+      "w": 30,
+      "l": 34,
+      "t": 0
+    },
+    "playoff": {
+      "w": 2,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "IND",
+    "coach": "Lindy Infante",
+    "from": 1996,
+    "to": 1997,
+    "interim": false,
+    "regular": {
+      "w": 12,
+      "l": 20,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "IND",
+    "coach": "Jim E. Mora",
+    "from": 1998,
+    "to": 2001,
+    "interim": false,
+    "regular": {
+      "w": 32,
+      "l": 32,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "IND",
+    "coach": "Tony Dungy",
+    "from": 2002,
+    "to": 2008,
+    "interim": false,
+    "regular": {
+      "w": 85,
+      "l": 27,
+      "t": 0
+    },
+    "playoff": {
+      "w": 7,
+      "l": 6
+    },
+    "note": "Jim Caldwell was interim head coach for one game in 2005 after Dungy missed it following a family tragedy; the game is credited to Dungy."
+  },
+  {
+    "franchise": "IND",
+    "coach": "Jim Caldwell",
+    "from": 2009,
+    "to": 2011,
+    "interim": false,
+    "regular": {
+      "w": 26,
+      "l": 22,
+      "t": 0
+    },
+    "playoff": {
+      "w": 2,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "IND",
+    "coach": "Chuck Pagano",
+    "from": 2012,
+    "to": 2017,
+    "interim": false,
+    "regular": {
+      "w": 53,
+      "l": 43,
+      "t": 0
+    },
+    "playoff": {
+      "w": 3,
+      "l": 3
+    },
+    "note": "Bruce Arians served as interim head coach for 12 games in 2012 (9-3) while Pagano was treated for leukemia; the record is credited to Pagano."
+  },
+  {
+    "franchise": "IND",
+    "coach": "Frank Reich",
+    "from": 2018,
+    "to": 2022,
+    "interim": false,
+    "regular": {
+      "w": 40,
+      "l": 33,
+      "t": 1
+    },
+    "playoff": {
+      "w": 1,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "IND",
+    "coach": "Jeff Saturday",
+    "from": 2022,
+    "to": 2022,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 7,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Frank Reich during the 2022 season."
+  },
+  {
+    "franchise": "IND",
+    "coach": "Shane Steichen",
+    "from": 2023,
+    "to": null,
+    "interim": false,
+    "regular": {
+      "w": 25,
+      "l": 26,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Record is through the 2025 season; 2026 games are not included."
+  },
+  {
+    "franchise": "JAX",
+    "coach": "Tom Coughlin",
+    "from": 1995,
+    "to": 2002,
+    "interim": false,
+    "regular": {
+      "w": 68,
+      "l": 60,
+      "t": 0
+    },
+    "playoff": {
+      "w": 4,
+      "l": 4
+    },
+    "note": null
+  },
+  {
+    "franchise": "JAX",
+    "coach": "Jack Del Rio",
+    "from": 2003,
+    "to": 2011,
+    "interim": false,
+    "regular": {
+      "w": 68,
+      "l": 71,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "JAX",
+    "coach": "Mel Tucker",
+    "from": 2011,
+    "to": 2011,
+    "interim": true,
+    "regular": {
+      "w": 2,
+      "l": 3,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Jack Del Rio during the 2011 season."
+  },
+  {
+    "franchise": "JAX",
+    "coach": "Mike Mularkey",
+    "from": 2012,
+    "to": 2012,
+    "interim": false,
+    "regular": {
+      "w": 2,
+      "l": 14,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "JAX",
+    "coach": "Gus Bradley",
+    "from": 2013,
+    "to": 2016,
+    "interim": false,
+    "regular": {
+      "w": 14,
+      "l": 48,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "JAX",
+    "coach": "Doug Marrone",
+    "from": 2016,
+    "to": 2020,
+    "interim": false,
+    "regular": {
+      "w": 23,
+      "l": 43,
+      "t": 0
+    },
+    "playoff": {
+      "w": 2,
+      "l": 1
+    },
+    "note": "Began as interim head coach in 2016 after Gus Bradley left, then was retained as head coach."
+  },
+  {
+    "franchise": "JAX",
+    "coach": "Urban Meyer",
+    "from": 2021,
+    "to": 2021,
+    "interim": false,
+    "regular": {
+      "w": 2,
+      "l": 11,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "JAX",
+    "coach": "Darrell Bevell",
+    "from": 2021,
+    "to": 2021,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 3,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Urban Meyer during the 2021 season."
+  },
+  {
+    "franchise": "JAX",
+    "coach": "Doug Pederson",
+    "from": 2022,
+    "to": 2024,
+    "interim": false,
+    "regular": {
+      "w": 22,
+      "l": 29,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "JAX",
+    "coach": "Liam Coen",
+    "from": 2025,
+    "to": null,
+    "interim": false,
+    "regular": {
+      "w": 13,
+      "l": 4,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": "Record is through the 2025 season; 2026 games are not included."
+  },
+  {
+    "franchise": "KC",
+    "coach": "Hank Stram",
+    "from": 1960,
+    "to": 1974,
+    "interim": false,
+    "regular": {
+      "w": 124,
+      "l": 76,
+      "t": 10
+    },
+    "playoff": {
+      "w": 5,
+      "l": 3
+    },
+    "note": "Continuous tenure spanning the Dallas Texans (1960-62) and Kansas City Chiefs (1963-74)."
+  },
+  {
+    "franchise": "KC",
+    "coach": "Paul Wiggin",
+    "from": 1975,
+    "to": 1977,
+    "interim": false,
+    "regular": {
+      "w": 11,
+      "l": 24,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "KC",
+    "coach": "Tom Bettis",
+    "from": 1977,
+    "to": 1977,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 6,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Paul Wiggin during the 1977 season."
+  },
+  {
+    "franchise": "KC",
+    "coach": "Marv Levy",
+    "from": 1978,
+    "to": 1982,
+    "interim": false,
+    "regular": {
+      "w": 31,
+      "l": 42,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "KC",
+    "coach": "John Mackovic",
+    "from": 1983,
+    "to": 1986,
+    "interim": false,
+    "regular": {
+      "w": 30,
+      "l": 34,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "KC",
+    "coach": "Frank Gansz",
+    "from": 1987,
+    "to": 1988,
+    "interim": false,
+    "regular": {
+      "w": 8,
+      "l": 22,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "KC",
+    "coach": "Marty Schottenheimer",
+    "from": 1989,
+    "to": 1998,
+    "interim": false,
+    "regular": {
+      "w": 101,
+      "l": 58,
+      "t": 1
+    },
+    "playoff": {
+      "w": 3,
+      "l": 7
+    },
+    "note": null
+  },
+  {
+    "franchise": "KC",
+    "coach": "Gunther Cunningham",
+    "from": 1999,
+    "to": 2000,
+    "interim": false,
+    "regular": {
+      "w": 16,
+      "l": 16,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "KC",
+    "coach": "Dick Vermeil",
+    "from": 2001,
+    "to": 2005,
+    "interim": false,
+    "regular": {
+      "w": 44,
+      "l": 36,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "KC",
+    "coach": "Herm Edwards",
+    "from": 2006,
+    "to": 2008,
+    "interim": false,
+    "regular": {
+      "w": 15,
+      "l": 33,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "KC",
+    "coach": "Todd Haley",
+    "from": 2009,
+    "to": 2011,
+    "interim": false,
+    "regular": {
+      "w": 19,
+      "l": 26,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "KC",
+    "coach": "Romeo Crennel",
+    "from": 2011,
+    "to": 2012,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 15,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Began as interim head coach in 2011 after Todd Haley left, then was retained as head coach."
+  },
+  {
+    "franchise": "KC",
+    "coach": "Andy Reid",
+    "from": 2013,
+    "to": null,
+    "interim": false,
+    "regular": {
+      "w": 149,
+      "l": 64,
+      "t": 0
+    },
+    "playoff": {
+      "w": 18,
+      "l": 8
+    },
+    "note": "Record is through the 2025 season; 2026 games are not included."
+  },
+  {
+    "franchise": "LA",
+    "coach": "Hugo Bezdek",
+    "from": 1937,
+    "to": 1938,
+    "interim": false,
+    "regular": {
+      "w": 1,
+      "l": 13,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LA",
+    "coach": "Art Lewis",
+    "from": 1938,
+    "to": 1938,
+    "interim": true,
+    "regular": {
+      "w": 4,
+      "l": 4,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Hugo Bezdek during the 1938 season."
+  },
+  {
+    "franchise": "LA",
+    "coach": "Dutch Clark",
+    "from": 1939,
+    "to": 1942,
+    "interim": false,
+    "regular": {
+      "w": 16,
+      "l": 26,
+      "t": 2
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LA",
+    "coach": "Aldo Donelli",
+    "from": 1944,
+    "to": 1944,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 6,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LA",
+    "coach": "Adam Walsh",
+    "from": 1945,
+    "to": 1946,
+    "interim": false,
+    "regular": {
+      "w": 15,
+      "l": 5,
+      "t": 1
+    },
+    "playoff": {
+      "w": 1,
+      "l": 0
+    },
+    "note": null
+  },
+  {
+    "franchise": "LA",
+    "coach": "Bob Snyder",
+    "from": 1947,
+    "to": 1947,
+    "interim": false,
+    "regular": {
+      "w": 6,
+      "l": 6,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LA",
+    "coach": "Clark Shaughnessy",
+    "from": 1948,
+    "to": 1949,
+    "interim": false,
+    "regular": {
+      "w": 14,
+      "l": 7,
+      "t": 3
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "LA",
+    "coach": "Joe Stydahar",
+    "from": 1950,
+    "to": 1952,
+    "interim": false,
+    "regular": {
+      "w": 17,
+      "l": 8,
+      "t": 0
+    },
+    "playoff": {
+      "w": 2,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "LA",
+    "coach": "Hamp Pool",
+    "from": 1952,
+    "to": 1954,
+    "interim": false,
+    "regular": {
+      "w": 23,
+      "l": 10,
+      "t": 2
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": "Succeeded Joe Stydahar during the 1952 season."
+  },
+  {
+    "franchise": "LA",
+    "coach": "Sid Gillman",
+    "from": 1955,
+    "to": 1959,
+    "interim": false,
+    "regular": {
+      "w": 28,
+      "l": 31,
+      "t": 1
+    },
+    "playoff": {
+      "w": 1,
+      "l": 0
+    },
+    "note": null
+  },
+  {
+    "franchise": "LA",
+    "coach": "Bob Waterfield",
+    "from": 1960,
+    "to": 1962,
+    "interim": false,
+    "regular": {
+      "w": 9,
+      "l": 24,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LA",
+    "coach": "Harland Svare",
+    "from": 1962,
+    "to": 1965,
+    "interim": false,
+    "regular": {
+      "w": 14,
+      "l": 31,
+      "t": 8
+    },
+    "playoff": null,
+    "note": "Succeeded Bob Waterfield during the 1962 season."
+  },
+  {
+    "franchise": "LA",
+    "coach": "George Allen",
+    "from": 1966,
+    "to": 1970,
+    "interim": false,
+    "regular": {
+      "w": 49,
+      "l": 17,
+      "t": 4
+    },
+    "playoff": {
+      "w": 0,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "LA",
+    "coach": "Tommy Prothro",
+    "from": 1971,
+    "to": 1972,
+    "interim": false,
+    "regular": {
+      "w": 14,
+      "l": 12,
+      "t": 2
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LA",
+    "coach": "Chuck Knox",
+    "from": 1973,
+    "to": 1977,
+    "interim": false,
+    "regular": {
+      "w": 54,
+      "l": 15,
+      "t": 1
+    },
+    "playoff": {
+      "w": 3,
+      "l": 5
+    },
+    "note": null
+  },
+  {
+    "franchise": "LA",
+    "coach": "Ray Malavasi",
+    "from": 1978,
+    "to": 1982,
+    "interim": false,
+    "regular": {
+      "w": 40,
+      "l": 33,
+      "t": 0
+    },
+    "playoff": {
+      "w": 3,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "LA",
+    "coach": "John Robinson",
+    "from": 1983,
+    "to": 1991,
+    "interim": false,
+    "regular": {
+      "w": 75,
+      "l": 68,
+      "t": 0
+    },
+    "playoff": {
+      "w": 4,
+      "l": 6
+    },
+    "note": null
+  },
+  {
+    "franchise": "LA",
+    "coach": "Chuck Knox",
+    "from": 1992,
+    "to": 1994,
+    "interim": false,
+    "regular": {
+      "w": 15,
+      "l": 33,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LA",
+    "coach": "Rich Brooks",
+    "from": 1995,
+    "to": 1996,
+    "interim": false,
+    "regular": {
+      "w": 13,
+      "l": 19,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LA",
+    "coach": "Dick Vermeil",
+    "from": 1997,
+    "to": 1999,
+    "interim": false,
+    "regular": {
+      "w": 22,
+      "l": 26,
+      "t": 0
+    },
+    "playoff": {
+      "w": 3,
+      "l": 0
+    },
+    "note": null
+  },
+  {
+    "franchise": "LA",
+    "coach": "Mike Martz",
+    "from": 2000,
+    "to": 2005,
+    "interim": false,
+    "regular": {
+      "w": 53,
+      "l": 32,
+      "t": 0
+    },
+    "playoff": {
+      "w": 3,
+      "l": 4
+    },
+    "note": null
+  },
+  {
+    "franchise": "LA",
+    "coach": "Joe Vitt",
+    "from": 2005,
+    "to": 2005,
+    "interim": true,
+    "regular": {
+      "w": 4,
+      "l": 7,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Mike Martz during the 2005 season."
+  },
+  {
+    "franchise": "LA",
+    "coach": "Scott Linehan",
+    "from": 2006,
+    "to": 2008,
+    "interim": false,
+    "regular": {
+      "w": 11,
+      "l": 25,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LA",
+    "coach": "Jim Haslett",
+    "from": 2008,
+    "to": 2008,
+    "interim": true,
+    "regular": {
+      "w": 2,
+      "l": 10,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Scott Linehan during the 2008 season."
+  },
+  {
+    "franchise": "LA",
+    "coach": "Steve Spagnuolo",
+    "from": 2009,
+    "to": 2011,
+    "interim": false,
+    "regular": {
+      "w": 10,
+      "l": 38,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LA",
+    "coach": "Jeff Fisher",
+    "from": 2012,
+    "to": 2016,
+    "interim": false,
+    "regular": {
+      "w": 31,
+      "l": 45,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LA",
+    "coach": "John Fassel",
+    "from": 2016,
+    "to": 2016,
+    "interim": true,
+    "regular": {
+      "w": 0,
+      "l": 3,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Jeff Fisher during the 2016 season."
+  },
+  {
+    "franchise": "LA",
+    "coach": "Sean McVay",
+    "from": 2017,
+    "to": null,
+    "interim": false,
+    "regular": {
+      "w": 92,
+      "l": 57,
+      "t": 0
+    },
+    "playoff": {
+      "w": 10,
+      "l": 6
+    },
+    "note": "Record is through the 2025 season; 2026 games are not included."
+  },
+  {
+    "franchise": "LAC",
+    "coach": "Sid Gillman",
+    "from": 1960,
+    "to": 1971,
+    "interim": false,
+    "regular": {
+      "w": 86,
+      "l": 53,
+      "t": 6
+    },
+    "playoff": {
+      "w": 1,
+      "l": 4
+    },
+    "note": "Continuous tenure spanning the 1960 Los Angeles Chargers and San Diego. Charlie Waller succeeded him in 1969 and coached through 1970; Gillman returned in 1971 before Harland Svare took over."
+  },
+  {
+    "franchise": "LAC",
+    "coach": "Charlie Waller",
+    "from": 1969,
+    "to": 1970,
+    "interim": false,
+    "regular": {
+      "w": 9,
+      "l": 7,
+      "t": 3
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LAC",
+    "coach": "Harland Svare",
+    "from": 1971,
+    "to": 1973,
+    "interim": false,
+    "regular": {
+      "w": 7,
+      "l": 17,
+      "t": 2
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LAC",
+    "coach": "Ron Waller",
+    "from": 1973,
+    "to": 1973,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 5,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Harland Svare during the 1973 season."
+  },
+  {
+    "franchise": "LAC",
+    "coach": "Tommy Prothro",
+    "from": 1974,
+    "to": 1978,
+    "interim": false,
+    "regular": {
+      "w": 21,
+      "l": 39,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LAC",
+    "coach": "Don Coryell",
+    "from": 1978,
+    "to": 1986,
+    "interim": false,
+    "regular": {
+      "w": 69,
+      "l": 56,
+      "t": 0
+    },
+    "playoff": {
+      "w": 3,
+      "l": 4
+    },
+    "note": "Succeeded Tommy Prothro during the 1978 season."
+  },
+  {
+    "franchise": "LAC",
+    "coach": "Al Saunders",
+    "from": 1986,
+    "to": 1988,
+    "interim": false,
+    "regular": {
+      "w": 17,
+      "l": 22,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Succeeded Don Coryell during the 1986 season."
+  },
+  {
+    "franchise": "LAC",
+    "coach": "Dan Henning",
+    "from": 1989,
+    "to": 1991,
+    "interim": false,
+    "regular": {
+      "w": 16,
+      "l": 32,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LAC",
+    "coach": "Bobby Ross",
+    "from": 1992,
+    "to": 1996,
+    "interim": false,
+    "regular": {
+      "w": 47,
+      "l": 33,
+      "t": 0
+    },
+    "playoff": {
+      "w": 3,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "LAC",
+    "coach": "Kevin Gilbride",
+    "from": 1997,
+    "to": 1998,
+    "interim": false,
+    "regular": {
+      "w": 6,
+      "l": 16,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LAC",
+    "coach": "June Jones",
+    "from": 1998,
+    "to": 1998,
+    "interim": true,
+    "regular": {
+      "w": 3,
+      "l": 7,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Kevin Gilbride during the 1998 season."
+  },
+  {
+    "franchise": "LAC",
+    "coach": "Mike Riley",
+    "from": 1999,
+    "to": 2001,
+    "interim": false,
+    "regular": {
+      "w": 14,
+      "l": 34,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LAC",
+    "coach": "Marty Schottenheimer",
+    "from": 2002,
+    "to": 2006,
+    "interim": false,
+    "regular": {
+      "w": 47,
+      "l": 33,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "LAC",
+    "coach": "Norv Turner",
+    "from": 2007,
+    "to": 2012,
+    "interim": false,
+    "regular": {
+      "w": 56,
+      "l": 40,
+      "t": 0
+    },
+    "playoff": {
+      "w": 3,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "LAC",
+    "coach": "Mike McCoy",
+    "from": 2013,
+    "to": 2016,
+    "interim": false,
+    "regular": {
+      "w": 27,
+      "l": 37,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "LAC",
+    "coach": "Anthony Lynn",
+    "from": 2017,
+    "to": 2020,
+    "interim": false,
+    "regular": {
+      "w": 33,
+      "l": 31,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "LAC",
+    "coach": "Brandon Staley",
+    "from": 2021,
+    "to": 2023,
+    "interim": false,
+    "regular": {
+      "w": 24,
+      "l": 24,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "LAC",
+    "coach": "Giff Smith",
+    "from": 2023,
+    "to": 2023,
+    "interim": true,
+    "regular": {
+      "w": 0,
+      "l": 3,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Brandon Staley during the 2023 season."
+  },
+  {
+    "franchise": "LAC",
+    "coach": "Jim Harbaugh",
+    "from": 2024,
+    "to": null,
+    "interim": false,
+    "regular": {
+      "w": 22,
+      "l": 12,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 2
+    },
+    "note": "Record is through the 2025 season; 2026 games are not included."
+  },
+  {
+    "franchise": "LV",
+    "coach": "Eddie Erdelatz",
+    "from": 1960,
+    "to": 1961,
+    "interim": false,
+    "regular": {
+      "w": 6,
+      "l": 10,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LV",
+    "coach": "Marty Feldman",
+    "from": 1961,
+    "to": 1962,
+    "interim": false,
+    "regular": {
+      "w": 2,
+      "l": 15,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Succeeded Eddie Erdelatz during the 1961 season."
+  },
+  {
+    "franchise": "LV",
+    "coach": "Red Conkright",
+    "from": 1962,
+    "to": 1962,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 8,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Marty Feldman during the 1962 season."
+  },
+  {
+    "franchise": "LV",
+    "coach": "Al Davis",
+    "from": 1963,
+    "to": 1965,
+    "interim": false,
+    "regular": {
+      "w": 23,
+      "l": 16,
+      "t": 3
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LV",
+    "coach": "John Rauch",
+    "from": 1966,
+    "to": 1968,
+    "interim": false,
+    "regular": {
+      "w": 33,
+      "l": 8,
+      "t": 1
+    },
+    "playoff": {
+      "w": 2,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "LV",
+    "coach": "John Madden",
+    "from": 1969,
+    "to": 1978,
+    "interim": false,
+    "regular": {
+      "w": 103,
+      "l": 32,
+      "t": 7
+    },
+    "playoff": {
+      "w": 9,
+      "l": 7
+    },
+    "note": null
+  },
+  {
+    "franchise": "LV",
+    "coach": "Tom Flores",
+    "from": 1979,
+    "to": 1987,
+    "interim": false,
+    "regular": {
+      "w": 83,
+      "l": 53,
+      "t": 0
+    },
+    "playoff": {
+      "w": 8,
+      "l": 3
+    },
+    "note": "Continuous tenure spanning the Oakland (1979-81) and Los Angeles (1982-87) Raiders."
+  },
+  {
+    "franchise": "LV",
+    "coach": "Mike Shanahan",
+    "from": 1988,
+    "to": 1989,
+    "interim": false,
+    "regular": {
+      "w": 8,
+      "l": 12,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LV",
+    "coach": "Art Shell",
+    "from": 1989,
+    "to": 1994,
+    "interim": false,
+    "regular": {
+      "w": 54,
+      "l": 38,
+      "t": 0
+    },
+    "playoff": {
+      "w": 2,
+      "l": 3
+    },
+    "note": "Began as interim head coach in 1989 after Mike Shanahan left, then was retained as head coach."
+  },
+  {
+    "franchise": "LV",
+    "coach": "Mike White",
+    "from": 1995,
+    "to": 1996,
+    "interim": false,
+    "regular": {
+      "w": 15,
+      "l": 17,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LV",
+    "coach": "Joe Bugel",
+    "from": 1997,
+    "to": 1997,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 12,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LV",
+    "coach": "Jon Gruden",
+    "from": 1998,
+    "to": 2001,
+    "interim": false,
+    "regular": {
+      "w": 38,
+      "l": 26,
+      "t": 0
+    },
+    "playoff": {
+      "w": 2,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "LV",
+    "coach": "Bill Callahan",
+    "from": 2002,
+    "to": 2003,
+    "interim": false,
+    "regular": {
+      "w": 15,
+      "l": 17,
+      "t": 0
+    },
+    "playoff": {
+      "w": 2,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "LV",
+    "coach": "Norv Turner",
+    "from": 2004,
+    "to": 2005,
+    "interim": false,
+    "regular": {
+      "w": 9,
+      "l": 23,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LV",
+    "coach": "Art Shell",
+    "from": 2006,
+    "to": 2006,
+    "interim": false,
+    "regular": {
+      "w": 2,
+      "l": 14,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LV",
+    "coach": "Lane Kiffin",
+    "from": 2007,
+    "to": 2008,
+    "interim": false,
+    "regular": {
+      "w": 5,
+      "l": 15,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LV",
+    "coach": "Tom Cable",
+    "from": 2008,
+    "to": 2010,
+    "interim": false,
+    "regular": {
+      "w": 17,
+      "l": 27,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Began as interim head coach in 2008 after Lane Kiffin left, then was retained as head coach."
+  },
+  {
+    "franchise": "LV",
+    "coach": "Hue Jackson",
+    "from": 2011,
+    "to": 2011,
+    "interim": false,
+    "regular": {
+      "w": 8,
+      "l": 8,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LV",
+    "coach": "Dennis Allen",
+    "from": 2012,
+    "to": 2014,
+    "interim": false,
+    "regular": {
+      "w": 8,
+      "l": 28,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LV",
+    "coach": "Tony Sparano",
+    "from": 2014,
+    "to": 2014,
+    "interim": true,
+    "regular": {
+      "w": 3,
+      "l": 9,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Dennis Allen during the 2014 season."
+  },
+  {
+    "franchise": "LV",
+    "coach": "Jack Del Rio",
+    "from": 2015,
+    "to": 2017,
+    "interim": false,
+    "regular": {
+      "w": 25,
+      "l": 23,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "LV",
+    "coach": "Jon Gruden",
+    "from": 2018,
+    "to": 2021,
+    "interim": false,
+    "regular": {
+      "w": 22,
+      "l": 31,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Second stint; spanned the Oakland (2018-19) and Las Vegas (2020-21) Raiders. Resigned five games into 2021."
+  },
+  {
+    "franchise": "LV",
+    "coach": "Rich Bisaccia",
+    "from": 2021,
+    "to": 2021,
+    "interim": true,
+    "regular": {
+      "w": 7,
+      "l": 5,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": "Took over from Jon Gruden during the 2021 season."
+  },
+  {
+    "franchise": "LV",
+    "coach": "Josh McDaniels",
+    "from": 2022,
+    "to": 2023,
+    "interim": false,
+    "regular": {
+      "w": 9,
+      "l": 16,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LV",
+    "coach": "Antonio Pierce",
+    "from": 2023,
+    "to": 2024,
+    "interim": false,
+    "regular": {
+      "w": 9,
+      "l": 17,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Began as interim head coach in 2023 after Josh McDaniels left, then was retained as head coach."
+  },
+  {
+    "franchise": "LV",
+    "coach": "Pete Carroll",
+    "from": 2025,
+    "to": 2025,
+    "interim": false,
+    "regular": {
+      "w": 3,
+      "l": 14,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "LV",
+    "coach": "Klint Kubiak",
+    "from": 2026,
+    "to": null,
+    "interim": false,
+    "regular": null,
+    "playoff": null,
+    "note": "Hired for the 2026 season; no games coached with this franchise before 2026, so no record is listed yet."
+  },
+  {
+    "franchise": "MIA",
+    "coach": "George Wilson",
+    "from": 1966,
+    "to": 1969,
+    "interim": false,
+    "regular": {
+      "w": 15,
+      "l": 39,
+      "t": 2
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "MIA",
+    "coach": "Don Shula",
+    "from": 1970,
+    "to": 1995,
+    "interim": false,
+    "regular": {
+      "w": 257,
+      "l": 133,
+      "t": 2
+    },
+    "playoff": {
+      "w": 17,
+      "l": 14
+    },
+    "note": null
+  },
+  {
+    "franchise": "MIA",
+    "coach": "Jimmy Johnson",
+    "from": 1996,
+    "to": 1999,
+    "interim": false,
+    "regular": {
+      "w": 36,
+      "l": 28,
+      "t": 0
+    },
+    "playoff": {
+      "w": 2,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "MIA",
+    "coach": "Dave Wannstedt",
+    "from": 2000,
+    "to": 2004,
+    "interim": false,
+    "regular": {
+      "w": 42,
+      "l": 31,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "MIA",
+    "coach": "Jim Bates",
+    "from": 2004,
+    "to": 2004,
+    "interim": true,
+    "regular": {
+      "w": 3,
+      "l": 4,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Dave Wannstedt during the 2004 season."
+  },
+  {
+    "franchise": "MIA",
+    "coach": "Nick Saban",
+    "from": 2005,
+    "to": 2006,
+    "interim": false,
+    "regular": {
+      "w": 15,
+      "l": 17,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "MIA",
+    "coach": "Cam Cameron",
+    "from": 2007,
+    "to": 2007,
+    "interim": false,
+    "regular": {
+      "w": 1,
+      "l": 15,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "MIA",
+    "coach": "Tony Sparano",
+    "from": 2008,
+    "to": 2011,
+    "interim": false,
+    "regular": {
+      "w": 29,
+      "l": 32,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "MIA",
+    "coach": "Todd Bowles",
+    "from": 2011,
+    "to": 2011,
+    "interim": true,
+    "regular": {
+      "w": 2,
+      "l": 1,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Tony Sparano during the 2011 season."
+  },
+  {
+    "franchise": "MIA",
+    "coach": "Joe Philbin",
+    "from": 2012,
+    "to": 2015,
+    "interim": false,
+    "regular": {
+      "w": 24,
+      "l": 28,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "MIA",
+    "coach": "Dan Campbell",
+    "from": 2015,
+    "to": 2015,
+    "interim": true,
+    "regular": {
+      "w": 5,
+      "l": 7,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Joe Philbin during the 2015 season."
+  },
+  {
+    "franchise": "MIA",
+    "coach": "Adam Gase",
+    "from": 2016,
+    "to": 2018,
+    "interim": false,
+    "regular": {
+      "w": 23,
+      "l": 25,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "MIA",
+    "coach": "Brian Flores",
+    "from": 2019,
+    "to": 2021,
+    "interim": false,
+    "regular": {
+      "w": 24,
+      "l": 25,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "MIA",
+    "coach": "Mike McDaniel",
+    "from": 2022,
+    "to": 2025,
+    "interim": false,
+    "regular": {
+      "w": 35,
+      "l": 33,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "MIA",
+    "coach": "Jeff Hafley",
+    "from": 2026,
+    "to": null,
+    "interim": false,
+    "regular": null,
+    "playoff": null,
+    "note": "Hired for the 2026 season; no games coached with this franchise before 2026, so no record is listed yet."
+  },
+  {
+    "franchise": "MIN",
+    "coach": "Norm Van Brocklin",
+    "from": 1961,
+    "to": 1966,
+    "interim": false,
+    "regular": {
+      "w": 29,
+      "l": 51,
+      "t": 4
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "MIN",
+    "coach": "Bud Grant",
+    "from": 1967,
+    "to": 1983,
+    "interim": false,
+    "regular": {
+      "w": 151,
+      "l": 87,
+      "t": 5
+    },
+    "playoff": {
+      "w": 10,
+      "l": 12
+    },
+    "note": null
+  },
+  {
+    "franchise": "MIN",
+    "coach": "Les Steckel",
+    "from": 1984,
+    "to": 1984,
+    "interim": false,
+    "regular": {
+      "w": 3,
+      "l": 13,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "MIN",
+    "coach": "Bud Grant",
+    "from": 1985,
+    "to": 1985,
+    "interim": false,
+    "regular": {
+      "w": 7,
+      "l": 9,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "MIN",
+    "coach": "Jerry Burns",
+    "from": 1986,
+    "to": 1991,
+    "interim": false,
+    "regular": {
+      "w": 52,
+      "l": 43,
+      "t": 0
+    },
+    "playoff": {
+      "w": 3,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "MIN",
+    "coach": "Dennis Green",
+    "from": 1992,
+    "to": 2001,
+    "interim": false,
+    "regular": {
+      "w": 97,
+      "l": 62,
+      "t": 0
+    },
+    "playoff": {
+      "w": 4,
+      "l": 8
+    },
+    "note": null
+  },
+  {
+    "franchise": "MIN",
+    "coach": "Mike Tice",
+    "from": 2001,
+    "to": 2005,
+    "interim": false,
+    "regular": {
+      "w": 32,
+      "l": 33,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": "Began as interim head coach in 2001 after Dennis Green left, then was retained as head coach."
+  },
+  {
+    "franchise": "MIN",
+    "coach": "Brad Childress",
+    "from": 2006,
+    "to": 2010,
+    "interim": false,
+    "regular": {
+      "w": 39,
+      "l": 35,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "MIN",
+    "coach": "Leslie Frazier",
+    "from": 2010,
+    "to": 2013,
+    "interim": false,
+    "regular": {
+      "w": 21,
+      "l": 32,
+      "t": 1
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": "Began as interim head coach in 2010 after Brad Childress left, then was retained as head coach."
+  },
+  {
+    "franchise": "MIN",
+    "coach": "Mike Zimmer",
+    "from": 2014,
+    "to": 2021,
+    "interim": false,
+    "regular": {
+      "w": 72,
+      "l": 56,
+      "t": 1
+    },
+    "playoff": {
+      "w": 2,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "MIN",
+    "coach": "Kevin O'Connell",
+    "from": 2022,
+    "to": null,
+    "interim": false,
+    "regular": {
+      "w": 43,
+      "l": 25,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 2
+    },
+    "note": "Record is through the 2025 season; 2026 games are not included."
+  },
+  {
+    "franchise": "NE",
+    "coach": "Lou Saban",
+    "from": 1960,
+    "to": 1961,
+    "interim": false,
+    "regular": {
+      "w": 7,
+      "l": 12,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NE",
+    "coach": "Mike Holovak",
+    "from": 1961,
+    "to": 1968,
+    "interim": false,
+    "regular": {
+      "w": 52,
+      "l": 46,
+      "t": 9
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": "Succeeded Lou Saban during the 1961 season."
+  },
+  {
+    "franchise": "NE",
+    "coach": "Clive Rush",
+    "from": 1969,
+    "to": 1970,
+    "interim": false,
+    "regular": {
+      "w": 5,
+      "l": 16,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NE",
+    "coach": "John Mazur",
+    "from": 1970,
+    "to": 1972,
+    "interim": false,
+    "regular": {
+      "w": 9,
+      "l": 21,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Promoted to interim head coach after Clive Rush was removed in 1970, then retained through 1972 (resigned with five games left)."
+  },
+  {
+    "franchise": "NE",
+    "coach": "Phil Bengtson",
+    "from": 1972,
+    "to": 1972,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 4,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from John Mazur during the 1972 season."
+  },
+  {
+    "franchise": "NE",
+    "coach": "Chuck Fairbanks",
+    "from": 1973,
+    "to": 1978,
+    "interim": false,
+    "regular": {
+      "w": 46,
+      "l": 39,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "NE",
+    "coach": "Ron Erhardt",
+    "from": 1979,
+    "to": 1981,
+    "interim": false,
+    "regular": {
+      "w": 21,
+      "l": 28,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NE",
+    "coach": "Ron Meyer",
+    "from": 1982,
+    "to": 1984,
+    "interim": false,
+    "regular": {
+      "w": 18,
+      "l": 15,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "NE",
+    "coach": "Raymond Berry",
+    "from": 1984,
+    "to": 1989,
+    "interim": false,
+    "regular": {
+      "w": 48,
+      "l": 39,
+      "t": 0
+    },
+    "playoff": {
+      "w": 3,
+      "l": 2
+    },
+    "note": "Succeeded Ron Meyer during the 1984 season."
+  },
+  {
+    "franchise": "NE",
+    "coach": "Rod Rust",
+    "from": 1990,
+    "to": 1990,
+    "interim": false,
+    "regular": {
+      "w": 1,
+      "l": 15,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NE",
+    "coach": "Dick MacPherson",
+    "from": 1991,
+    "to": 1992,
+    "interim": false,
+    "regular": {
+      "w": 8,
+      "l": 24,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NE",
+    "coach": "Bill Parcells",
+    "from": 1993,
+    "to": 1996,
+    "interim": false,
+    "regular": {
+      "w": 32,
+      "l": 32,
+      "t": 0
+    },
+    "playoff": {
+      "w": 2,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "NE",
+    "coach": "Pete Carroll",
+    "from": 1997,
+    "to": 1999,
+    "interim": false,
+    "regular": {
+      "w": 27,
+      "l": 21,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "NE",
+    "coach": "Bill Belichick",
+    "from": 2000,
+    "to": 2023,
+    "interim": false,
+    "regular": {
+      "w": 266,
+      "l": 121,
+      "t": 0
+    },
+    "playoff": {
+      "w": 30,
+      "l": 12
+    },
+    "note": null
+  },
+  {
+    "franchise": "NE",
+    "coach": "Jerod Mayo",
+    "from": 2024,
+    "to": 2024,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 13,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NE",
+    "coach": "Mike Vrabel",
+    "from": 2025,
+    "to": null,
+    "interim": false,
+    "regular": {
+      "w": 14,
+      "l": 3,
+      "t": 0
+    },
+    "playoff": {
+      "w": 3,
+      "l": 1
+    },
+    "note": "Record is through the 2025 season; 2026 games are not included."
+  },
+  {
+    "franchise": "NO",
+    "coach": "Tom Fears",
+    "from": 1967,
+    "to": 1970,
+    "interim": false,
+    "regular": {
+      "w": 13,
+      "l": 34,
+      "t": 2
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NO",
+    "coach": "J. D. Roberts",
+    "from": 1970,
+    "to": 1972,
+    "interim": false,
+    "regular": {
+      "w": 7,
+      "l": 25,
+      "t": 3
+    },
+    "playoff": null,
+    "note": "Succeeded Tom Fears during the 1970 season."
+  },
+  {
+    "franchise": "NO",
+    "coach": "John North",
+    "from": 1973,
+    "to": 1975,
+    "interim": false,
+    "regular": {
+      "w": 11,
+      "l": 23,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NO",
+    "coach": "Ernie Hefferle",
+    "from": 1975,
+    "to": 1975,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 7,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from John North during the 1975 season."
+  },
+  {
+    "franchise": "NO",
+    "coach": "Hank Stram",
+    "from": 1976,
+    "to": 1977,
+    "interim": false,
+    "regular": {
+      "w": 7,
+      "l": 21,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NO",
+    "coach": "Dick Nolan",
+    "from": 1978,
+    "to": 1980,
+    "interim": false,
+    "regular": {
+      "w": 15,
+      "l": 29,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NO",
+    "coach": "Dick Stanfel",
+    "from": 1980,
+    "to": 1980,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 3,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Dick Nolan during the 1980 season."
+  },
+  {
+    "franchise": "NO",
+    "coach": "Bum Phillips",
+    "from": 1981,
+    "to": 1985,
+    "interim": false,
+    "regular": {
+      "w": 27,
+      "l": 42,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NO",
+    "coach": "Wade Phillips",
+    "from": 1985,
+    "to": 1985,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 3,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Bum Phillips during the 1985 season."
+  },
+  {
+    "franchise": "NO",
+    "coach": "Jim E. Mora",
+    "from": 1986,
+    "to": 1996,
+    "interim": false,
+    "regular": {
+      "w": 93,
+      "l": 74,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 4
+    },
+    "note": null
+  },
+  {
+    "franchise": "NO",
+    "coach": "Rick Venturi",
+    "from": 1996,
+    "to": 1996,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 7,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Jim E. Mora during the 1996 season."
+  },
+  {
+    "franchise": "NO",
+    "coach": "Mike Ditka",
+    "from": 1997,
+    "to": 1999,
+    "interim": false,
+    "regular": {
+      "w": 15,
+      "l": 33,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NO",
+    "coach": "Jim Haslett",
+    "from": 2000,
+    "to": 2005,
+    "interim": false,
+    "regular": {
+      "w": 45,
+      "l": 51,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "NO",
+    "coach": "Sean Payton",
+    "from": 2006,
+    "to": 2021,
+    "interim": false,
+    "regular": {
+      "w": 152,
+      "l": 89,
+      "t": 0
+    },
+    "playoff": {
+      "w": 9,
+      "l": 8
+    },
+    "note": null
+  },
+  {
+    "franchise": "NO",
+    "coach": "Aaron Kromer",
+    "from": 2012,
+    "to": 2012,
+    "interim": true,
+    "regular": {
+      "w": 2,
+      "l": 4,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Interim head coach for the first 6 games of 2012 while Sean Payton was suspended and Joe Vitt served his own suspension."
+  },
+  {
+    "franchise": "NO",
+    "coach": "Joe Vitt",
+    "from": 2012,
+    "to": 2012,
+    "interim": true,
+    "regular": {
+      "w": 5,
+      "l": 5,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Interim head coach for the last 10 games of 2012 while Sean Payton was suspended."
+  },
+  {
+    "franchise": "NO",
+    "coach": "Dennis Allen",
+    "from": 2022,
+    "to": 2024,
+    "interim": false,
+    "regular": {
+      "w": 18,
+      "l": 25,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NO",
+    "coach": "Darren Rizzi",
+    "from": 2024,
+    "to": 2024,
+    "interim": true,
+    "regular": {
+      "w": 3,
+      "l": 5,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Dennis Allen during the 2024 season."
+  },
+  {
+    "franchise": "NO",
+    "coach": "Kellen Moore",
+    "from": 2025,
+    "to": null,
+    "interim": false,
+    "regular": {
+      "w": 6,
+      "l": 11,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Record is through the 2025 season; 2026 games are not included."
+  },
+  {
+    "franchise": "NYG",
+    "coach": "Bob Folwell",
+    "from": 1925,
+    "to": 1925,
+    "interim": false,
+    "regular": {
+      "w": 8,
+      "l": 4,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NYG",
+    "coach": "Doc Alexander",
+    "from": 1926,
+    "to": 1926,
+    "interim": false,
+    "regular": {
+      "w": 8,
+      "l": 4,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NYG",
+    "coach": "Earl Potteiger",
+    "from": 1927,
+    "to": 1928,
+    "interim": false,
+    "regular": {
+      "w": 15,
+      "l": 8,
+      "t": 3
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NYG",
+    "coach": "LeRoy Andrews",
+    "from": 1929,
+    "to": 1930,
+    "interim": false,
+    "regular": {
+      "w": 24,
+      "l": 5,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NYG",
+    "coach": "Benny Friedman",
+    "from": 1930,
+    "to": 1930,
+    "interim": true,
+    "regular": {
+      "w": 2,
+      "l": 0,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from LeRoy Andrews during the 1930 season."
+  },
+  {
+    "franchise": "NYG",
+    "coach": "Steve Owen",
+    "from": 1931,
+    "to": 1953,
+    "interim": false,
+    "regular": {
+      "w": 153,
+      "l": 100,
+      "t": 17
+    },
+    "playoff": {
+      "w": 2,
+      "l": 8
+    },
+    "note": null
+  },
+  {
+    "franchise": "NYG",
+    "coach": "Jim Lee Howell",
+    "from": 1954,
+    "to": 1960,
+    "interim": false,
+    "regular": {
+      "w": 53,
+      "l": 27,
+      "t": 4
+    },
+    "playoff": {
+      "w": 2,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "NYG",
+    "coach": "Allie Sherman",
+    "from": 1961,
+    "to": 1968,
+    "interim": false,
+    "regular": {
+      "w": 57,
+      "l": 51,
+      "t": 4
+    },
+    "playoff": {
+      "w": 0,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "NYG",
+    "coach": "Alex Webster",
+    "from": 1969,
+    "to": 1973,
+    "interim": false,
+    "regular": {
+      "w": 29,
+      "l": 40,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NYG",
+    "coach": "Bill Arnsparger",
+    "from": 1974,
+    "to": 1976,
+    "interim": false,
+    "regular": {
+      "w": 7,
+      "l": 28,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NYG",
+    "coach": "John McVay",
+    "from": 1976,
+    "to": 1978,
+    "interim": false,
+    "regular": {
+      "w": 14,
+      "l": 23,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Succeeded Bill Arnsparger during the 1976 season."
+  },
+  {
+    "franchise": "NYG",
+    "coach": "Ray Perkins",
+    "from": 1979,
+    "to": 1982,
+    "interim": false,
+    "regular": {
+      "w": 23,
+      "l": 34,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "NYG",
+    "coach": "Bill Parcells",
+    "from": 1983,
+    "to": 1990,
+    "interim": false,
+    "regular": {
+      "w": 77,
+      "l": 49,
+      "t": 1
+    },
+    "playoff": {
+      "w": 8,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "NYG",
+    "coach": "Ray Handley",
+    "from": 1991,
+    "to": 1992,
+    "interim": false,
+    "regular": {
+      "w": 14,
+      "l": 18,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NYG",
+    "coach": "Dan Reeves",
+    "from": 1993,
+    "to": 1996,
+    "interim": false,
+    "regular": {
+      "w": 31,
+      "l": 33,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "NYG",
+    "coach": "Jim Fassel",
+    "from": 1997,
+    "to": 2003,
+    "interim": false,
+    "regular": {
+      "w": 58,
+      "l": 53,
+      "t": 1
+    },
+    "playoff": {
+      "w": 2,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "NYG",
+    "coach": "Tom Coughlin",
+    "from": 2004,
+    "to": 2015,
+    "interim": false,
+    "regular": {
+      "w": 102,
+      "l": 90,
+      "t": 0
+    },
+    "playoff": {
+      "w": 8,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "NYG",
+    "coach": "Ben McAdoo",
+    "from": 2016,
+    "to": 2017,
+    "interim": false,
+    "regular": {
+      "w": 13,
+      "l": 15,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "NYG",
+    "coach": "Steve Spagnuolo",
+    "from": 2017,
+    "to": 2017,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 3,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Ben McAdoo during the 2017 season."
+  },
+  {
+    "franchise": "NYG",
+    "coach": "Pat Shurmur",
+    "from": 2018,
+    "to": 2019,
+    "interim": false,
+    "regular": {
+      "w": 9,
+      "l": 23,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NYG",
+    "coach": "Joe Judge",
+    "from": 2020,
+    "to": 2021,
+    "interim": false,
+    "regular": {
+      "w": 10,
+      "l": 23,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NYG",
+    "coach": "Brian Daboll",
+    "from": 2022,
+    "to": 2025,
+    "interim": false,
+    "regular": {
+      "w": 20,
+      "l": 40,
+      "t": 1
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "NYG",
+    "coach": "Mike Kafka",
+    "from": 2025,
+    "to": 2025,
+    "interim": true,
+    "regular": {
+      "w": 2,
+      "l": 5,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Brian Daboll during the 2025 season."
+  },
+  {
+    "franchise": "NYG",
+    "coach": "John Harbaugh",
+    "from": 2026,
+    "to": null,
+    "interim": false,
+    "regular": null,
+    "playoff": null,
+    "note": "Hired for the 2026 season; no games coached with this franchise before 2026, so no record is listed yet."
+  },
+  {
+    "franchise": "NYJ",
+    "coach": "Sammy Baugh",
+    "from": 1960,
+    "to": 1961,
+    "interim": false,
+    "regular": {
+      "w": 14,
+      "l": 14,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NYJ",
+    "coach": "Bulldog Turner",
+    "from": 1962,
+    "to": 1962,
+    "interim": false,
+    "regular": {
+      "w": 5,
+      "l": 9,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NYJ",
+    "coach": "Weeb Ewbank",
+    "from": 1963,
+    "to": 1973,
+    "interim": false,
+    "regular": {
+      "w": 71,
+      "l": 77,
+      "t": 6
+    },
+    "playoff": {
+      "w": 2,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "NYJ",
+    "coach": "Charley Winner",
+    "from": 1974,
+    "to": 1975,
+    "interim": false,
+    "regular": {
+      "w": 9,
+      "l": 14,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NYJ",
+    "coach": "Ken Shipp",
+    "from": 1975,
+    "to": 1975,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 4,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Charley Winner during the 1975 season."
+  },
+  {
+    "franchise": "NYJ",
+    "coach": "Lou Holtz",
+    "from": 1976,
+    "to": 1976,
+    "interim": false,
+    "regular": {
+      "w": 3,
+      "l": 10,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NYJ",
+    "coach": "Mike Holovak",
+    "from": 1976,
+    "to": 1976,
+    "interim": true,
+    "regular": {
+      "w": 0,
+      "l": 1,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Lou Holtz during the 1976 season."
+  },
+  {
+    "franchise": "NYJ",
+    "coach": "Walt Michaels",
+    "from": 1977,
+    "to": 1982,
+    "interim": false,
+    "regular": {
+      "w": 39,
+      "l": 47,
+      "t": 1
+    },
+    "playoff": {
+      "w": 2,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "NYJ",
+    "coach": "Joe Walton",
+    "from": 1983,
+    "to": 1989,
+    "interim": false,
+    "regular": {
+      "w": 53,
+      "l": 57,
+      "t": 1
+    },
+    "playoff": {
+      "w": 1,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "NYJ",
+    "coach": "Bruce Coslet",
+    "from": 1990,
+    "to": 1993,
+    "interim": false,
+    "regular": {
+      "w": 26,
+      "l": 38,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "NYJ",
+    "coach": "Pete Carroll",
+    "from": 1994,
+    "to": 1994,
+    "interim": false,
+    "regular": {
+      "w": 6,
+      "l": 10,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NYJ",
+    "coach": "Rich Kotite",
+    "from": 1995,
+    "to": 1996,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 28,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NYJ",
+    "coach": "Bill Parcells",
+    "from": 1997,
+    "to": 1999,
+    "interim": false,
+    "regular": {
+      "w": 29,
+      "l": 19,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "NYJ",
+    "coach": "Al Groh",
+    "from": 2000,
+    "to": 2000,
+    "interim": false,
+    "regular": {
+      "w": 9,
+      "l": 7,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NYJ",
+    "coach": "Herm Edwards",
+    "from": 2001,
+    "to": 2005,
+    "interim": false,
+    "regular": {
+      "w": 39,
+      "l": 41,
+      "t": 0
+    },
+    "playoff": {
+      "w": 2,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "NYJ",
+    "coach": "Eric Mangini",
+    "from": 2006,
+    "to": 2008,
+    "interim": false,
+    "regular": {
+      "w": 23,
+      "l": 25,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "NYJ",
+    "coach": "Rex Ryan",
+    "from": 2009,
+    "to": 2014,
+    "interim": false,
+    "regular": {
+      "w": 46,
+      "l": 50,
+      "t": 0
+    },
+    "playoff": {
+      "w": 4,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "NYJ",
+    "coach": "Todd Bowles",
+    "from": 2015,
+    "to": 2018,
+    "interim": false,
+    "regular": {
+      "w": 24,
+      "l": 40,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NYJ",
+    "coach": "Adam Gase",
+    "from": 2019,
+    "to": 2020,
+    "interim": false,
+    "regular": {
+      "w": 9,
+      "l": 23,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NYJ",
+    "coach": "Robert Saleh",
+    "from": 2021,
+    "to": 2024,
+    "interim": false,
+    "regular": {
+      "w": 20,
+      "l": 36,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "NYJ",
+    "coach": "Jeff Ulbrich",
+    "from": 2024,
+    "to": 2024,
+    "interim": true,
+    "regular": {
+      "w": 3,
+      "l": 9,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Robert Saleh during the 2024 season."
+  },
+  {
+    "franchise": "NYJ",
+    "coach": "Aaron Glenn",
+    "from": 2025,
+    "to": null,
+    "interim": false,
+    "regular": {
+      "w": 3,
+      "l": 14,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Record is through the 2025 season; 2026 games are not included."
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Lud Wray",
+    "from": 1933,
+    "to": 1935,
+    "interim": false,
+    "regular": {
+      "w": 9,
+      "l": 21,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Bert Bell",
+    "from": 1936,
+    "to": 1940,
+    "interim": false,
+    "regular": {
+      "w": 10,
+      "l": 44,
+      "t": 2
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Greasy Neale",
+    "from": 1941,
+    "to": 1950,
+    "interim": false,
+    "regular": {
+      "w": 63,
+      "l": 43,
+      "t": 5
+    },
+    "playoff": {
+      "w": 3,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Bo McMillin",
+    "from": 1951,
+    "to": 1951,
+    "interim": false,
+    "regular": {
+      "w": 2,
+      "l": 0,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Wayne Millner",
+    "from": 1951,
+    "to": 1951,
+    "interim": true,
+    "regular": {
+      "w": 2,
+      "l": 8,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Bo McMillin during the 1951 season."
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Jim Trimble",
+    "from": 1952,
+    "to": 1955,
+    "interim": false,
+    "regular": {
+      "w": 25,
+      "l": 20,
+      "t": 3
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Hugh Devore",
+    "from": 1956,
+    "to": 1957,
+    "interim": false,
+    "regular": {
+      "w": 7,
+      "l": 16,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Buck Shaw",
+    "from": 1958,
+    "to": 1960,
+    "interim": false,
+    "regular": {
+      "w": 19,
+      "l": 16,
+      "t": 1
+    },
+    "playoff": {
+      "w": 1,
+      "l": 0
+    },
+    "note": null
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Nick Skorich",
+    "from": 1961,
+    "to": 1963,
+    "interim": false,
+    "regular": {
+      "w": 15,
+      "l": 24,
+      "t": 3
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Joe Kuharich",
+    "from": 1964,
+    "to": 1968,
+    "interim": false,
+    "regular": {
+      "w": 28,
+      "l": 41,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Jerry Williams",
+    "from": 1969,
+    "to": 1971,
+    "interim": false,
+    "regular": {
+      "w": 7,
+      "l": 22,
+      "t": 2
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Ed Khayat",
+    "from": 1971,
+    "to": 1972,
+    "interim": false,
+    "regular": {
+      "w": 8,
+      "l": 15,
+      "t": 2
+    },
+    "playoff": null,
+    "note": "Succeeded Jerry Williams during the 1971 season."
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Mike McCormack",
+    "from": 1973,
+    "to": 1975,
+    "interim": false,
+    "regular": {
+      "w": 16,
+      "l": 25,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Dick Vermeil",
+    "from": 1976,
+    "to": 1982,
+    "interim": false,
+    "regular": {
+      "w": 54,
+      "l": 47,
+      "t": 0
+    },
+    "playoff": {
+      "w": 3,
+      "l": 4
+    },
+    "note": null
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Marion Campbell",
+    "from": 1983,
+    "to": 1985,
+    "interim": false,
+    "regular": {
+      "w": 17,
+      "l": 29,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Fred Bruney",
+    "from": 1985,
+    "to": 1985,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 0,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Marion Campbell during the 1985 season."
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Buddy Ryan",
+    "from": 1986,
+    "to": 1990,
+    "interim": false,
+    "regular": {
+      "w": 43,
+      "l": 35,
+      "t": 1
+    },
+    "playoff": {
+      "w": 0,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Rich Kotite",
+    "from": 1991,
+    "to": 1994,
+    "interim": false,
+    "regular": {
+      "w": 36,
+      "l": 28,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Ray Rhodes",
+    "from": 1995,
+    "to": 1998,
+    "interim": false,
+    "regular": {
+      "w": 29,
+      "l": 34,
+      "t": 1
+    },
+    "playoff": {
+      "w": 1,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Andy Reid",
+    "from": 1999,
+    "to": 2012,
+    "interim": false,
+    "regular": {
+      "w": 130,
+      "l": 93,
+      "t": 1
+    },
+    "playoff": {
+      "w": 10,
+      "l": 9
+    },
+    "note": null
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Chip Kelly",
+    "from": 2013,
+    "to": 2015,
+    "interim": false,
+    "regular": {
+      "w": 26,
+      "l": 21,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Pat Shurmur",
+    "from": 2015,
+    "to": 2015,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 0,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Chip Kelly during the 2015 season."
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Doug Pederson",
+    "from": 2016,
+    "to": 2020,
+    "interim": false,
+    "regular": {
+      "w": 42,
+      "l": 37,
+      "t": 1
+    },
+    "playoff": {
+      "w": 4,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "PHI",
+    "coach": "Nick Sirianni",
+    "from": 2021,
+    "to": null,
+    "interim": false,
+    "regular": {
+      "w": 59,
+      "l": 26,
+      "t": 0
+    },
+    "playoff": {
+      "w": 6,
+      "l": 4
+    },
+    "note": "Record is through the 2025 season; 2026 games are not included."
+  },
+  {
+    "franchise": "PIT",
+    "coach": "Forrest Douds",
+    "from": 1933,
+    "to": 1933,
+    "interim": false,
+    "regular": {
+      "w": 3,
+      "l": 6,
+      "t": 2
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "PIT",
+    "coach": "Luby DiMeolo",
+    "from": 1934,
+    "to": 1934,
+    "interim": false,
+    "regular": {
+      "w": 2,
+      "l": 10,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "PIT",
+    "coach": "Joe Bach",
+    "from": 1935,
+    "to": 1936,
+    "interim": false,
+    "regular": {
+      "w": 10,
+      "l": 14,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "PIT",
+    "coach": "Johnny Blood",
+    "from": 1937,
+    "to": 1939,
+    "interim": false,
+    "regular": {
+      "w": 6,
+      "l": 19,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "PIT",
+    "coach": "Walt Kiesling",
+    "from": 1939,
+    "to": 1940,
+    "interim": false,
+    "regular": {
+      "w": 3,
+      "l": 13,
+      "t": 3
+    },
+    "playoff": null,
+    "note": "Succeeded Johnny Blood during the 1939 season."
+  },
+  {
+    "franchise": "PIT",
+    "coach": "Bert Bell",
+    "from": 1941,
+    "to": 1941,
+    "interim": false,
+    "regular": {
+      "w": 0,
+      "l": 2,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "PIT",
+    "coach": "Aldo Donelli",
+    "from": 1941,
+    "to": 1941,
+    "interim": false,
+    "regular": {
+      "w": 0,
+      "l": 5,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Succeeded Bert Bell during the 1941 season."
+  },
+  {
+    "franchise": "PIT",
+    "coach": "Walt Kiesling",
+    "from": 1941,
+    "to": 1944,
+    "interim": false,
+    "regular": {
+      "w": 13,
+      "l": 20,
+      "t": 2
+    },
+    "playoff": null,
+    "note": "Succeeded Aldo Donelli during the 1941 season."
+  },
+  {
+    "franchise": "PIT",
+    "coach": "Jim Leonard",
+    "from": 1945,
+    "to": 1945,
+    "interim": false,
+    "regular": {
+      "w": 2,
+      "l": 8,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "PIT",
+    "coach": "Jock Sutherland",
+    "from": 1946,
+    "to": 1947,
+    "interim": false,
+    "regular": {
+      "w": 13,
+      "l": 9,
+      "t": 1
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "PIT",
+    "coach": "John Michelosen",
+    "from": 1948,
+    "to": 1951,
+    "interim": false,
+    "regular": {
+      "w": 20,
+      "l": 26,
+      "t": 2
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "PIT",
+    "coach": "Joe Bach",
+    "from": 1952,
+    "to": 1953,
+    "interim": false,
+    "regular": {
+      "w": 11,
+      "l": 13,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "PIT",
+    "coach": "Walt Kiesling",
+    "from": 1954,
+    "to": 1956,
+    "interim": false,
+    "regular": {
+      "w": 14,
+      "l": 22,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "PIT",
+    "coach": "Buddy Parker",
+    "from": 1957,
+    "to": 1964,
+    "interim": false,
+    "regular": {
+      "w": 51,
+      "l": 47,
+      "t": 6
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "PIT",
+    "coach": "Mike Nixon",
+    "from": 1965,
+    "to": 1965,
+    "interim": false,
+    "regular": {
+      "w": 2,
+      "l": 12,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "PIT",
+    "coach": "Bill Austin",
+    "from": 1966,
+    "to": 1968,
+    "interim": false,
+    "regular": {
+      "w": 11,
+      "l": 28,
+      "t": 3
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "PIT",
+    "coach": "Chuck Noll",
+    "from": 1969,
+    "to": 1991,
+    "interim": false,
+    "regular": {
+      "w": 193,
+      "l": 148,
+      "t": 1
+    },
+    "playoff": {
+      "w": 16,
+      "l": 8
+    },
+    "note": null
+  },
+  {
+    "franchise": "PIT",
+    "coach": "Bill Cowher",
+    "from": 1992,
+    "to": 2006,
+    "interim": false,
+    "regular": {
+      "w": 149,
+      "l": 90,
+      "t": 1
+    },
+    "playoff": {
+      "w": 12,
+      "l": 9
+    },
+    "note": null
+  },
+  {
+    "franchise": "PIT",
+    "coach": "Mike Tomlin",
+    "from": 2007,
+    "to": 2025,
+    "interim": false,
+    "regular": {
+      "w": 193,
+      "l": 114,
+      "t": 2
+    },
+    "playoff": {
+      "w": 8,
+      "l": 12
+    },
+    "note": null
+  },
+  {
+    "franchise": "PIT",
+    "coach": "Mike McCarthy",
+    "from": 2026,
+    "to": null,
+    "interim": false,
+    "regular": null,
+    "playoff": null,
+    "note": "Hired for the 2026 season; no games coached with this franchise before 2026, so no record is listed yet."
+  },
+  {
+    "franchise": "SEA",
+    "coach": "Jack Patera",
+    "from": 1976,
+    "to": 1982,
+    "interim": false,
+    "regular": {
+      "w": 35,
+      "l": 59,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "SEA",
+    "coach": "Mike McCormack",
+    "from": 1982,
+    "to": 1982,
+    "interim": true,
+    "regular": {
+      "w": 4,
+      "l": 3,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Jack Patera during the 1982 season."
+  },
+  {
+    "franchise": "SEA",
+    "coach": "Chuck Knox",
+    "from": 1983,
+    "to": 1991,
+    "interim": false,
+    "regular": {
+      "w": 80,
+      "l": 63,
+      "t": 0
+    },
+    "playoff": {
+      "w": 3,
+      "l": 4
+    },
+    "note": null
+  },
+  {
+    "franchise": "SEA",
+    "coach": "Tom Flores",
+    "from": 1992,
+    "to": 1994,
+    "interim": false,
+    "regular": {
+      "w": 14,
+      "l": 34,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "SEA",
+    "coach": "Dennis Erickson",
+    "from": 1995,
+    "to": 1998,
+    "interim": false,
+    "regular": {
+      "w": 31,
+      "l": 33,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "SEA",
+    "coach": "Mike Holmgren",
+    "from": 1999,
+    "to": 2008,
+    "interim": false,
+    "regular": {
+      "w": 86,
+      "l": 74,
+      "t": 0
+    },
+    "playoff": {
+      "w": 4,
+      "l": 6
+    },
+    "note": null
+  },
+  {
+    "franchise": "SEA",
+    "coach": "Jim L. Mora",
+    "from": 2009,
+    "to": 2009,
+    "interim": false,
+    "regular": {
+      "w": 5,
+      "l": 11,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "SEA",
+    "coach": "Pete Carroll",
+    "from": 2010,
+    "to": 2023,
+    "interim": false,
+    "regular": {
+      "w": 137,
+      "l": 89,
+      "t": 1
+    },
+    "playoff": {
+      "w": 10,
+      "l": 9
+    },
+    "note": null
+  },
+  {
+    "franchise": "SEA",
+    "coach": "Mike Macdonald",
+    "from": 2024,
+    "to": null,
+    "interim": false,
+    "regular": {
+      "w": 24,
+      "l": 10,
+      "t": 0
+    },
+    "playoff": {
+      "w": 3,
+      "l": 0
+    },
+    "note": "Record is through the 2025 season; 2026 games are not included."
+  },
+  {
+    "franchise": "SF",
+    "coach": "Buck Shaw",
+    "from": 1946,
+    "to": 1954,
+    "interim": false,
+    "regular": {
+      "w": 71,
+      "l": 39,
+      "t": 4
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": "Record includes the 1946-49 AAFC seasons plus 1950-54 in the NFL."
+  },
+  {
+    "franchise": "SF",
+    "coach": "Red Strader",
+    "from": 1955,
+    "to": 1955,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 8,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "SF",
+    "coach": "Frankie Albert",
+    "from": 1956,
+    "to": 1958,
+    "interim": false,
+    "regular": {
+      "w": 19,
+      "l": 16,
+      "t": 1
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "SF",
+    "coach": "Red Hickey",
+    "from": 1959,
+    "to": 1963,
+    "interim": false,
+    "regular": {
+      "w": 27,
+      "l": 27,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "SF",
+    "coach": "Jack Christiansen",
+    "from": 1963,
+    "to": 1967,
+    "interim": false,
+    "regular": {
+      "w": 26,
+      "l": 38,
+      "t": 3
+    },
+    "playoff": null,
+    "note": "Began as interim head coach in 1963 after Red Hickey left, then was retained as head coach."
+  },
+  {
+    "franchise": "SF",
+    "coach": "Dick Nolan",
+    "from": 1968,
+    "to": 1975,
+    "interim": false,
+    "regular": {
+      "w": 54,
+      "l": 53,
+      "t": 5
+    },
+    "playoff": {
+      "w": 2,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "SF",
+    "coach": "Monte Clark",
+    "from": 1976,
+    "to": 1976,
+    "interim": false,
+    "regular": {
+      "w": 8,
+      "l": 6,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "SF",
+    "coach": "Ken Meyer",
+    "from": 1977,
+    "to": 1977,
+    "interim": false,
+    "regular": {
+      "w": 5,
+      "l": 9,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "SF",
+    "coach": "Pete McCulley",
+    "from": 1978,
+    "to": 1978,
+    "interim": false,
+    "regular": {
+      "w": 1,
+      "l": 8,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "SF",
+    "coach": "Fred O'Connor",
+    "from": 1978,
+    "to": 1978,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 6,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Pete McCulley during the 1978 season."
+  },
+  {
+    "franchise": "SF",
+    "coach": "Bill Walsh",
+    "from": 1979,
+    "to": 1988,
+    "interim": false,
+    "regular": {
+      "w": 92,
+      "l": 59,
+      "t": 1
+    },
+    "playoff": {
+      "w": 10,
+      "l": 4
+    },
+    "note": null
+  },
+  {
+    "franchise": "SF",
+    "coach": "George Seifert",
+    "from": 1989,
+    "to": 1996,
+    "interim": false,
+    "regular": {
+      "w": 98,
+      "l": 30,
+      "t": 0
+    },
+    "playoff": {
+      "w": 10,
+      "l": 5
+    },
+    "note": null
+  },
+  {
+    "franchise": "SF",
+    "coach": "Steve Mariucci",
+    "from": 1997,
+    "to": 2002,
+    "interim": false,
+    "regular": {
+      "w": 57,
+      "l": 39,
+      "t": 0
+    },
+    "playoff": {
+      "w": 3,
+      "l": 4
+    },
+    "note": null
+  },
+  {
+    "franchise": "SF",
+    "coach": "Dennis Erickson",
+    "from": 2003,
+    "to": 2004,
+    "interim": false,
+    "regular": {
+      "w": 9,
+      "l": 23,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "SF",
+    "coach": "Mike Nolan",
+    "from": 2005,
+    "to": 2008,
+    "interim": false,
+    "regular": {
+      "w": 18,
+      "l": 37,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "SF",
+    "coach": "Mike Singletary",
+    "from": 2008,
+    "to": 2010,
+    "interim": false,
+    "regular": {
+      "w": 18,
+      "l": 22,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Began as interim head coach in 2008 after Mike Nolan left, then was retained as head coach."
+  },
+  {
+    "franchise": "SF",
+    "coach": "Jim Tomsula",
+    "from": 2010,
+    "to": 2010,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 0,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Mike Singletary during the 2010 season."
+  },
+  {
+    "franchise": "SF",
+    "coach": "Jim Harbaugh",
+    "from": 2011,
+    "to": 2014,
+    "interim": false,
+    "regular": {
+      "w": 44,
+      "l": 19,
+      "t": 1
+    },
+    "playoff": {
+      "w": 5,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "SF",
+    "coach": "Jim Tomsula",
+    "from": 2015,
+    "to": 2015,
+    "interim": false,
+    "regular": {
+      "w": 5,
+      "l": 11,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "SF",
+    "coach": "Chip Kelly",
+    "from": 2016,
+    "to": 2016,
+    "interim": false,
+    "regular": {
+      "w": 2,
+      "l": 14,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "SF",
+    "coach": "Kyle Shanahan",
+    "from": 2017,
+    "to": null,
+    "interim": false,
+    "regular": {
+      "w": 85,
+      "l": 67,
+      "t": 0
+    },
+    "playoff": {
+      "w": 9,
+      "l": 5
+    },
+    "note": "Record is through the 2025 season; 2026 games are not included."
+  },
+  {
+    "franchise": "TB",
+    "coach": "John McKay",
+    "from": 1976,
+    "to": 1984,
+    "interim": false,
+    "regular": {
+      "w": 44,
+      "l": 88,
+      "t": 1
+    },
+    "playoff": {
+      "w": 1,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "TB",
+    "coach": "Leeman Bennett",
+    "from": 1985,
+    "to": 1986,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 28,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "TB",
+    "coach": "Ray Perkins",
+    "from": 1987,
+    "to": 1990,
+    "interim": false,
+    "regular": {
+      "w": 19,
+      "l": 41,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "TB",
+    "coach": "Richard Williamson",
+    "from": 1990,
+    "to": 1991,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 15,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Began as interim head coach in 1990 after Ray Perkins left, then was retained as head coach."
+  },
+  {
+    "franchise": "TB",
+    "coach": "Sam Wyche",
+    "from": 1992,
+    "to": 1995,
+    "interim": false,
+    "regular": {
+      "w": 23,
+      "l": 41,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "TB",
+    "coach": "Tony Dungy",
+    "from": 1996,
+    "to": 2001,
+    "interim": false,
+    "regular": {
+      "w": 54,
+      "l": 42,
+      "t": 0
+    },
+    "playoff": {
+      "w": 2,
+      "l": 4
+    },
+    "note": null
+  },
+  {
+    "franchise": "TB",
+    "coach": "Jon Gruden",
+    "from": 2002,
+    "to": 2008,
+    "interim": false,
+    "regular": {
+      "w": 57,
+      "l": 55,
+      "t": 0
+    },
+    "playoff": {
+      "w": 3,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "TB",
+    "coach": "Raheem Morris",
+    "from": 2009,
+    "to": 2011,
+    "interim": false,
+    "regular": {
+      "w": 17,
+      "l": 31,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "TB",
+    "coach": "Greg Schiano",
+    "from": 2012,
+    "to": 2013,
+    "interim": false,
+    "regular": {
+      "w": 11,
+      "l": 21,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "TB",
+    "coach": "Lovie Smith",
+    "from": 2014,
+    "to": 2015,
+    "interim": false,
+    "regular": {
+      "w": 8,
+      "l": 24,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "TB",
+    "coach": "Dirk Koetter",
+    "from": 2016,
+    "to": 2018,
+    "interim": false,
+    "regular": {
+      "w": 19,
+      "l": 29,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "TB",
+    "coach": "Bruce Arians",
+    "from": 2019,
+    "to": 2021,
+    "interim": false,
+    "regular": {
+      "w": 31,
+      "l": 18,
+      "t": 0
+    },
+    "playoff": {
+      "w": 5,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "TB",
+    "coach": "Todd Bowles",
+    "from": 2022,
+    "to": null,
+    "interim": false,
+    "regular": {
+      "w": 35,
+      "l": 33,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 3
+    },
+    "note": "Record is through the 2025 season; 2026 games are not included."
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Lou Rymkus",
+    "from": 1960,
+    "to": 1961,
+    "interim": false,
+    "regular": {
+      "w": 11,
+      "l": 7,
+      "t": 1
+    },
+    "playoff": {
+      "w": 1,
+      "l": 0
+    },
+    "note": null
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Wally Lemm",
+    "from": 1961,
+    "to": 1961,
+    "interim": false,
+    "regular": {
+      "w": 9,
+      "l": 0,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 0
+    },
+    "note": "Succeeded Lou Rymkus during the 1961 season."
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Pop Ivy",
+    "from": 1962,
+    "to": 1963,
+    "interim": false,
+    "regular": {
+      "w": 17,
+      "l": 11,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Sammy Baugh",
+    "from": 1964,
+    "to": 1964,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 10,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Hugh Taylor",
+    "from": 1965,
+    "to": 1965,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 10,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Wally Lemm",
+    "from": 1966,
+    "to": 1970,
+    "interim": false,
+    "regular": {
+      "w": 28,
+      "l": 38,
+      "t": 4
+    },
+    "playoff": {
+      "w": 0,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Ed Hughes",
+    "from": 1971,
+    "to": 1971,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 9,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Bill Peterson",
+    "from": 1972,
+    "to": 1973,
+    "interim": false,
+    "regular": {
+      "w": 1,
+      "l": 18,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Sid Gillman",
+    "from": 1973,
+    "to": 1974,
+    "interim": false,
+    "regular": {
+      "w": 8,
+      "l": 15,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Succeeded Bill Peterson during the 1973 season."
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Bum Phillips",
+    "from": 1975,
+    "to": 1980,
+    "interim": false,
+    "regular": {
+      "w": 55,
+      "l": 35,
+      "t": 0
+    },
+    "playoff": {
+      "w": 4,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Ed Biles",
+    "from": 1981,
+    "to": 1983,
+    "interim": false,
+    "regular": {
+      "w": 8,
+      "l": 23,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Chuck Studley",
+    "from": 1983,
+    "to": 1983,
+    "interim": true,
+    "regular": {
+      "w": 2,
+      "l": 8,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Ed Biles during the 1983 season."
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Hugh Campbell",
+    "from": 1984,
+    "to": 1985,
+    "interim": false,
+    "regular": {
+      "w": 8,
+      "l": 22,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Jerry Glanville",
+    "from": 1985,
+    "to": 1989,
+    "interim": false,
+    "regular": {
+      "w": 33,
+      "l": 32,
+      "t": 0
+    },
+    "playoff": {
+      "w": 2,
+      "l": 3
+    },
+    "note": "Succeeded Hugh Campbell during the 1985 season."
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Jack Pardee",
+    "from": 1990,
+    "to": 1994,
+    "interim": false,
+    "regular": {
+      "w": 43,
+      "l": 31,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 4
+    },
+    "note": null
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Jeff Fisher",
+    "from": 1994,
+    "to": 2010,
+    "interim": false,
+    "regular": {
+      "w": 142,
+      "l": 120,
+      "t": 0
+    },
+    "playoff": {
+      "w": 5,
+      "l": 6
+    },
+    "note": "Continuous tenure spanning the Houston Oilers, Tennessee Oilers and Tennessee Titans."
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Mike Munchak",
+    "from": 2011,
+    "to": 2013,
+    "interim": false,
+    "regular": {
+      "w": 22,
+      "l": 26,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Ken Whisenhunt",
+    "from": 2014,
+    "to": 2015,
+    "interim": false,
+    "regular": {
+      "w": 3,
+      "l": 20,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Mike Mularkey",
+    "from": 2015,
+    "to": 2017,
+    "interim": false,
+    "regular": {
+      "w": 20,
+      "l": 21,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": "Began as interim head coach in 2015 after Ken Whisenhunt left, then was retained as head coach."
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Mike Vrabel",
+    "from": 2018,
+    "to": 2023,
+    "interim": false,
+    "regular": {
+      "w": 54,
+      "l": 45,
+      "t": 0
+    },
+    "playoff": {
+      "w": 2,
+      "l": 3
+    },
+    "note": null
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Brian Callahan",
+    "from": 2024,
+    "to": 2025,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 19,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Mike McCoy",
+    "from": 2025,
+    "to": 2025,
+    "interim": true,
+    "regular": {
+      "w": 2,
+      "l": 9,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Brian Callahan during the 2025 season."
+  },
+  {
+    "franchise": "TEN",
+    "coach": "Robert Saleh",
+    "from": 2026,
+    "to": null,
+    "interim": false,
+    "regular": null,
+    "playoff": null,
+    "note": "Hired for the 2026 season; no games coached with this franchise before 2026, so no record is listed yet."
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Lud Wray",
+    "from": 1932,
+    "to": 1932,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 4,
+      "t": 2
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Lone Star Dietz",
+    "from": 1933,
+    "to": 1934,
+    "interim": false,
+    "regular": {
+      "w": 11,
+      "l": 11,
+      "t": 2
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Eddie Casey",
+    "from": 1935,
+    "to": 1935,
+    "interim": false,
+    "regular": {
+      "w": 2,
+      "l": 8,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Ray Flaherty",
+    "from": 1936,
+    "to": 1942,
+    "interim": false,
+    "regular": {
+      "w": 54,
+      "l": 21,
+      "t": 3
+    },
+    "playoff": {
+      "w": 2,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Dutch Bergman",
+    "from": 1943,
+    "to": 1943,
+    "interim": false,
+    "regular": {
+      "w": 6,
+      "l": 3,
+      "t": 1
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Dudley DeGroot",
+    "from": 1944,
+    "to": 1945,
+    "interim": false,
+    "regular": {
+      "w": 14,
+      "l": 5,
+      "t": 1
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Turk Edwards",
+    "from": 1946,
+    "to": 1948,
+    "interim": false,
+    "regular": {
+      "w": 16,
+      "l": 18,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "John Whelchel",
+    "from": 1949,
+    "to": 1949,
+    "interim": false,
+    "regular": {
+      "w": 3,
+      "l": 3,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Herman Ball",
+    "from": 1949,
+    "to": 1951,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 16,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Succeeded John Whelchel during the 1949 season."
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Dick Todd",
+    "from": 1951,
+    "to": 1951,
+    "interim": true,
+    "regular": {
+      "w": 5,
+      "l": 4,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Herman Ball during the 1951 season."
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Curly Lambeau",
+    "from": 1952,
+    "to": 1953,
+    "interim": false,
+    "regular": {
+      "w": 10,
+      "l": 13,
+      "t": 1
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Joe Kuharich",
+    "from": 1954,
+    "to": 1958,
+    "interim": false,
+    "regular": {
+      "w": 26,
+      "l": 32,
+      "t": 2
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Mike Nixon",
+    "from": 1959,
+    "to": 1960,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 18,
+      "t": 2
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Bill McPeak",
+    "from": 1961,
+    "to": 1965,
+    "interim": false,
+    "regular": {
+      "w": 21,
+      "l": 46,
+      "t": 3
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Otto Graham",
+    "from": 1966,
+    "to": 1968,
+    "interim": false,
+    "regular": {
+      "w": 17,
+      "l": 22,
+      "t": 3
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Vince Lombardi",
+    "from": 1969,
+    "to": 1969,
+    "interim": false,
+    "regular": {
+      "w": 7,
+      "l": 5,
+      "t": 2
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Bill Austin",
+    "from": 1970,
+    "to": 1970,
+    "interim": false,
+    "regular": {
+      "w": 6,
+      "l": 8,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "George Allen",
+    "from": 1971,
+    "to": 1977,
+    "interim": false,
+    "regular": {
+      "w": 67,
+      "l": 30,
+      "t": 1
+    },
+    "playoff": {
+      "w": 2,
+      "l": 5
+    },
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Jack Pardee",
+    "from": 1978,
+    "to": 1980,
+    "interim": false,
+    "regular": {
+      "w": 24,
+      "l": 24,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Joe Gibbs",
+    "from": 1981,
+    "to": 1992,
+    "interim": false,
+    "regular": {
+      "w": 124,
+      "l": 60,
+      "t": 0
+    },
+    "playoff": {
+      "w": 16,
+      "l": 5
+    },
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Richie Petitbon",
+    "from": 1993,
+    "to": 1993,
+    "interim": false,
+    "regular": {
+      "w": 4,
+      "l": 12,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Norv Turner",
+    "from": 1994,
+    "to": 2000,
+    "interim": false,
+    "regular": {
+      "w": 49,
+      "l": 59,
+      "t": 1
+    },
+    "playoff": {
+      "w": 1,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Terry Robiskie",
+    "from": 2000,
+    "to": 2000,
+    "interim": true,
+    "regular": {
+      "w": 1,
+      "l": 2,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Norv Turner during the 2000 season."
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Marty Schottenheimer",
+    "from": 2001,
+    "to": 2001,
+    "interim": false,
+    "regular": {
+      "w": 8,
+      "l": 8,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Steve Spurrier",
+    "from": 2002,
+    "to": 2003,
+    "interim": false,
+    "regular": {
+      "w": 12,
+      "l": 20,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Joe Gibbs",
+    "from": 2004,
+    "to": 2007,
+    "interim": false,
+    "regular": {
+      "w": 30,
+      "l": 34,
+      "t": 0
+    },
+    "playoff": {
+      "w": 1,
+      "l": 2
+    },
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Jim Zorn",
+    "from": 2008,
+    "to": 2009,
+    "interim": false,
+    "regular": {
+      "w": 12,
+      "l": 20,
+      "t": 0
+    },
+    "playoff": null,
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Mike Shanahan",
+    "from": 2010,
+    "to": 2013,
+    "interim": false,
+    "regular": {
+      "w": 24,
+      "l": 40,
+      "t": 0
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Jay Gruden",
+    "from": 2014,
+    "to": 2019,
+    "interim": false,
+    "regular": {
+      "w": 35,
+      "l": 49,
+      "t": 1
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Bill Callahan",
+    "from": 2019,
+    "to": 2019,
+    "interim": true,
+    "regular": {
+      "w": 3,
+      "l": 8,
+      "t": 0
+    },
+    "playoff": null,
+    "note": "Took over from Jay Gruden during the 2019 season."
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Ron Rivera",
+    "from": 2020,
+    "to": 2023,
+    "interim": false,
+    "regular": {
+      "w": 26,
+      "l": 40,
+      "t": 1
+    },
+    "playoff": {
+      "w": 0,
+      "l": 1
+    },
+    "note": null
+  },
+  {
+    "franchise": "WAS",
+    "coach": "Dan Quinn",
+    "from": 2024,
+    "to": null,
+    "interim": false,
+    "regular": {
+      "w": 17,
+      "l": 17,
+      "t": 0
+    },
+    "playoff": {
+      "w": 2,
+      "l": 1
+    },
+    "note": "Record is through the 2025 season; 2026 games are not included."
+  }
+]

@@ -54,13 +54,13 @@ export async function upsertRows(
     for (let attempt = 1; ; attempt++) {
       const { error } = await untyped(ctx.db).from(table).upsert(batch, { onConflict });
       if (!error) return;
-      // Network blips and gateway errors are worth retrying; constraint violations are not.
-      const transient = /fetch failed|timeout|ECONNRESET|socket|50[234]|gateway/i.test(`${error.message} ${error.code ?? ""}`);
-      if (!transient || attempt >= 5) {
+      // Network blips and gateway errors are worth retrying; constraint violations (SQLSTATE codes like 23502) are not.
+      const transient = /fetch failed|timeout|ECONNRESET|socket|\b50[234]\b|gateway/i.test(error.message);
+      if (!transient || attempt >= 7) {
         throw new Error(`Upsert into ${table} failed (batch ${index + 1}/${batches.length}): ${error.message}`);
       }
-      ctx.log(`  ${table}: batch ${index + 1} failed (${error.message}); retry ${attempt}/4`);
-      await new Promise((resolve) => setTimeout(resolve, 1500 * attempt));
+      ctx.log(`  ${table}: batch ${index + 1} failed (${error.message}); retry ${attempt}/6`);
+      await new Promise((resolve) => setTimeout(resolve, 2000 * attempt));
     }
   });
 
