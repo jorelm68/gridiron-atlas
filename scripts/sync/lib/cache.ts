@@ -3,6 +3,7 @@ import { dirname, join } from "node:path";
 import { Readable } from "node:stream";
 import { pipeline } from "node:stream/promises";
 import type { ReadableStream } from "node:stream/web";
+import type { SyncContext } from "./types";
 
 const RELEASES = "https://github.com/nflverse/nflverse-data/releases/download";
 export const CACHE_DIR = join(process.cwd(), ".cache", "nflverse");
@@ -41,6 +42,31 @@ export async function nflverseAsset(tag: string, asset: string, { refresh = fals
     refreshedThisRun.add(key);
   }
   return duckPath(path);
+}
+
+/**
+ * Downloads one nflverse asset per season (`<prefix>_<season>.parquet`), 8 at a time, and returns season → path.
+ * The current season is always re-downloaded; if nflverse has not published it yet (HTTP 404) it is left out.
+ */
+export async function nflverseSeasonAssets(
+  ctx: Pick<SyncContext, "currentSeason" | "refresh">,
+  tag: string,
+  prefix: string,
+  seasons: number[],
+): Promise<Map<number, string>> {
+  const files = new Map<number, string>();
+  for (let i = 0; i < seasons.length; i += 8) {
+    await Promise.all(
+      seasons.slice(i, i + 8).map(async (season) => {
+        try {
+          files.set(season, await nflverseAsset(tag, `${prefix}_${season}.parquet`, { refresh: ctx.refresh || season === ctx.currentSeason }));
+        } catch (err) {
+          if (season !== ctx.currentSeason || !(err instanceof Error && err.message.includes("HTTP 404"))) throw err;
+        }
+      }),
+    );
+  }
+  return files;
 }
 
 /**

@@ -282,9 +282,16 @@
   {
     "season": 1997,
     "award": "MVP",
-    "recipient": "Brett Favre ; Barry Sanders",
+    "recipient": "Brett Favre",
     "position": "QB",
     "team": "GB"
+  },
+  {
+    "season": 1997,
+    "award": "MVP",
+    "recipient": "Barry Sanders",
+    "position": "RB",
+    "team": "DET"
   },
   {
     "season": 1998,
@@ -324,9 +331,16 @@
   {
     "season": 2003,
     "award": "MVP",
-    "recipient": "Peyton Manning; Steve McNair",
+    "recipient": "Peyton Manning",
     "position": "QB",
     "team": "IND"
+  },
+  {
+    "season": 2003,
+    "award": "MVP",
+    "recipient": "Steve McNair",
+    "position": "QB",
+    "team": "TEN"
   },
   {
     "season": 2004,
@@ -1752,7 +1766,14 @@
   {
     "season": 1980,
     "award": "DROY",
-    "recipient": "Buddy Curry; Al Richardson",
+    "recipient": "Buddy Curry",
+    "position": "LB",
+    "team": "ATL"
+  },
+  {
+    "season": 1980,
+    "award": "DROY",
+    "recipient": "Al Richardson",
     "position": "LB",
     "team": "ATL"
   },

@@ -7,7 +7,7 @@ import { nodeRealtimeOptions } from "./node-transport";
 const noSession = { persistSession: false, autoRefreshToken: false };
 
 function required(name: string, value: string | undefined): string {
-  if (!value) throw new Error(`Missing ${name}. Copy .env.example to .env.local and fill it in.`);
+  if (!value) throw new Error(`Missing ${name}. Locally: copy .env.example to .env.local and fill it in. Deployed: add it to the host's environment variables (e.g. Vercel → Settings → Environment Variables).`);
   return value;
 }
 

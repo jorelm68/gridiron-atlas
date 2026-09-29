@@ -1,0 +1,1730 @@
+[
+  {
+    "franchise": "ARI",
+    "role": "owner",
+    "person": "Michael Bidwill",
+    "since": 2019,
+    "note": "Owner, chairman and president; has been team president since 2007 and became principal owner after his father Bill Bidwill died in 2019.",
+    "source_url": "https://www.azcardinals.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "ARI",
+    "role": "general_manager",
+    "person": "Monti Ossenfort",
+    "since": 2023,
+    "note": "Named general manager on Jan. 16, 2023.",
+    "source_url": "https://www.azcardinals.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "ARI",
+    "role": "head_coach",
+    "person": "Mike LaFleur",
+    "since": 2026,
+    "note": "Previously Rams offensive coordinator; replaced Jonathan Gannon.",
+    "source_url": "https://www.azcardinals.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "ARI",
+    "role": "offensive_coordinator",
+    "person": "Nathaniel Hackett",
+    "since": 2026,
+    "note": "Previously Dolphins quarterbacks coach; replaced Drew Petzing.",
+    "source_url": "https://www.azcardinals.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "ARI",
+    "role": "defensive_coordinator",
+    "person": "Nick Rallis",
+    "since": 2023,
+    "note": "Retained by new head coach Mike LaFleur.",
+    "source_url": "https://www.azcardinals.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "ARI",
+    "role": "special_teams_coordinator",
+    "person": "Michael Ghobrial",
+    "since": 2026,
+    "note": "Named special teams coordinator on Feb. 13, 2026.",
+    "source_url": "https://www.azcardinals.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "ATL",
+    "role": "owner",
+    "person": "Arthur Blank",
+    "since": 2002,
+    "note": "Owner and chairman.",
+    "source_url": "https://www.atlantafalcons.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "ATL",
+    "role": "president",
+    "person": "Greg Beadles",
+    "since": 2023,
+    "note": "President since 2023; elevated to president and CEO on Jan. 5, 2026, succeeding Rich McKay. Matt Ryan is President of Football (named Jan. 10, 2026).",
+    "source_url": "https://www.atlantafalcons.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "ATL",
+    "role": "general_manager",
+    "person": "Ian Cunningham",
+    "since": 2026,
+    "note": "Named general manager on Jan. 29, 2026; works alongside President of Football Matt Ryan.",
+    "source_url": "https://www.atlantafalcons.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "ATL",
+    "role": "head_coach",
+    "person": "Kevin Stefanski",
+    "since": 2026,
+    "note": "Previously Browns head coach (2020-25); replaced Raheem Morris.",
+    "source_url": "https://www.atlantafalcons.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "ATL",
+    "role": "offensive_coordinator",
+    "person": "Tommy Rees",
+    "since": 2026,
+    "note": "Previously Browns offensive coordinator.",
+    "source_url": "https://www.atlantafalcons.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "ATL",
+    "role": "defensive_coordinator",
+    "person": "Jeff Ulbrich",
+    "since": 2025,
+    "note": "Named defensive coordinator on Jan. 18, 2025; retained by Kevin Stefanski.",
+    "source_url": "https://www.atlantafalcons.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "ATL",
+    "role": "special_teams_coordinator",
+    "person": "Craig Aukerman",
+    "since": 2026,
+    "note": "Named special teams coordinator on Jan. 26, 2026.",
+    "source_url": "https://www.atlantafalcons.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "BAL",
+    "role": "owner",
+    "person": "Steve Bisciotti",
+    "since": 2004,
+    "note": "Owner; bought a minority stake in 2000 and the majority in 2004.",
+    "source_url": "https://www.baltimoreravens.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "BAL",
+    "role": "president",
+    "person": "Sashi Brown",
+    "since": 2023,
+    "note": null,
+    "source_url": "https://www.baltimoreravens.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "BAL",
+    "role": "general_manager",
+    "person": "Eric DeCosta",
+    "since": 2019,
+    "note": "Executive vice president and general manager.",
+    "source_url": "https://www.baltimoreravens.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "BAL",
+    "role": "head_coach",
+    "person": "Jesse Minter",
+    "since": 2026,
+    "note": "Previously Chargers defensive coordinator; replaced John Harbaugh after 18 seasons.",
+    "source_url": "https://www.baltimoreravens.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "BAL",
+    "role": "offensive_coordinator",
+    "person": "Declan Doyle",
+    "since": 2026,
+    "note": "Previously Bears offensive coordinator.",
+    "source_url": "https://www.baltimoreravens.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "BAL",
+    "role": "defensive_coordinator",
+    "person": "Anthony Weaver",
+    "since": 2026,
+    "note": "Previously Dolphins defensive coordinator.",
+    "source_url": "https://www.baltimoreravens.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "BAL",
+    "role": "special_teams_coordinator",
+    "person": "Anthony Levine Sr.",
+    "since": 2026,
+    "note": "Former Ravens safety and special teams assistant; replaced Chris Horton, who left for the Giants.",
+    "source_url": "https://www.baltimoreravens.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "BUF",
+    "role": "owner",
+    "person": "Terry Pegula",
+    "since": 2014,
+    "note": "Owner, CEO and president; co-owned with his wife Kim Pegula.",
+    "source_url": "https://www.buffalobills.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "BUF",
+    "role": "general_manager",
+    "person": "Brandon Beane",
+    "since": 2017,
+    "note": "Title: president of football operations and general manager.",
+    "source_url": "https://www.buffalobills.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "BUF",
+    "role": "head_coach",
+    "person": "Joe Brady",
+    "since": 2026,
+    "note": "Promoted from offensive coordinator; replaced Sean McDermott after nine seasons.",
+    "source_url": "https://www.buffalobills.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "BUF",
+    "role": "offensive_coordinator",
+    "person": "Pete Carmichael Jr.",
+    "since": 2026,
+    "note": "Previously Broncos senior offensive assistant; longtime Saints offensive coordinator.",
+    "source_url": "https://www.buffalobills.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "BUF",
+    "role": "defensive_coordinator",
+    "person": "Jim Leonhard",
+    "since": 2026,
+    "note": "Previously Broncos defensive backs coach.",
+    "source_url": "https://www.buffalobills.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "BUF",
+    "role": "special_teams_coordinator",
+    "person": "Jeff Rodgers",
+    "since": 2026,
+    "note": "Hired on Jan. 31, 2026.",
+    "source_url": "https://www.buffalobills.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "CAR",
+    "role": "owner",
+    "person": "David Tepper",
+    "since": 2018,
+    "note": "Owner and chairman.",
+    "source_url": "https://www.panthers.com/team/ownership_business/"
+  },
+  {
+    "franchise": "CAR",
+    "role": "president",
+    "person": "Kristi Coleman",
+    "since": 2022,
+    "note": "Team president since Feb. 2022; also CEO of Tepper Sports & Entertainment.",
+    "source_url": "https://www.panthers.com/team/ownership_business/"
+  },
+  {
+    "franchise": "CAR",
+    "role": "general_manager",
+    "person": "Dan Morgan",
+    "since": 2024,
+    "note": "Title: president of football operations and general manager.",
+    "source_url": "https://www.panthers.com/team/ownership_business/"
+  },
+  {
+    "franchise": "CAR",
+    "role": "head_coach",
+    "person": "Dave Canales",
+    "since": 2024,
+    "note": null,
+    "source_url": "https://www.panthers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "CAR",
+    "role": "offensive_coordinator",
+    "person": "Brad Idzik",
+    "since": 2024,
+    "note": "Joined Dave Canales' first staff in 2024; takes over play calling in 2026.",
+    "source_url": "https://www.panthers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "CAR",
+    "role": "defensive_coordinator",
+    "person": "Ejiro Evero",
+    "since": 2023,
+    "note": null,
+    "source_url": "https://www.panthers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "CAR",
+    "role": "special_teams_coordinator",
+    "person": "Tracy Smith",
+    "since": 2024,
+    "note": null,
+    "source_url": "https://www.panthers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "CHI",
+    "role": "owner",
+    "person": "George McCaskey",
+    "since": 2011,
+    "note": "Chairman since 2011. Bears are owned by the McCaskey (Halas) family; longtime principal owner Virginia Halas McCaskey died in Feb. 2025.",
+    "source_url": "https://www.chicagobears.com/team/front-office/"
+  },
+  {
+    "franchise": "CHI",
+    "role": "president",
+    "person": "Kevin Warren",
+    "since": 2023,
+    "note": "President and CEO; took over in 2023.",
+    "source_url": "https://www.chicagobears.com/team/front-office/"
+  },
+  {
+    "franchise": "CHI",
+    "role": "general_manager",
+    "person": "Ryan Poles",
+    "since": 2022,
+    "note": null,
+    "source_url": "https://www.chicagobears.com/team/front-office/"
+  },
+  {
+    "franchise": "CHI",
+    "role": "head_coach",
+    "person": "Ben Johnson",
+    "since": 2025,
+    "note": null,
+    "source_url": "https://www.chicagobears.com/team/coaches/"
+  },
+  {
+    "franchise": "CHI",
+    "role": "offensive_coordinator",
+    "person": "Press Taylor",
+    "since": 2026,
+    "note": "Promoted from pass game coordinator; replaced Declan Doyle, who left for the Ravens.",
+    "source_url": "https://www.chicagobears.com/team/coaches/"
+  },
+  {
+    "franchise": "CHI",
+    "role": "defensive_coordinator",
+    "person": "Dennis Allen",
+    "since": 2025,
+    "note": null,
+    "source_url": "https://www.chicagobears.com/team/coaches/"
+  },
+  {
+    "franchise": "CHI",
+    "role": "special_teams_coordinator",
+    "person": "Richard Hightower",
+    "since": 2022,
+    "note": null,
+    "source_url": "https://www.chicagobears.com/team/coaches/"
+  },
+  {
+    "franchise": "CIN",
+    "role": "owner",
+    "person": "Mike Brown",
+    "since": 1991,
+    "note": "Owner and president; succeeded his father, founder Paul Brown.",
+    "source_url": "https://www.bengals.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "CIN",
+    "role": "general_manager",
+    "person": "Duke Tobin",
+    "since": null,
+    "note": "Title is director of player personnel; the Bengals have no formal general manager and Tobin is the de facto GM under owner/president Mike Brown.",
+    "source_url": "https://en.wikipedia.org/wiki/Duke_Tobin"
+  },
+  {
+    "franchise": "CIN",
+    "role": "head_coach",
+    "person": "Zac Taylor",
+    "since": 2019,
+    "note": null,
+    "source_url": "https://www.bengals.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "CIN",
+    "role": "offensive_coordinator",
+    "person": "Dan Pitcher",
+    "since": 2024,
+    "note": null,
+    "source_url": "https://www.bengals.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "CIN",
+    "role": "defensive_coordinator",
+    "person": "Al Golden",
+    "since": 2025,
+    "note": "Previously Notre Dame defensive coordinator (2022-24).",
+    "source_url": "https://www.bengals.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "CIN",
+    "role": "special_teams_coordinator",
+    "person": "Darrin Simmons",
+    "since": 2003,
+    "note": "Also assistant head coach (since 2020).",
+    "source_url": "https://www.bengals.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "CLE",
+    "role": "owner",
+    "person": "Jimmy Haslam",
+    "since": 2012,
+    "note": "Principal owner with his wife Dee Haslam (Haslam Sports Group).",
+    "source_url": "https://www.clevelandbrowns.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "CLE",
+    "role": "president",
+    "person": "Dave Jenkins",
+    "since": 2025,
+    "note": "President of Haslam Sports Group (the Browns' parent company), elevated Aug. 2025; previously Browns chief operating officer.",
+    "source_url": "https://www.clevelandbrowns.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "CLE",
+    "role": "general_manager",
+    "person": "Andrew Berry",
+    "since": 2020,
+    "note": "Executive vice president of football operations and general manager.",
+    "source_url": "https://www.clevelandbrowns.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "CLE",
+    "role": "head_coach",
+    "person": "Todd Monken",
+    "since": 2026,
+    "note": "Second stint with the franchise (Browns offensive coordinator in 2019); previously Ravens offensive coordinator; replaced Kevin Stefanski.",
+    "source_url": "https://www.clevelandbrowns.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "CLE",
+    "role": "offensive_coordinator",
+    "person": "Travis Switzer",
+    "since": 2026,
+    "note": "Previously Ravens run game coordinator.",
+    "source_url": "https://www.clevelandbrowns.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "CLE",
+    "role": "defensive_coordinator",
+    "person": "Mike Rutenberg",
+    "since": 2026,
+    "note": "Replaced Jim Schwartz, who resigned.",
+    "source_url": "https://www.clevelandbrowns.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "CLE",
+    "role": "special_teams_coordinator",
+    "person": "Byron Storer",
+    "since": 2026,
+    "note": null,
+    "source_url": "https://www.clevelandbrowns.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "DAL",
+    "role": "owner",
+    "person": "Jerry Jones",
+    "since": 1989,
+    "note": "Owner, president and general manager.",
+    "source_url": "https://www.dallascowboys.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "DAL",
+    "role": "general_manager",
+    "person": "Jerry Jones",
+    "since": 1989,
+    "note": "Also owner and president; son Stephen Jones is executive vice president and director of player personnel.",
+    "source_url": "https://www.dallascowboys.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "DAL",
+    "role": "head_coach",
+    "person": "Brian Schottenheimer",
+    "since": 2025,
+    "note": null,
+    "source_url": "https://www.dallascowboys.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "DAL",
+    "role": "offensive_coordinator",
+    "person": "Klayton Adams",
+    "since": 2025,
+    "note": null,
+    "source_url": "https://www.dallascowboys.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "DAL",
+    "role": "defensive_coordinator",
+    "person": "Christian Parker",
+    "since": 2026,
+    "note": "Previously Eagles defensive backs coach.",
+    "source_url": "https://www.dallascowboys.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "DAL",
+    "role": "special_teams_coordinator",
+    "person": "Nick Sorensen",
+    "since": 2025,
+    "note": null,
+    "source_url": "https://www.dallascowboys.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "DEN",
+    "role": "owner",
+    "person": "Greg Penner",
+    "since": 2022,
+    "note": "Owner and CEO; leads the Walton-Penner ownership group (Rob Walton, Carrie Walton Penner, Mellody Hobson, Condoleezza Rice, Lewis Hamilton and others).",
+    "source_url": "https://www.denverbroncos.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "DEN",
+    "role": "president",
+    "person": "Damani Leech",
+    "since": 2022,
+    "note": "Named team president on Aug. 11, 2022.",
+    "source_url": "https://www.denverbroncos.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "DEN",
+    "role": "general_manager",
+    "person": "George Paton",
+    "since": 2021,
+    "note": null,
+    "source_url": "https://www.denverbroncos.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "DEN",
+    "role": "head_coach",
+    "person": "Sean Payton",
+    "since": 2023,
+    "note": null,
+    "source_url": "https://www.denverbroncos.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "DEN",
+    "role": "offensive_coordinator",
+    "person": "Davis Webb",
+    "since": 2026,
+    "note": "Promoted from quarterbacks coach after Joe Lombardi was fired.",
+    "source_url": "https://www.denverbroncos.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "DEN",
+    "role": "defensive_coordinator",
+    "person": "Vance Joseph",
+    "since": 2023,
+    "note": null,
+    "source_url": "https://www.denverbroncos.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "DEN",
+    "role": "special_teams_coordinator",
+    "person": "Darren Rizzi",
+    "since": 2025,
+    "note": "Title: assistant head coach and special teams coordinator.",
+    "source_url": "https://www.denverbroncos.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "DET",
+    "role": "owner",
+    "person": "Sheila Ford Hamp",
+    "since": 2020,
+    "note": "Principal owner and chair; succeeded her mother Martha Firestone Ford (Ford family).",
+    "source_url": "https://www.detroitlions.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "DET",
+    "role": "president",
+    "person": "Richard Haddad",
+    "since": 2026,
+    "note": "Named team president and CEO in Aug. 2026 (previously Pistons chief operating officer); succeeds Rod Wood, who retired after 11 seasons.",
+    "source_url": "https://www.detroitlions.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "DET",
+    "role": "general_manager",
+    "person": "Brad Holmes",
+    "since": 2021,
+    "note": "Executive vice president and general manager.",
+    "source_url": "https://www.detroitlions.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "DET",
+    "role": "head_coach",
+    "person": "Dan Campbell",
+    "since": 2021,
+    "note": null,
+    "source_url": "https://www.detroitlions.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "DET",
+    "role": "offensive_coordinator",
+    "person": "Drew Petzing",
+    "since": 2026,
+    "note": "Previously Cardinals offensive coordinator; replaced John Morton.",
+    "source_url": "https://www.detroitlions.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "DET",
+    "role": "defensive_coordinator",
+    "person": "Kelvin Sheppard",
+    "since": 2025,
+    "note": null,
+    "source_url": "https://www.detroitlions.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "DET",
+    "role": "special_teams_coordinator",
+    "person": "Dave Fipp",
+    "since": 2021,
+    "note": null,
+    "source_url": "https://www.detroitlions.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "GB",
+    "role": "owner",
+    "person": "Green Bay Packers, Inc. (community-owned)",
+    "since": null,
+    "note": "Publicly owned, non-profit corporation with no individual principal owner; the board of directors is led by the president and CEO.",
+    "source_url": "https://www.packers.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "GB",
+    "role": "president",
+    "person": "Ed Policy",
+    "since": 2025,
+    "note": "Chairman of the board, president and CEO; succeeded Mark Murphy in July 2025.",
+    "source_url": "https://www.packers.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "GB",
+    "role": "general_manager",
+    "person": "Brian Gutekunst",
+    "since": 2018,
+    "note": null,
+    "source_url": "https://www.packers.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "GB",
+    "role": "head_coach",
+    "person": "Matt LaFleur",
+    "since": 2019,
+    "note": null,
+    "source_url": "https://www.packers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "GB",
+    "role": "offensive_coordinator",
+    "person": "Adam Stenavich",
+    "since": 2022,
+    "note": null,
+    "source_url": "https://www.packers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "GB",
+    "role": "defensive_coordinator",
+    "person": "Jonathan Gannon",
+    "since": 2026,
+    "note": "Previously Cardinals head coach (2023-25).",
+    "source_url": "https://www.packers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "GB",
+    "role": "special_teams_coordinator",
+    "person": "Cam Achord",
+    "since": 2026,
+    "note": null,
+    "source_url": "https://www.packers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "HOU",
+    "role": "owner",
+    "person": "Cal McNair",
+    "since": 2018,
+    "note": "Chair and CEO; took over after his father, founder Bob McNair, died in Nov. 2018.",
+    "source_url": "https://www.houstontexans.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "HOU",
+    "role": "president",
+    "person": "Mike Tomon",
+    "since": 2025,
+    "note": "Named team president on Jan. 27, 2025.",
+    "source_url": "https://www.houstontexans.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "HOU",
+    "role": "general_manager",
+    "person": "Nick Caserio",
+    "since": 2021,
+    "note": "Executive vice president and general manager.",
+    "source_url": "https://www.houstontexans.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "HOU",
+    "role": "head_coach",
+    "person": "DeMeco Ryans",
+    "since": 2023,
+    "note": null,
+    "source_url": "https://www.houstontexans.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "HOU",
+    "role": "offensive_coordinator",
+    "person": "Nick Caley",
+    "since": 2025,
+    "note": null,
+    "source_url": "https://www.houstontexans.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "HOU",
+    "role": "defensive_coordinator",
+    "person": "Matt Burke",
+    "since": 2023,
+    "note": null,
+    "source_url": "https://www.houstontexans.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "HOU",
+    "role": "special_teams_coordinator",
+    "person": "Frank Ross",
+    "since": 2021,
+    "note": null,
+    "source_url": "https://www.houstontexans.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "IND",
+    "role": "owner",
+    "person": "Carlie Irsay-Gordon",
+    "since": 2025,
+    "note": "Owner and CEO; succeeded her father Jim Irsay (died May 2025). Sisters Kalen Jackson and Casey Foyt are also owners.",
+    "source_url": "https://www.colts.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "IND",
+    "role": "general_manager",
+    "person": "Chris Ballard",
+    "since": 2017,
+    "note": null,
+    "source_url": "https://www.colts.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "IND",
+    "role": "head_coach",
+    "person": "Shane Steichen",
+    "since": 2023,
+    "note": null,
+    "source_url": "https://www.colts.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "IND",
+    "role": "offensive_coordinator",
+    "person": "Jim Bob Cooter",
+    "since": 2023,
+    "note": null,
+    "source_url": "https://www.colts.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "IND",
+    "role": "defensive_coordinator",
+    "person": "Lou Anarumo",
+    "since": 2025,
+    "note": null,
+    "source_url": "https://www.colts.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "IND",
+    "role": "special_teams_coordinator",
+    "person": "Brian Mason",
+    "since": 2023,
+    "note": null,
+    "source_url": "https://www.colts.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "JAX",
+    "role": "owner",
+    "person": "Shad Khan",
+    "since": 2012,
+    "note": "Owner (Shahid Khan); son Tony Khan is chief football strategy officer.",
+    "source_url": "https://www.jaguars.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "JAX",
+    "role": "president",
+    "person": "Mark Lamping",
+    "since": 2012,
+    "note": null,
+    "source_url": "https://www.jaguars.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "JAX",
+    "role": "general_manager",
+    "person": "James Gladstone",
+    "since": 2025,
+    "note": "Named general manager on Feb. 21, 2025; Tony Boselli is executive vice president of football operations.",
+    "source_url": "https://www.jaguars.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "JAX",
+    "role": "head_coach",
+    "person": "Liam Coen",
+    "since": 2025,
+    "note": null,
+    "source_url": "https://www.jaguars.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "JAX",
+    "role": "offensive_coordinator",
+    "person": "Grant Udinski",
+    "since": 2025,
+    "note": null,
+    "source_url": "https://www.jaguars.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "JAX",
+    "role": "defensive_coordinator",
+    "person": "Anthony Campanile",
+    "since": 2025,
+    "note": null,
+    "source_url": "https://www.jaguars.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "JAX",
+    "role": "special_teams_coordinator",
+    "person": "Heath Farwell",
+    "since": 2022,
+    "note": "Title: associate head coach and special teams coordinator.",
+    "source_url": "https://www.jaguars.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "KC",
+    "role": "owner",
+    "person": "Clark Hunt",
+    "since": 2006,
+    "note": "Chairman and CEO; the Hunt family owns the team (founder Lamar Hunt died in Dec. 2006).",
+    "source_url": "https://www.chiefs.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "KC",
+    "role": "president",
+    "person": "Mark Donovan",
+    "since": 2011,
+    "note": "Joined as chief operating officer in 2009.",
+    "source_url": "https://www.chiefs.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "KC",
+    "role": "general_manager",
+    "person": "Brett Veach",
+    "since": 2017,
+    "note": null,
+    "source_url": "https://www.chiefs.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "KC",
+    "role": "head_coach",
+    "person": "Andy Reid",
+    "since": 2013,
+    "note": null,
+    "source_url": "https://www.chiefs.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "KC",
+    "role": "offensive_coordinator",
+    "person": "Eric Bieniemy",
+    "since": 2026,
+    "note": "Returns to the role he held 2018-21; previously Bears running backs coach.",
+    "source_url": "https://www.chiefs.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "KC",
+    "role": "defensive_coordinator",
+    "person": "Steve Spagnuolo",
+    "since": 2019,
+    "note": null,
+    "source_url": "https://www.chiefs.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "KC",
+    "role": "special_teams_coordinator",
+    "person": "Dave Toub",
+    "since": 2013,
+    "note": "Title: assistant head coach and special teams coordinator.",
+    "source_url": "https://www.chiefs.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "LA",
+    "role": "owner",
+    "person": "Stan Kroenke",
+    "since": 2010,
+    "note": "Owner and CEO (Kroenke Sports & Entertainment).",
+    "source_url": "https://www.therams.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "LA",
+    "role": "president",
+    "person": "Kevin Demoff",
+    "since": null,
+    "note": "Rams president; also president of team and media operations for Kroenke Sports & Entertainment (since 2024). Joined the Rams in 2009.",
+    "source_url": "https://www.therams.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "LA",
+    "role": "general_manager",
+    "person": "Les Snead",
+    "since": 2012,
+    "note": null,
+    "source_url": "https://www.therams.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "LA",
+    "role": "head_coach",
+    "person": "Sean McVay",
+    "since": 2017,
+    "note": null,
+    "source_url": "https://www.therams.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "LA",
+    "role": "offensive_coordinator",
+    "person": "Nate Scheelhaase",
+    "since": 2026,
+    "note": "Promoted from pass game coordinator after Mike LaFleur left to become Cardinals head coach.",
+    "source_url": "https://www.therams.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "LA",
+    "role": "defensive_coordinator",
+    "person": "Chris Shula",
+    "since": 2024,
+    "note": null,
+    "source_url": "https://www.therams.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "LA",
+    "role": "special_teams_coordinator",
+    "person": "Bubba Ventrone",
+    "since": 2026,
+    "note": "Goes by Bubba; also credited as Ray Ventrone. First season with the Rams.",
+    "source_url": "https://www.therams.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "LAC",
+    "role": "owner",
+    "person": "Dean Spanos",
+    "since": 1994,
+    "note": "Chairman and owner; took over day-to-day control from his father Alex Spanos in 1994 and full ownership when Alex died in 2018. NBA owner Tom Gores bought a 27% stake in 2024.",
+    "source_url": "https://www.chargers.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "LAC",
+    "role": "president",
+    "person": "John Spanos",
+    "since": null,
+    "note": "Title: president of football operations; A.G. Spanos is president of business operations.",
+    "source_url": "https://www.chargers.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "LAC",
+    "role": "general_manager",
+    "person": "Joe Hortiz",
+    "since": 2024,
+    "note": null,
+    "source_url": "https://www.chargers.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "LAC",
+    "role": "head_coach",
+    "person": "Jim Harbaugh",
+    "since": 2024,
+    "note": null,
+    "source_url": "https://www.chargers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "LAC",
+    "role": "offensive_coordinator",
+    "person": "Mike McDaniel",
+    "since": 2026,
+    "note": "Former Dolphins head coach (2022-25).",
+    "source_url": "https://www.chargers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "LAC",
+    "role": "defensive_coordinator",
+    "person": "Chris O'Leary",
+    "since": 2026,
+    "note": "Hired for 2026 as defensive coordinator.",
+    "source_url": "https://www.chargers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "LAC",
+    "role": "special_teams_coordinator",
+    "person": "Ryan Ficken",
+    "since": 2022,
+    "note": null,
+    "source_url": "https://www.chargers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "LV",
+    "role": "owner",
+    "person": "Mark Davis",
+    "since": 2011,
+    "note": "Owner; succeeded his father Al Davis, who died in Oct. 2011.",
+    "source_url": "https://www.raiders.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "LV",
+    "role": "president",
+    "person": "Sandra Douglass Morgan",
+    "since": 2022,
+    "note": null,
+    "source_url": "https://www.raiders.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "LV",
+    "role": "general_manager",
+    "person": "John Spytek",
+    "since": 2025,
+    "note": null,
+    "source_url": "https://www.raiders.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "LV",
+    "role": "head_coach",
+    "person": "Klint Kubiak",
+    "since": 2026,
+    "note": "Previously Seahawks offensive coordinator; replaced Pete Carroll after one season.",
+    "source_url": "https://www.raiders.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "LV",
+    "role": "offensive_coordinator",
+    "person": "Andrew Janocko",
+    "since": 2026,
+    "note": "Previously Seahawks quarterbacks coach.",
+    "source_url": "https://www.raiders.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "LV",
+    "role": "defensive_coordinator",
+    "person": "Rob Leonard",
+    "since": 2026,
+    "note": "Promoted from run game coordinator.",
+    "source_url": "https://www.raiders.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "LV",
+    "role": "special_teams_coordinator",
+    "person": "Joe DeCamillis",
+    "since": 2026,
+    "note": null,
+    "source_url": "https://www.raiders.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "MIA",
+    "role": "owner",
+    "person": "Stephen Ross",
+    "since": 2009,
+    "note": "Chairman and owner; bought a 50% stake in 2008 and full control in 2009.",
+    "source_url": "https://www.miamidolphins.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "MIA",
+    "role": "president",
+    "person": "Daniel Sillman",
+    "since": 2026,
+    "note": "CEO of Ross Sports & Entertainment (Aug. 2026), overseeing Dolphins football operations; replaced Tom Garfinkel as president/CEO. Sillman is Stephen Ross's son-in-law.",
+    "source_url": "https://www.miamidolphins.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "MIA",
+    "role": "general_manager",
+    "person": "Jon-Eric Sullivan",
+    "since": 2026,
+    "note": null,
+    "source_url": "https://www.miamidolphins.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "MIA",
+    "role": "head_coach",
+    "person": "Jeff Hafley",
+    "since": 2026,
+    "note": "Previously Packers defensive coordinator; replaced Mike McDaniel.",
+    "source_url": "https://www.miamidolphins.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "MIA",
+    "role": "offensive_coordinator",
+    "person": "Bobby Slowik",
+    "since": 2026,
+    "note": "Promoted from pass game coordinator.",
+    "source_url": "https://www.miamidolphins.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "MIA",
+    "role": "defensive_coordinator",
+    "person": "Sean Duggan",
+    "since": 2026,
+    "note": "Previously Packers linebackers coach.",
+    "source_url": "https://www.miamidolphins.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "MIA",
+    "role": "special_teams_coordinator",
+    "person": "Chris Tabor",
+    "since": 2026,
+    "note": "Was the Panthers' interim head coach for 6 games in 2023.",
+    "source_url": "https://www.miamidolphins.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "MIN",
+    "role": "owner",
+    "person": "Zygi Wilf",
+    "since": 2005,
+    "note": "Owner and chairman; the Wilf family (Leonard and Mark Wilf) and partners own the team.",
+    "source_url": "https://www.vikings.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "MIN",
+    "role": "president",
+    "person": "Mark Wilf",
+    "since": null,
+    "note": "Owner and president.",
+    "source_url": "https://www.vikings.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "MIN",
+    "role": "general_manager",
+    "person": "Nolan Teasley",
+    "since": 2026,
+    "note": "Named general manager on June 1, 2026 after Kwesi Adofo-Mensah was fired; previously Seahawks assistant general manager.",
+    "source_url": "https://www.vikings.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "MIN",
+    "role": "head_coach",
+    "person": "Kevin O'Connell",
+    "since": 2022,
+    "note": null,
+    "source_url": "https://www.vikings.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "MIN",
+    "role": "offensive_coordinator",
+    "person": "Wes Phillips",
+    "since": 2022,
+    "note": null,
+    "source_url": "https://www.vikings.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "MIN",
+    "role": "defensive_coordinator",
+    "person": "Brian Flores",
+    "since": 2023,
+    "note": null,
+    "source_url": "https://www.vikings.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "MIN",
+    "role": "special_teams_coordinator",
+    "person": "Matt Daniels",
+    "since": 2022,
+    "note": null,
+    "source_url": "https://www.vikings.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "NE",
+    "role": "owner",
+    "person": "Robert Kraft",
+    "since": 1994,
+    "note": "Chairman and CEO of the Kraft Group.",
+    "source_url": "https://www.patriots.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "NE",
+    "role": "president",
+    "person": "Jonathan Kraft",
+    "since": null,
+    "note": "President of the Kraft Group.",
+    "source_url": "https://www.patriots.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "NE",
+    "role": "general_manager",
+    "person": "Eliot Wolf",
+    "since": 2024,
+    "note": "Title: executive vice president of player personnel; the Patriots have no formal general manager and Wolf is the de facto GM.",
+    "source_url": "https://en.wikipedia.org/wiki/New_England_Patriots"
+  },
+  {
+    "franchise": "NE",
+    "role": "head_coach",
+    "person": "Mike Vrabel",
+    "since": 2025,
+    "note": null,
+    "source_url": "https://www.patriots.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "NE",
+    "role": "offensive_coordinator",
+    "person": "Josh McDaniels",
+    "since": 2025,
+    "note": "Third stint as Patriots offensive coordinator (previously 2006-08 and 2012-21).",
+    "source_url": "https://www.patriots.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "NE",
+    "role": "defensive_coordinator",
+    "person": "Zak Kuhr",
+    "since": 2026,
+    "note": null,
+    "source_url": "https://www.patriots.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "NE",
+    "role": "special_teams_coordinator",
+    "person": "Jeremy Springer",
+    "since": 2024,
+    "note": null,
+    "source_url": "https://www.patriots.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "NO",
+    "role": "owner",
+    "person": "Gayle Benson",
+    "since": 2018,
+    "note": "Owner and CEO; inherited the team from her husband Tom Benson, who died in March 2018.",
+    "source_url": "https://www.neworleanssaints.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "NO",
+    "role": "president",
+    "person": "Dennis Lauscha",
+    "since": null,
+    "note": "Saints and Pelicans president.",
+    "source_url": "https://www.neworleanssaints.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "NO",
+    "role": "general_manager",
+    "person": "Mickey Loomis",
+    "since": 2002,
+    "note": "Executive vice president and general manager.",
+    "source_url": "https://www.neworleanssaints.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "NO",
+    "role": "head_coach",
+    "person": "Kellen Moore",
+    "since": 2025,
+    "note": null,
+    "source_url": "https://www.neworleanssaints.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "NO",
+    "role": "offensive_coordinator",
+    "person": "Doug Nussmeier",
+    "since": 2025,
+    "note": null,
+    "source_url": "https://www.neworleanssaints.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "NO",
+    "role": "defensive_coordinator",
+    "person": "Brandon Staley",
+    "since": 2025,
+    "note": null,
+    "source_url": "https://www.neworleanssaints.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "NO",
+    "role": "special_teams_coordinator",
+    "person": "Phil Galiano",
+    "since": 2025,
+    "note": null,
+    "source_url": "https://www.neworleanssaints.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "NYG",
+    "role": "owner",
+    "person": "John Mara",
+    "since": 2005,
+    "note": "President and CEO and co-owner; the Giants are owned by the Mara and Tisch families (Steve Tisch is chairman and executive vice president).",
+    "source_url": "https://www.giants.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "NYG",
+    "role": "general_manager",
+    "person": "Joe Schoen",
+    "since": 2022,
+    "note": "Senior vice president and general manager.",
+    "source_url": "https://www.giants.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "NYG",
+    "role": "head_coach",
+    "person": "John Harbaugh",
+    "since": 2026,
+    "note": "Previously Ravens head coach (2008-25); replaced Brian Daboll.",
+    "source_url": "https://www.giants.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "NYG",
+    "role": "offensive_coordinator",
+    "person": "Matt Nagy",
+    "since": 2026,
+    "note": "Previously Chiefs offensive coordinator.",
+    "source_url": "https://www.giants.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "NYG",
+    "role": "defensive_coordinator",
+    "person": "Dennard Wilson",
+    "since": 2026,
+    "note": "Previously Titans defensive coordinator.",
+    "source_url": "https://www.giants.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "NYG",
+    "role": "special_teams_coordinator",
+    "person": "Chris Horton",
+    "since": 2026,
+    "note": "Title: assistant head coach and special teams coordinator; previously Ravens special teams coordinator (2020-25).",
+    "source_url": "https://www.giants.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "NYJ",
+    "role": "owner",
+    "person": "Woody Johnson",
+    "since": 2000,
+    "note": "Owner and chairman; his brother Christopher Johnson is vice chairman.",
+    "source_url": "https://www.newyorkjets.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "NYJ",
+    "role": "president",
+    "person": "Hymie Elhai",
+    "since": 2019,
+    "note": null,
+    "source_url": "https://www.newyorkjets.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "NYJ",
+    "role": "general_manager",
+    "person": "Darren Mougey",
+    "since": 2026,
+    "note": "Previously Broncos assistant general manager; succeeds Joe Douglas.",
+    "source_url": "https://www.newyorkjets.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "NYJ",
+    "role": "head_coach",
+    "person": "Aaron Glenn",
+    "since": 2025,
+    "note": null,
+    "source_url": "https://www.newyorkjets.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "NYJ",
+    "role": "offensive_coordinator",
+    "person": "Frank Reich",
+    "since": 2026,
+    "note": "Former Panthers and Colts head coach.",
+    "source_url": "https://www.newyorkjets.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "NYJ",
+    "role": "defensive_coordinator",
+    "person": "Brian Duker",
+    "since": 2026,
+    "note": "Previously Dolphins pass game coordinator.",
+    "source_url": "https://www.newyorkjets.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "NYJ",
+    "role": "special_teams_coordinator",
+    "person": "Chris Banjo",
+    "since": 2025,
+    "note": null,
+    "source_url": "https://www.newyorkjets.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "PHI",
+    "role": "owner",
+    "person": "Jeffrey Lurie",
+    "since": 1994,
+    "note": "Chairman and CEO.",
+    "source_url": "https://www.philadelphiaeagles.com/team/front-office/"
+  },
+  {
+    "franchise": "PHI",
+    "role": "president",
+    "person": "Don Smolenski",
+    "since": 2012,
+    "note": "Named club president in June 2012.",
+    "source_url": "https://www.philadelphiaeagles.com/team/front-office/"
+  },
+  {
+    "franchise": "PHI",
+    "role": "general_manager",
+    "person": "Howie Roseman",
+    "since": 2010,
+    "note": "Executive vice president and general manager.",
+    "source_url": "https://www.philadelphiaeagles.com/team/front-office/"
+  },
+  {
+    "franchise": "PHI",
+    "role": "head_coach",
+    "person": "Nick Sirianni",
+    "since": 2021,
+    "note": null,
+    "source_url": "https://www.philadelphiaeagles.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "PHI",
+    "role": "offensive_coordinator",
+    "person": "Sean Mannion",
+    "since": 2026,
+    "note": "Previously Packers quarterbacks coach.",
+    "source_url": "https://www.philadelphiaeagles.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "PHI",
+    "role": "defensive_coordinator",
+    "person": "Vic Fangio",
+    "since": 2025,
+    "note": null,
+    "source_url": "https://www.philadelphiaeagles.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "PHI",
+    "role": "special_teams_coordinator",
+    "person": "Michael Clay",
+    "since": 2021,
+    "note": null,
+    "source_url": "https://www.philadelphiaeagles.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "PIT",
+    "role": "owner",
+    "person": "Art Rooney II",
+    "since": null,
+    "note": "Owner and president; the Rooney family owns the team. Has been team president since 2003.",
+    "source_url": "https://www.steelers.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "PIT",
+    "role": "general_manager",
+    "person": "Omar Khan",
+    "since": 2022,
+    "note": null,
+    "source_url": "https://www.steelers.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "PIT",
+    "role": "head_coach",
+    "person": "Mike McCarthy",
+    "since": 2026,
+    "note": "Previously Cowboys head coach (2020-24); succeeds Mike Tomlin (2007-25).",
+    "source_url": "https://www.steelers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "PIT",
+    "role": "offensive_coordinator",
+    "person": "Brian Angelichio",
+    "since": 2026,
+    "note": "Previously Vikings tight ends coach.",
+    "source_url": "https://www.steelers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "PIT",
+    "role": "defensive_coordinator",
+    "person": "Patrick Graham",
+    "since": 2026,
+    "note": "Previously Raiders defensive coordinator.",
+    "source_url": "https://www.steelers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "PIT",
+    "role": "special_teams_coordinator",
+    "person": "Danny Crossman",
+    "since": 2026,
+    "note": null,
+    "source_url": "https://www.steelers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "SEA",
+    "role": "owner",
+    "person": "Neeru Khosla",
+    "since": 2026,
+    "note": "Controlling owner; the Khosla family purchase from the Paul Allen estate closed in Sept. 2026 (Vinod Khosla is chair, Neal Khosla vice chair).",
+    "source_url": "https://www.seahawks.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "SEA",
+    "role": "president",
+    "person": "Chuck Arnold",
+    "since": 2018,
+    "note": "President of the Seahawks and First & Goal LLC.",
+    "source_url": "https://www.seahawks.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "SEA",
+    "role": "general_manager",
+    "person": "John Schneider",
+    "since": 2010,
+    "note": "Title: president of football operations and general manager.",
+    "source_url": "https://www.seahawks.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "SEA",
+    "role": "head_coach",
+    "person": "Mike Macdonald",
+    "since": 2024,
+    "note": null,
+    "source_url": "https://www.seahawks.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "SEA",
+    "role": "offensive_coordinator",
+    "person": "Brian Fleury",
+    "since": 2026,
+    "note": "Previously 49ers tight ends coach.",
+    "source_url": "https://www.seahawks.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "SEA",
+    "role": "defensive_coordinator",
+    "person": "Aden Durde",
+    "since": 2024,
+    "note": null,
+    "source_url": "https://www.seahawks.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "SEA",
+    "role": "special_teams_coordinator",
+    "person": "Jay Harbaugh",
+    "since": 2024,
+    "note": null,
+    "source_url": "https://www.seahawks.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "SF",
+    "role": "owner",
+    "person": "Jed York",
+    "since": null,
+    "note": "Principal owner; the York family (Denise DeBartolo York and John York are co-chairs) controls the team.",
+    "source_url": "https://www.49ers.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "SF",
+    "role": "president",
+    "person": "Al Guido",
+    "since": 2016,
+    "note": "Team president since 2016; named CEO in Feb. 2026.",
+    "source_url": "https://www.49ers.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "SF",
+    "role": "general_manager",
+    "person": "John Lynch",
+    "since": 2017,
+    "note": "Title: president of football operations and general manager.",
+    "source_url": "https://www.49ers.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "SF",
+    "role": "head_coach",
+    "person": "Kyle Shanahan",
+    "since": 2017,
+    "note": null,
+    "source_url": "https://www.49ers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "SF",
+    "role": "offensive_coordinator",
+    "person": "Klay Kubiak",
+    "since": 2025,
+    "note": "Promoted on Jan. 8, 2025; Kyle Shanahan calls the plays. His brother Klint is now the Raiders' head coach.",
+    "source_url": "https://www.49ers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "SF",
+    "role": "defensive_coordinator",
+    "person": "Raheem Morris",
+    "since": 2026,
+    "note": "Former Falcons head coach (2024-25) and Rams defensive coordinator.",
+    "source_url": "https://www.49ers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "SF",
+    "role": "special_teams_coordinator",
+    "person": "Brant Boyer",
+    "since": 2025,
+    "note": null,
+    "source_url": "https://www.49ers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "TB",
+    "role": "owner",
+    "person": "Glazer family",
+    "since": 1995,
+    "note": "Co-chairmen Bryan, Edward and Joel Glazer own the team with siblings Darcie, Avram and Kevin; the family bought the team in 1995 (Malcolm Glazer died in 2014).",
+    "source_url": "https://www.buccaneers.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "TB",
+    "role": "general_manager",
+    "person": "Jason Licht",
+    "since": 2014,
+    "note": null,
+    "source_url": "https://www.buccaneers.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "TB",
+    "role": "head_coach",
+    "person": "Todd Bowles",
+    "since": 2022,
+    "note": null,
+    "source_url": "https://www.buccaneers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "TB",
+    "role": "offensive_coordinator",
+    "person": "Zac Robinson",
+    "since": 2026,
+    "note": "Previously Falcons offensive coordinator.",
+    "source_url": "https://www.buccaneers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "TB",
+    "role": "defensive_coordinator",
+    "person": "Todd Bowles",
+    "since": null,
+    "note": "Tampa Bay lists no separate defensive coordinator on its 2026 staff; head coach Todd Bowles (defensive coordinator 2019-21) oversees the defense. Unconfirmed as a formal title.",
+    "source_url": "https://www.buccaneers.com/team/coaches-roster/todd-bowles"
+  },
+  {
+    "franchise": "TB",
+    "role": "special_teams_coordinator",
+    "person": "Danny Smith",
+    "since": 2026,
+    "note": null,
+    "source_url": "https://www.buccaneers.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "TEN",
+    "role": "owner",
+    "person": "Amy Adams Strunk",
+    "since": 2015,
+    "note": "Controlling owner; the Adams family has owned the team since founder Bud Adams (died in 2013). Kenneth Adams IV is co-chairman.",
+    "source_url": "https://www.tennesseetitans.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "TEN",
+    "role": "president",
+    "person": "Burke Nihill",
+    "since": 2020,
+    "note": "President and CEO.",
+    "source_url": "https://www.tennesseetitans.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "TEN",
+    "role": "general_manager",
+    "person": "Mike Borgonzi",
+    "since": 2025,
+    "note": "Named general manager on Jan. 17, 2025; previously Chiefs assistant general manager.",
+    "source_url": "https://www.tennesseetitans.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "TEN",
+    "role": "head_coach",
+    "person": "Robert Saleh",
+    "since": 2026,
+    "note": "Previously 49ers defensive coordinator; hired after Brian Callahan was fired in 2025.",
+    "source_url": "https://www.tennesseetitans.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "TEN",
+    "role": "offensive_coordinator",
+    "person": "Brian Daboll",
+    "since": 2026,
+    "note": "Former Giants head coach (2022-25).",
+    "source_url": "https://www.tennesseetitans.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "TEN",
+    "role": "defensive_coordinator",
+    "person": "Gus Bradley",
+    "since": 2026,
+    "note": "Previously 49ers assistant head coach.",
+    "source_url": "https://www.tennesseetitans.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "TEN",
+    "role": "special_teams_coordinator",
+    "person": "John Fassel",
+    "since": 2025,
+    "note": "Title: assistant head coach and special teams coordinator (promoted in 2026).",
+    "source_url": "https://www.tennesseetitans.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "WAS",
+    "role": "owner",
+    "person": "Josh Harris",
+    "since": 2023,
+    "note": "Managing partner; leads the ownership group that bought the team in 2023.",
+    "source_url": "https://www.commanders.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "WAS",
+    "role": "president",
+    "person": "Mark Clouse",
+    "since": 2025,
+    "note": "Former Campbell's CEO; hired Dec. 2024, started in Jan. 2025.",
+    "source_url": "https://www.commanders.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "WAS",
+    "role": "general_manager",
+    "person": "Adam Peters",
+    "since": 2024,
+    "note": null,
+    "source_url": "https://www.commanders.com/team/front-office-roster/"
+  },
+  {
+    "franchise": "WAS",
+    "role": "head_coach",
+    "person": "Dan Quinn",
+    "since": 2024,
+    "note": null,
+    "source_url": "https://www.commanders.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "WAS",
+    "role": "offensive_coordinator",
+    "person": "David Blough",
+    "since": 2026,
+    "note": "Promoted from quarterbacks coach.",
+    "source_url": "https://www.commanders.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "WAS",
+    "role": "defensive_coordinator",
+    "person": "Daronte Jones",
+    "since": 2026,
+    "note": "Previously Vikings defensive backs coach.",
+    "source_url": "https://www.commanders.com/team/coaches-roster/"
+  },
+  {
+    "franchise": "WAS",
+    "role": "special_teams_coordinator",
+    "person": "Larry Izzo",
+    "since": 2024,
+    "note": null,
+    "source_url": "https://www.commanders.com/team/coaches-roster/"
+  }
+]

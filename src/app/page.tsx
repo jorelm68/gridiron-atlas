@@ -1,23 +1,22 @@
-import { ArrowRightIcon } from "lucide-react";
-import Link from "next/link";
-import { Button } from "@/components/ui/button";
+import type { Metadata } from "next";
+import { AtlasExperience } from "@/components/atlas/atlas-experience";
+import { getAtlasTeams } from "@/lib/data/atlas";
+import { getDataFreshness } from "@/lib/data/freshness";
 
-// Placeholder home until the 3D Atlas map lands (Phase 1).
-export default function HomePage() {
+export const revalidate = 3600;
+export const metadata: Metadata = { title: "The Atlas" };
+
+export default async function HomePage() {
+  const [teams, { currentSeason, latestWeek }] = await Promise.all([getAtlasTeams(), getDataFreshness()]);
+
   return (
-    <div className="mx-auto flex w-full max-w-7xl flex-1 flex-col justify-center px-4 py-24 sm:px-6">
-      <p className="eyebrow mb-4 text-primary">Gridiron Atlas</p>
-      <h1 className="max-w-3xl text-6xl font-bold text-balance sm:text-7xl">Learn the NFL, one team at a time.</h1>
-      <p className="mt-5 max-w-xl text-lg text-muted-foreground">
-        Every team, stadium, player, and stat — mapped, explained, and quizzable.
+    <div className="mx-auto flex w-full max-w-[1600px] flex-1 flex-col px-4 py-8 sm:px-6">
+      <p className="eyebrow mb-3 text-primary">The Atlas</p>
+      <h1 className="max-w-3xl text-5xl font-bold text-balance sm:text-6xl">Where every NFL team plays</h1>
+      <p className="mt-3 max-w-xl text-muted-foreground">
+        A 3D map of every stadium in the league — hover a beam for the team, click or tap for the full picture.
       </p>
-      <div className="mt-8 flex gap-3">
-        <Button asChild size="lg">
-          <Link href="/teams">
-            Explore the teams <ArrowRightIcon />
-          </Link>
-        </Button>
-      </div>
+      <AtlasExperience teams={teams} currentSeason={currentSeason} latestWeek={latestWeek} />
     </div>
   );
 }

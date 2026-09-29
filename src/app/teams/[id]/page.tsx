@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { DivisionTable } from "@/components/team/division-table";
 import { FranchiseTimeline } from "@/components/team/franchise-timeline";
+import { FrontOfficeCard } from "@/components/team/front-office-card";
 import { NotablePlayers } from "@/components/team/notable-players";
 import { RosterGrid } from "@/components/team/roster-grid";
 import { ScheduleList } from "@/components/team/schedule-list";
@@ -64,10 +65,11 @@ export default async function TeamPage({ params }: PageProps<"/teams/[id]">) {
                         highlightId={franchiseId}
                       />
                     )}
+                    <FrontOfficeCard people={overview.frontOffice} />
                     <FranchiseTimeline eras={overview.eras} notes={overview.franchise.notes} />
                   </div>
                 </div>
-                <NotablePlayers players={notable} teamName={overview.franchise.nickname} />
+                <NotablePlayers hallOfFamers={notable.hallOfFamers} others={notable.others} teamName={overview.franchise.nickname} />
               </div>
             ),
             roster: <RosterGrid players={roster} season={season} />,

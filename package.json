@@ -14,7 +14,7 @@
     "db:push": "supabase db push",
     "db:types": "supabase gen types typescript --linked --schema public > src/lib/supabase/database.types.ts",
     "sync": "tsx scripts/sync/index.ts",
-    "check:seeds": "node scripts/seed-checks/teams.mjs && node scripts/seed-checks/super-bowls-venues.mjs && node scripts/seed-checks/honors.mjs"
+    "check:seeds": "node scripts/seed-checks/teams.mjs && node scripts/seed-checks/super-bowls-venues.mjs && node scripts/seed-checks/honors.mjs && node scripts/seed-checks/coaches.mjs"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.9",
