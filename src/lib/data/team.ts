@@ -34,7 +34,7 @@ export const getTeamOverview = cache(async (franchiseId: string) => {
   const id = franchise.id;
   const db = createServerClient();
 
-  const [eras, tenancies, seasons, superBowls, frontOffice] = await Promise.all([
+  const [eras, tenancies, seasons, superBowls, frontOffice, headCoaches] = await Promise.all([
     db.from("franchise_eras").select("*").eq("franchise_id", id).order("start_season"),
     db
       .from("venue_tenancies")
@@ -47,10 +47,15 @@ export const getTeamOverview = cache(async (franchiseId: string) => {
       .select("number, roman, season, played_on, winner_franchise_id, loser_franchise_id, winner_score, loser_score, venue_name, mvp_name")
       .or(`winner_franchise_id.eq.${id},loser_franchise_id.eq.${id}`)
       .order("number"),
-    db.from("front_office").select("role, person_name, since_season").eq("franchise_id", id),
+    db.from("front_office").select("role, person_name, since_season, note").eq("franchise_id", id),
+    db
+      .from("head_coaches")
+      .select("coach_name, start_season, end_season, regular_wins, regular_losses, regular_ties, playoff_wins, playoff_losses, is_interim")
+      .eq("franchise_id", id)
+      .order("start_season", { ascending: false }),
   ]);
 
-  for (const result of [eras, tenancies, seasons, superBowls, frontOffice]) {
+  for (const result of [eras, tenancies, seasons, superBowls, frontOffice, headCoaches]) {
     if (result.error) throw new Error(`Loading team ${id} failed: ${result.error.message}`);
   }
 
@@ -66,6 +71,7 @@ export const getTeamOverview = cache(async (franchiseId: string) => {
     seasons: seasons.data ?? [],
     superBowls: superBowls.data ?? [],
     frontOffice: frontOffice.data ?? [],
+    headCoaches: headCoaches.data ?? [],
   };
 });
 
@@ -135,17 +141,20 @@ export const getTeamRoster = cache(async (franchiseId: string, season: number): 
 });
 
 /** The franchise's greats: Hall of Famers with real tenure first, then value created for this team, then tenure. */
-export const getNotablePlayers = cache(async (franchiseId: string, limit = 18) => {
-  const { data, error } = await createServerClient()
-    .from("franchise_players")
-    .select("*")
-    .eq("franchise_id", franchiseId)
-    .order("hof_here", { ascending: false })
-    .order("franchise_value", { ascending: false, nullsFirst: false })
-    .order("seasons", { ascending: false })
-    .limit(limit);
-  if (error) throw new Error(`Loading ${franchiseId} notable players failed: ${error.message}`);
-  return data ?? [];
+export const getNotablePlayers = cache(async (franchiseId: string, limit = 12) => {
+  const view = () => createServerClient().from("franchise_players").select("*").eq("franchise_id", franchiseId);
+  const [hallOfFamers, others] = await Promise.all([
+    view().eq("hof_here", true).order("hof_class"),
+    view()
+      .eq("hof_here", false)
+      .order("franchise_value", { ascending: false, nullsFirst: false })
+      .order("seasons", { ascending: false })
+      .limit(limit),
+  ]);
+  for (const result of [hallOfFamers, others]) {
+    if (result.error) throw new Error(`Loading ${franchiseId} notable players failed: ${result.error.message}`);
+  }
+  return { hallOfFamers: hallOfFamers.data ?? [], others: others.data ?? [] };
 });
 
 /** Division rivals' records for a season, ordered by division rank. */

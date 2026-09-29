@@ -96,6 +96,34 @@ export function SeasonHistory({ overview, currentSeason }: { overview: TeamOverv
               </ul>
             )}
           </section>
+          {overview.headCoaches.length > 0 && (
+            <section className="rounded-2xl border bg-card p-5" aria-labelledby="head-coaches">
+              <h2 id="head-coaches" className="mb-3 text-2xl font-semibold">
+                Head coaches
+              </h2>
+              <ol className="max-h-80 space-y-2 overflow-auto pr-1 text-sm">
+                {overview.headCoaches.map((c) => (
+                  <li key={`${c.coach_name}-${c.start_season}`} className="flex items-baseline justify-between gap-3">
+                    <span>
+                      <span className="font-medium">{c.coach_name}</span>
+                      {c.is_interim && <span className="text-xs text-muted-foreground"> (interim)</span>}
+                      <span className="block text-xs text-muted-foreground tabular-nums">
+                        {c.start_season === c.end_season ? c.start_season : `${c.start_season}–${c.end_season ?? "today"}`}
+                      </span>
+                    </span>
+                    {c.regular_wins !== null && (
+                      <span className="shrink-0 text-right tabular-nums text-muted-foreground">
+                        {formatRecord(c.regular_wins, c.regular_losses ?? 0, c.regular_ties ?? 0)}
+                        {!!(c.playoff_wins || c.playoff_losses) && (
+                          <span className="block text-xs">playoffs {c.playoff_wins}–{c.playoff_losses}</span>
+                        )}
+                      </span>
+                    )}
+                  </li>
+                ))}
+              </ol>
+            </section>
+          )}
           <Explainer title="Why win percentage?">
             <p>
               Seasons were 16 games through 2020 and 17 games since 2021, so raw win totals aren&apos;t comparable across
